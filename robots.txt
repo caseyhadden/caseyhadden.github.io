@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://caseyhadden.github.io/sitemap.xml 
