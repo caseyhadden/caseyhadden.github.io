@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://caseyhadden.github.io/sitemap.xml 
+Sitemap: http://caseyhadden.com/sitemap.xml 
