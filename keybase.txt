@@ -1,0 +1,83 @@
+
+==================================================================
+https://keybase.io/caseyhadden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://caseyhadden.com
+  * I am caseyhadden (https://keybase.io/caseyhadden) on keybase.
+  * I have a public key with fingerprint AA31 4436 BC43 EA01 F5B2  DE3C C776 3F33 D2D0 72B8
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "aa314436bc43ea01f5b2de3cc7763f33d2d072b8",
+            "host": "keybase.io",
+            "key_id": "C7763F33D2D072B8",
+            "uid": "8c7ffb4882d8b52bf8d72da4c41a2000",
+            "username": "caseyhadden"
+        },
+        "merkle_root": {
+            "ctime": 1413378566,
+            "hash": "dd51dbca76daae8e59f7055e6cf2de4a68509dd68261fcfc75e2ee052bf0562dbe6611e2eba43a9d81606f662e08e35c31d4c96d243f53b6e1f88a081ec3f80a",
+            "seqno": 78758
+        },
+        "service": {
+            "hostname": "caseyhadden.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1413378683,
+    "expire_in": 157680000,
+    "prev": "0bafa2293abeecd2f4badffc2adb0dcc43ecd1c5f35f24d536c3894bcda6125b",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFlkn1MVWUcx4GAFsqooWYDFU+NQV3YOec5b/eCpIAQIC9Di1wjeM7zPOdyBO65
+nHshrkipEYYtMae2oW0aqDNvKJgoWBoql3ktNKerMXwZS4FUTKQxZ0nnOFu5/nte
+Pr/v8/3+nt/m8GcCggL7a14HFy/oxwLPjckBK1L0ujpK1rCHstVRqEIlDre5csBK
+QtmocuKRoYskqlqMQ8MkcZUr5gljoWqI7lI1h0HRiWIiS9VbTNwsVlSHnehOXTW1
+KAgBw3FAkBEHCKQZhZdZTABCoigABQDMYlpkZcmQLNNc7qdepR5rlqjYOE0z+QwA
+0tl0g081+erHFxISFUXmJInFksyzsiJhkcWQQxwDWZqmTdBF9CeRkKHsKYMYE4dp
+uZLo5RWkRNe0x7mRWzUphmMAECVeEAxT0FVm1GHMM1hGUBQwhEQivFURaZ4nAlKM
+OBwUJJ62YixIrMAoSEEiT1hCaNMPzQsslokgMIxxJkMOQCuWGIEWFEFgCS0RwCPA
+YA5ZBcxyQOGBLBBGkSRISwxBQJFoaKRwkSqHRtlESeSlenOr16iImLbNxv0/XyLS
+Ko0yp665NaRVGJdlbrfTZsZ2e5wG3Em9R+SSJzolsurAxs/992sZA326JYIELBSp
+dao6KVFNghcFyWgybb5DasxpkKECWdYKoEwIwqzCyRArCmIhlmmMzClAmEG8AniF
+5TAPBAQkKycjDAWG5eV/g3KGT2g3JF2q3QHd1Tqh6puCooMDAoMCQkOCzNkNCHvu
++X8GOmllxHRd4cgwPHjo48W//Jp4hJvt7xrM+jpm6b4Pd6aEeY9+fufmeq4k6vLG
+YdEfOjprf29cK/ftibmH8lucSbFDeePD1ecWhs5Z8Fr54pdqu8q/H1q9Y0nPhrUg
+fd1aYf72A9kLfODaJn5G1Lz6t8/uthec9Sb4J/K/Od2YsnTS06OtrmoMWu477o1m
+sr0Fjd2tUYUP25qKX0zwjrfSc9dFNp/f33JmRfOqLwqvbPRw29Tcg/PKVs127vjd
+ym0pit7yMD667crJ2omhzLCZF0+kdrR5Qto7T11rLn3nUW5T7KKprtnTDRciet5d
+ltt3YH7R2KlXl93b/tPl0rv5K3NeuXJ3jT9r65+3cyaOg/G4tp87q2ZOxWe1V9v3
+BC5o6Mi4Wtxt/8Tqa7Dk2VK7P/MfSXj5AfYXfHV660Rmlzv5/bFHzQOW61X65j8G
+Yw6O3sz2Zj9rX9L2Vvzt9E+zNtyK7D3vG0gOnjO1x3u/9bfIgbyR8CWnjvUtum8L
+642VDgf/EElSym8FdgyOjuxeXrlTSeW25eRf+q5j+qoYW8t9oCsf6eN/aT385Llk
+FDzzUXDGg4WZg+2ozVOUGiF8efjSjRste8PrOg//KLUnV4f4rTOu3YlLKE2m+gdq
+37Tcmzzj09t9/ZcDLS/sfcO1K61vzXVcOGvYRvat33W0WI/alGDPPqnPvV+Um+ZL
+SnVKPfF/Aw==
+=zJBL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caseyhadden
+
+==================================================================
