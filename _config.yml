@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://caseyhadden.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://caseyhadden.com
+title: /dev/blog/caseyhadden
+subtitle: 
+author: Casey Hadden
 simple_search: https://www.google.com/search
 description:
 
