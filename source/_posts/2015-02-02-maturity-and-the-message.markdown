@@ -6,10 +6,10 @@ categories:
 ---
 
 One evening we arrived home with stars visible in the night sky.
-[Orion](http://en.wikipedia.org/wiki/Orion_\(constellation\) was just peeking over the
-tree line. As we'd recently attended an event at [Morehead
-Planetarium](http://www.moreheadplanetarium.org/) where they mentioned this particular
-constellation, I took the opportunity to point it out to the family.
+[Orion](http://en.wikipedia.org/wiki/Orion_\(constellation\)) was just peeking
+over the tree line. We'd recently attended an event at 
+[Morehead Planetarium](http://www.moreheadplanetarium.org/) where they mentioned this
+particular constellation, and I took the opportunity to point it out to the family.
 
 The youngest, 2 years old, couldn't make sense of my description. He believed I'd seen a
 lion and was understandably scared. The middle child, 4 years old, dutifully fulfilled her
