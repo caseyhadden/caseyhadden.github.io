@@ -4,7 +4,7 @@
   <title><![CDATA[/dev/blog/caseyhadden]]></title>
   <link href="http://caseyhadden.com/atom.xml" rel="self"/>
   <link href="http://caseyhadden.com/"/>
-  <updated>2015-12-24T22:35:20-05:00</updated>
+  <updated>2016-01-29T08:42:12-05:00</updated>
   <id>http://caseyhadden.com/</id>
   <author>
     <name><![CDATA[Casey Hadden]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Duck Tales]]></title>
+    <link href="http://caseyhadden.com/blog/2016/01/29/duck-tales/"/>
+    <updated>2016-01-29T00:00:00-05:00</updated>
+    <id>http://caseyhadden.com/blog/2016/01/29/duck-tales</id>
+    <content type="html"><![CDATA[<p>Meet Jasper.</p>
+
+<p><img src="http://caseyhadden.com/images/jasper.png"></p>
+
+<p>Jasper lives at my house with 9 of his friends. However, Jasper has a problem - there are
+only 6 hens versus 4 drakes. It&rsquo;s unfortunate, but that ratio doesn&rsquo;t work. You want a
+ratio of 3:1 or more to keep everyone happy and healthy. There are several options to deal
+with this and we choose to list Jasper on
+<a href="http://raleigh.craigslist.org/grd/5395004180.html">craigslist</a>. Now, you can&rsquo;t list the
+duck for free. That has a single predictable outcome; he&rsquo;s dinner. We attach a nominal fee
+and wait with little expectation of finding a taker.</p>
+
+<p>Over two weeks later, we get our first and still only response:</p>
+
+<pre><code>Hi! I was wondering if I could rent your duck for a day. I am willing to pay the full
+price for purchase and return him at the end of the day. We will treat him with the
+utmost care and follow any guidelines you provide us. We would like to use him to
+surprise our friend. He will be constantly monitored. Please let me know if you would be
+willing to rent him.
+</code></pre>
+
+<p>My initial thoughts are rambling and numerous. Is this for real? Are they going to
+mistakenly wire me thousands of dollars to rent a duck in a scam? Is this person&rsquo;s friend
+going to have a transcendental experience like <a href="https://www.youtube.com/watch?v=t5jw3T3Jy70">Kristen Bell</a>?
+How do you come the conclusion that you might find a duck to rent on craigslist?</p>
+
+<p>There is a bit that stands out the most, <strong>He will be constantly monitored</strong>, is a little
+threatening out of context. A farmer once shared with us that the only way to keep goats
+inside their fence was razor wire and towers with snipers. I&rsquo;m now imagining that scene with
+Jasper.  Let&rsquo;s add an ankle monitor to the razor wire and snipers. Just for added safety,
+you see.</p>
+
+<p>It&rsquo;s only later that I realize the potential here. Unfortunately,
+<a href="http://rentaduck.com">rentaduck.com</a> is already owned, though seemingly inactive. Perhaps
+if the initial VC round closes well, we could pry the domain away from its current owner.
+I don&rsquo;t want to count anything before the hatch, but perhaps <a href="http://www.dw.com/en/germanys-latest-craze-slug-eating-ducks-for-rent/a-2739835">there&rsquo;s more</a>
+than just the surprise-a-friend angle here.</p>
+
+<p>To make a long story end, we won&rsquo;t be renting Jasper. But if anyone needs a Cayuga drake
+to add to their flock, I might just have one for you.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Maturity and the Message]]></title>
