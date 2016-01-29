@@ -29,7 +29,7 @@ mistakenly wire me thousands of dollars to rent a duck in a scam? Is this person
 going to have a transcendental experience like [Kristen Bell](https://www.youtube.com/watch?v=t5jw3T3Jy70)?
 How do you come the conclusion that you might find a duck to rent on craigslist? 
 
-There is a bit that stands out the most, **He will be constantly monitored**, is a little
+There is a bit that stands out the most, **He will be constantly monitored**. It is a little
 threatening out of context. A farmer once shared with us that the only way to keep goats
 inside their fence was razor wire and towers with snipers. I'm now imagining that scene with
 Jasper.  Let's add an ankle monitor to the razor wire and snipers. Just for added safety,
