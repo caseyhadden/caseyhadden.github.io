@@ -26,9 +26,9 @@ It's not perfect, but I'm learning!
 
 Here's a couple of pictures of my friends working in class.
 
-{% img http://localhost:4000/images/elfie-1-class.png %}
-{% img http://localhost:4000/images/elfie-2-class.png %}
-{% img http://localhost:4000/images/elfie-3-class.png %}
+{% img http://caseyhadden.com/images/elfie-1-class.png %}
+{% img http://caseyhadden.com/images/elfie-2-class.png %}
+{% img http://caseyhadden.com/images/elfie-3-class.png %}
 
 <script type="text/javascript">
 function changeColor() {
