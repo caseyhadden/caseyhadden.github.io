@@ -10,3 +10,24 @@ fun place to explore when I come back next year!
 Santa helped a bit with the code and the picture!
 
 {% img rotate90 http://caseyhadden.com/images/elfie.jpg 175 300 %}
+
+### Update: 23Dec2016
+
+I've been taking classes back at the north pole to learn how to program the
+computer just like your Dad.
+
+<button onclick="changeColor()">Click me!</button>
+
+<div id="elfie-target" style="elfie-target" style="background:#ffffff;height:200px;width:50%">
+Check out my skills!
+</div>
+
+It's not perfect, but I'm learning!
+
+<script type="text/javascript">
+function changeColor() {
+  var colors = ["#ffffff","blue","red","yellow"];
+  var rand = Math.floor(Math.random()*colors.length);
+  $('#elfie-target').css("background-color", colors[rand]);
+}
+</script>
