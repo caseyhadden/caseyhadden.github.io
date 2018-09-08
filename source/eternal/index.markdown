@@ -19,6 +19,9 @@ output at the bottom. If a card has a value above 4.0, it will be
 into Eternal to further work with your pool and determine which of
 your factions is strongest.
 
+NOTE: At the current time, influence strangers and banners are not
+included in the card value pool. You'll need to include these manually.
+
 <select id="threshold">
   <option value="4.5">4.5</option>
   <option value="4.0">4.0</option>
@@ -38,7 +41,7 @@ your factions is strongest.
 
 <script type="text/javascript">
 var cardsAndValues = []
-$.getJSON("eternal/cards-and-values.json", function(data) {
+$.getJSON("/eternal/cards-and-values.json", function(data) {
     $.each(data, function(index, value) {
         cardsAndValues.push(value)
     })
