@@ -139,7 +139,7 @@ your factions is strongest.</p>
 
 <script type="text/javascript">
 var cardsAndValues = []
-$.getJSON("eternal/cards-and-values.json", function(data) {
+$.getJSON("/eternal/cards-and-values.json", function(data) {
     $.each(data, function(index, value) {
         cardsAndValues.push(value)
     })
