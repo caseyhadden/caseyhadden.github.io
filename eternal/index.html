@@ -173,7 +173,9 @@ function sort() {
     valuedPool = []
     $.each(pool, function(index, value) {
         card = findCard(value)
-        valuedPool.push(card)
+        if (!$.isEmptyObject(card)) {
+            valuedPool.push(card)
+        }
     })
 
     valuedPool.sort(SortByValue).reverse()
