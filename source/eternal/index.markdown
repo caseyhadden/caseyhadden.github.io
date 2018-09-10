@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sealed helper"
-date: 2018-09-07 22:03
+date: 2018-09-07
 ---
 
 This page is intended to help you sort through an Eternal Card Game
@@ -23,12 +23,12 @@ NOTE: At the current time, influence strangers and banners are not
 included in the card value pool. You'll need to include these manually.
 
 <select id="threshold">
-  <option value="4.5">4.5</option>
-  <option value="4.0">4.0</option>
-  <option value="3.5">3.5</option>
-  <option value="3.0" selected="true">3.0</option>
-  <option value="2.5">2.5</option>
-  <option value="2.0">2.0</option>
+  <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
+  <option value="4.0">4.0 - high impact card generating value or tempo</option>
+  <option value="3.5">3.5 - premium card, pulls you into a color</option>
+  <option value="3.0" selected="true">3.0 - good playable, almost always makes cut</option>
+  <option value="2.5">2.5 - solid playable, rarely cut</option>
+  <option value="2.0">2.0 - good filler, sometimes gets cut</option>
 </select>
 <input type="button" value="Sort" onclick="sort()"></input>
 
