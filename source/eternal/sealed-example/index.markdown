@@ -113,5 +113,22 @@ lower as well. This deck seems to have that with its earlier units, fliers,
 weapons to buff them, and enough removal to get through opponent threats. We'll
 see this week.
 
+Addendum:
 
+I remained curious about how much power should be run for a deck with an 8-drop +
+a transmuting monument. To that end, I asked about it in the #leagues channel on
+the Eternal discord. The folks there are great at helping people out. In my
+conversation with NorthernPolarity from the TDC team, we concluded that I probably
+didn't need to be quite so deep in Primal. By cutting back to the best, single
+primal influence cards, I could just depend on the 6 free Primal sources in the
+deck via banners and strangers. This would allow me to up the Fire and Time sigil
+counts and which would be beneficial both to possibly casting Oni Ronin on turn 1
+as well as hitting TTT in a reasonable timeframe. I ended up playing the deck
+below to a 7-3 record on the week.
+
+{% img /images/eternal-after-discord.png %}
+
+With the 8-2 from a 3F FTP deck in week 1, that left me at 15-5 overall:
+
+{% img /images/league-standings.png %}
 
