@@ -189,7 +189,7 @@ function sort() {
             } else if (value.LimitedValue >= 3.0) {
                 output = "<em>" + output + "</em>"
             }
-            $("#result").append(output + " <br/>")
+            $("#result").append("<span title='" + value.LimitedValue + "'>" + output + "</span><br/>")
         }
     })
 }
