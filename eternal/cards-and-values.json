@@ -1,5 +1,125 @@
 [
   {
+    "SetNumber":2,
+    "EternalID":201,
+    "Name":"Xenan Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":186,
+    "Name":"Skycrag Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":171,
+    "Name":"Praxis Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":216,
+    "Name":"Hooru Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":231,
+    "Name":"Argenport Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
+    "EternalID":419,
+    "Name":"Stonescar Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
+    "EternalID":427,
+    "Name":"Rakano Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
+    "EternalID":417,
+    "Name":"Feln Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
+    "EternalID":421,
+    "Name":"Elysian Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
+    "EternalID":424,
+    "Name":"Combrei Banner",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":251,
+    "Name":"Xenan Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":250,
+    "Name":"Skycrag Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":248,
+    "Name":"Praxis Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":247,
+    "Name":"Hooru Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":413,
+    "Name":"Stonescar Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":411,
+    "Name":"Rakano Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":409,
+    "Name":"Feln Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":412,
+    "Name":"Elysian Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":410,
+    "Name":"Combrei Stranger",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":246,
+    "Name":"Argenport Stranger",
+    "LimitedValue":3.0
+  },
+  {
     "SetNumber":3,
     "EternalID":83,
     "Name":"Fishing Dinoch",
