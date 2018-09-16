@@ -19,8 +19,10 @@ output at the bottom. If a card has a value above 4.0, it will be
 into Eternal to further work with your pool and determine which of
 your factions is strongest.
 
-NOTE: At the current time, influence strangers and banners are not
-included in the card value pool. You'll need to include these manually.
+UPDATE: Influence strangers and banners are now included in the card
+values.  With fixing at a premium, strangers are valued at 3.0 and
+banners at 2.5. Keep in mind that even single-on strangers still help
+reduce your chance of being influence screwed in that faction.
 
 <select id="threshold">
   <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
@@ -88,7 +90,7 @@ function sort() {
             } else if (value.LimitedValue >= 3.0) {
                 output = "<em>" + output + "</em>"
             }
-            $("#result").append(output + " <br/>")
+            $("#result").append("<span title='" + value.LimitedValue + "'>" + output + "</span><br/>")
         }
     })
 }
