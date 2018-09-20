@@ -119,6 +119,16 @@ values.  With fixing at a premium, strangers are valued at 3.0 and
 banners at 2.5. Keep in mind that even single-on strangers still help
 reduce your chance of being influence screwed in that faction.</p>
 
+<p>If you&rsquo;re seeing cards show up as &ldquo;NOT FOUND&rdquo; at the bottom of the
+results, please let me know. I think a few are missing from the
+value data. You can either:</p>
+
+<ol>
+<li>Email <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x63;&#97;&#115;&#x65;&#121;&#64;&#116;&#104;&#101;&#x68;&#97;&#x64;&#x64;&#101;&#x6e;&#115;&#46;&#110;&#x65;&#x74;">&#x63;&#x61;&#115;&#101;&#x79;&#64;&#x74;&#x68;&#x65;&#x68;&#97;&#100;&#100;&#101;&#110;&#115;&#x2e;&#110;&#x65;&#x74;</a></li>
+<li>Send me a DM on discord Dendroaspis#2087.</li>
+</ol>
+
+
 <p><select id="threshold">
   <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
   <option value="4.0">4.0 - high impact card generating value or tempo</option>
@@ -173,10 +183,13 @@ function sort() {
     })
 
     valuedPool = []
+    notFoundPool = []
     $.each(pool, function(index, value) {
         card = findCard(value)
         if (!$.isEmptyObject(card)) {
             valuedPool.push(card)
+        } else {
+          notFoundPool.push(value)
         }
     })
 
@@ -193,6 +206,11 @@ function sort() {
             }
             $("#result").append("<span title='" + value.LimitedValue + "'>" + output + "</span><br/>")
         }
+    })
+
+    $.each(notFoundPool, function(index, value) {
+      output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
+      $("#result").append("NOT FOUND - <strike>" + output + "</strike><br/>")
     })
 }
 
