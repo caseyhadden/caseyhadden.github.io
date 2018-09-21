@@ -1,5 +1,53 @@
 [
   {
+    "SetNumber":1,
+    "EternalID":339,
+    "Name":"Stronghold's Visage",
+    "LimitedValue":1.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":243,
+    "Name":"Rolant's Choice",
+    "LimitedValue":3.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":226,
+    "Name":"Duelist's Blade",
+    "LimitedValue":3.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":222,
+    "Name":"Master's Lesson",
+    "LimitedValue":0.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":26,
+    "Name":"Shogun's Scepter",
+    "LimitedValue":4.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":220,
+    "Name":"Eilyn's Choice",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":2,
+    "EternalID":188,
+    "Name":"Kaleb's Choice",
+    "LimitedValue":1.0
+  },
+  {
+    "SetNumber":1,
+    "EternalID":196,
+    "Name":"Herald's Song",
+    "LimitedValue":1.0
+  },
+  {
     "SetNumber":2,
     "EternalID":201,
     "Name":"Xenan Banner",
