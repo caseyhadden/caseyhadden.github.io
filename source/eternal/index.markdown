@@ -24,6 +24,13 @@ values.  With fixing at a premium, strangers are valued at 3.0 and
 banners at 2.5. Keep in mind that even single-on strangers still help
 reduce your chance of being influence screwed in that faction.
 
+If you're seeing cards show up as "NOT FOUND" at the bottom of the
+results, please let me know. I think a few are missing from the
+value data. You can either:
+
+1. Email me@caseyhadden.com
+2. Send me a DM on discord Dendroaspis#2087.
+
 <select id="threshold">
   <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
   <option value="4.0">4.0 - high impact card generating value or tempo</option>
@@ -72,10 +79,13 @@ function sort() {
     })
 
     valuedPool = []
+    notFoundPool = []
     $.each(pool, function(index, value) {
         card = findCard(value)
         if (!$.isEmptyObject(card)) {
             valuedPool.push(card)
+        } else {
+          notFoundPool.push(value)
         }
     })
 
@@ -92,6 +102,11 @@ function sort() {
             }
             $("#result").append("<span title='" + value.LimitedValue + "'>" + output + "</span><br/>")
         }
+    })
+
+    $.each(notFoundPool, function(index, value) {
+      output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
+      $("#result").append("NOT FOUND - <strike>" + output + "</strike><br/>")
     })
 }
 
