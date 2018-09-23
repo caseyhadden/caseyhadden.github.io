@@ -1,6 +1,12 @@
 [
   {
     "SetNumber":1,
+    "EternalID":369,
+    "Name":"Trickster's Cloak",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
     "EternalID":339,
     "Name":"Stronghold's Visage",
     "LimitedValue":1.0
