@@ -1,6 +1,18 @@
 [
   {
     "SetNumber":1,
+    "EternalID":220,
+    "Name":"Jarrall's Frostkin",
+    "LimitedValue":3.5
+  },
+  {
+    "SetNumber":2,
+    "EternalID":193,
+    "Name":"Hunter's Harpoon",
+    "LimitedValue":3.0
+  },
+  {
+    "SetNumber":1,
     "EternalID":369,
     "Name":"Trickster's Cloak",
     "LimitedValue":2.5
