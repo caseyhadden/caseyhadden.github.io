@@ -1,6 +1,12 @@
 [
   {
     "SetNumber":1,
+    "EternalID":75,
+    "Name":"Predator's Instinct",
+    "LimitedValue":2.5
+  },
+  {
+    "SetNumber":1,
     "EternalID":220,
     "Name":"Jarrall's Frostkin",
     "LimitedValue":3.5
