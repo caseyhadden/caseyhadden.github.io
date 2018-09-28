@@ -19,17 +19,35 @@ output at the bottom. If a card has a value above 4.0, it will be
 into Eternal to further work with your pool and determine which of
 your factions is strongest.
 
-UPDATE: Influence strangers and banners are now included in the card
-values.  With fixing at a premium, strangers are valued at 3.0 and
-banners at 2.5. Keep in mind that even single-on strangers still help
-reduce your chance of being influence screwed in that faction.
-
 If you're seeing cards show up as "NOT FOUND" at the bottom of the
 results, please let me know. I think a few are missing from the
-value data. You can either:
+value data. It could also be that the card was not in one of the 
+tier lists.
+
+If you're interested in how I use this tool, check out [this example](/eternal/sealed-example).
+Feedback of all kinds is welcome. Let me know, if you think the tool
+is great or terrible. Perhaps I'd be better off building decks through
+a different process; let me know. Or anything else. We're all trying
+to improve.
 
 1. Email me@caseyhadden.com
 2. Send me a DM on discord Dendroaspis#2087.
+
+DISCLAIMERS:
+
+1. Tier lists are a place to start, not "The Law." 
+2. Draft and sealed are different formats and card values will
+sometimes be different between the two. I think the draft tier list
+gets you 'in the ballpark' with human intelligence required from there.
+3. Context is vital. A card like Slushdumper might have a reasonable
+rating, but is dependent on other yetis in your deck. Similarly, a card
+like Silverwing Familiar will benefit greatly from being able to get
+pumped past its 1/1 starting stats. Keep these type of contextual values
+in mind when building your deck.
+4. Sealed adds an extra dimension with new packs each week. For the best
+result, it is likely a good option to completely re-evaluate your pool
+from scratch each week vs. assuming you should just build onto what you
+had before.
 
 <select id="threshold">
   <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
@@ -38,6 +56,10 @@ value data. You can either:
   <option value="3.0" selected="true">3.0 - good playable, almost always makes cut</option>
   <option value="2.5">2.5 - solid playable, rarely cut</option>
   <option value="2.0">2.0 - good filler, sometimes gets cut</option>
+  <option value="1.5">1.5 - filler, gets cut half the time</option>
+  <option value="1.0">1.0 - bad filler, gets cut most of the time</option>
+  <option value="0.5">0.5 - very low-end playables, sideboard material</option>
+  <option value="0.0">0.0 - unplayable</option>
 </select>
 <input type="button" value="Sort" onclick="sort()"></input>
 

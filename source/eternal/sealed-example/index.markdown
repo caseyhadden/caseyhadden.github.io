@@ -9,6 +9,14 @@ sorting tool. To be clear, I don't consider myself particularly good, but I'm
 happy to provide information for others to use as they see fit. I do like trying
 to put the decks together, but it's possible I'm doing it all wrong :).
 
+Feedback of all kinds is welcome. Let me
+know, if you think the tool is great or terrible. Perhaps I'd be better off
+building decks through a different process; let me know. Or anything else. We're
+all trying to improve.
+
+1. Email me@caseyhadden.com
+2. Send me a DM on discord Dendroaspis#2087.
+
 For this description, I'll be using my [week 2 pool](https://eternalwarcry.com/decks/details/G26bvYflBeU/chapter-22-sealed-pool-week-2)
 for the September, 2018 sealed league. 
 
