@@ -35,15 +35,17 @@ to improve.
 
 DISCLAIMERS:
 
-1. Tier lists are a place to start, not "The Law." 
+1. Tier lists are a place to start, not an all encompassing set of rules.
 2. Draft and sealed are different formats and card values will
 sometimes be different between the two. I think the draft tier list
 gets you 'in the ballpark' with human intelligence required from there.
-3. Context is vital. A card like Slushdumper might have a reasonable
-rating, but is dependent on other yetis in your deck. Similarly, a card
-like Silverwing Familiar will benefit greatly from being able to get
-pumped past its 1/1 starting stats. Keep these type of contextual values
-in mind when building your deck.
+3. Context is vital. Cards might have a reasonable rating, but be dependent
+on your deck. For example, being able to pump a Silverwing Familiar past
+its starting 1/1 stats or having additional yetis for a Slushdumper are highly
+important to the card's overall value. In draft, you can adjust your valuation
+criteria for these types of synergies. However, in sealed you only have whatever
+is in your packs. Keep these type of contextual situations in mind when building
+your deck.
 4. Sealed adds an extra dimension with new packs each week. For the best
 result, it is likely a good option to completely re-evaluate your pool
 from scratch each week vs. assuming you should just build onto what you
