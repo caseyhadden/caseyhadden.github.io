@@ -1,5 +1,11 @@
 [
   {
+    "SetNumber":2,
+    "EternalID":206,
+    "Name":"Vara's Choice",
+    "LimitedValue":2.5
+  },
+  {
     "SetNumber":1,
     "EternalID":75,
     "Name":"Predator's Instinct",
@@ -3088,7 +3094,7 @@
     "Health": 0,
     "Rarity": "Rare",
     "Type": "Spell",
-    "LimitedValue": 1.3
+    "LimitedValue": 0.8
   },
   {
     "SetNumber": 1,
@@ -12149,7 +12155,7 @@
     "Health": 4,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 2.6
+    "LimitedValue": 3.5
   },
   {
     "SetNumber": 4,
@@ -12162,7 +12168,7 @@
     "Health": 4,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 1.6
+    "LimitedValue": 2.5
   },
   {
     "SetNumber": 4,
@@ -12318,7 +12324,7 @@
     "Health": 2,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 2.1
+    "LimitedValue": 3.5
   },
   {
     "SetNumber": 4,
@@ -12643,7 +12649,7 @@
     "Health": 1,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 3.5
+    "LimitedValue": 3.0
   },
   {
     "SetNumber": 4,
@@ -12903,7 +12909,7 @@
     "Health": 3,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 2
+    "LimitedValue": 3
   },
   {
     "SetNumber": 4,
@@ -12916,7 +12922,7 @@
     "Health": 4,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 3
+    "LimitedValue": 2
   },
   {
     "SetNumber": 4,
@@ -12955,7 +12961,7 @@
     "Health": 4,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 3.5
+    "LimitedValue": 3.0
   },
   {
     "SetNumber": 4,
@@ -12981,7 +12987,7 @@
     "Health": 1,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 1.5
+    "LimitedValue": 3.0
   },
   {
     "SetNumber": 4,
@@ -13007,7 +13013,7 @@
     "Health": 5,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 1.5
+    "LimitedValue": 2.5
   },
   {
     "SetNumber": 4,
@@ -13228,7 +13234,7 @@
     "Health": 4,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 2.5
+    "LimitedValue": 1.0
   },
   {
     "SetNumber": 4,
@@ -13488,7 +13494,7 @@
     "Health": 4,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 2.8
+    "LimitedValue": 2.0
   },
   {
     "SetNumber": 4,
@@ -13904,7 +13910,7 @@
     "Health": 2,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 1.9
+    "LimitedValue": 2.5
   },
   {
     "SetNumber": 4,
@@ -13982,7 +13988,7 @@
     "Health": 0,
     "Rarity": "Common",
     "Type": "Spell",
-    "LimitedValue": 1.4
+    "LimitedValue": 2.5
   },
   {
     "SetNumber": 4,
@@ -14216,7 +14222,7 @@
     "Health": 5,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 3.1
+    "LimitedValue": 2.5
   },
   {
     "SetNumber": 4,
@@ -14229,7 +14235,7 @@
     "Health": 4,
     "Rarity": "Common",
     "Type": "Unit",
-    "LimitedValue": 1
+    "LimitedValue": 2
   },
   {
     "SetNumber": 4,
@@ -14476,7 +14482,7 @@
     "Health": 1,
     "Rarity": "Uncommon",
     "Type": "Unit",
-    "LimitedValue": 0.4
+    "LimitedValue": 1.5
   },
   {
     "SetNumber": 4,
@@ -14502,7 +14508,7 @@
     "Health": 0,
     "Rarity": "Common",
     "Type": "Fast Spell",
-    "LimitedValue": 0.5
+    "LimitedValue": 1.5
   },
   {
     "SetNumber": 4,
@@ -14567,7 +14573,7 @@
     "Health": 0,
     "Rarity": "Common",
     "Type": "Spell",
-    "LimitedValue": 0.5
+    "LimitedValue": 1.0
   },
   {
     "SetNumber": 4,
