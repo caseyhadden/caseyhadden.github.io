@@ -19,10 +19,10 @@ output at the bottom. If a card has a value above 4.0, it will be
 into Eternal to further work with your pool and determine which of
 your factions is strongest.
 
-If you're seeing cards show up as "NOT FOUND" at the bottom of the
-results, please let me know. I think a few are missing from the
-value data. It could also be that the card was not in one of the 
-tier lists.
+If you're seeing cards show up as <strike>struck out</strike> at the
+bottom of the results, please let me know. I think a few are missing
+from the value data. It could also be that the card was not in one
+of the tier lists.
 
 If you're interested in how I use this tool, check out [this example](/eternal/sealed-example).
 Feedback of all kinds is welcome. Let me know, if you think the tool
@@ -130,7 +130,7 @@ function sort() {
 
     $.each(notFoundPool, function(index, value) {
       output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
-      $("#result").append("NOT FOUND - <strike>" + output + "</strike><br/>")
+      $("#result").append("<strike>" + output + "</strike><br/>")
     })
 }
 
