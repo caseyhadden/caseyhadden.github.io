@@ -114,10 +114,10 @@ output at the bottom. If a card has a value above 4.0, it will be
 into Eternal to further work with your pool and determine which of
 your factions is strongest.</p>
 
-<p>If you&rsquo;re seeing cards show up as &ldquo;NOT FOUND&rdquo; at the bottom of the
-results, please let me know. I think a few are missing from the
-value data. It could also be that the card was not in one of the
-tier lists.</p>
+<p>If you&rsquo;re seeing cards show up as <strike>struck out</strike> at the
+bottom of the results, please let me know. I think a few are missing
+from the value data. It could also be that the card was not in one
+of the tier lists.</p>
 
 <p>If you&rsquo;re interested in how I use this tool, check out <a href="/eternal/sealed-example">this example</a>.
 Feedback of all kinds is welcome. Let me know, if you think the tool
@@ -126,7 +126,7 @@ a different process; let me know. Or anything else. We&rsquo;re all trying
 to improve.</p>
 
 <ol>
-<li>Email <a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#58;&#109;&#x65;&#x40;&#x63;&#x61;&#115;&#x65;&#x79;&#x68;&#x61;&#x64;&#x64;&#x65;&#x6e;&#x2e;&#x63;&#111;&#x6d;">&#x6d;&#101;&#64;&#x63;&#97;&#x73;&#101;&#121;&#x68;&#97;&#x64;&#100;&#101;&#110;&#x2e;&#99;&#x6f;&#x6d;</a></li>
+<li>Email <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#x3a;&#x6d;&#x65;&#x40;&#x63;&#x61;&#x73;&#101;&#121;&#x68;&#x61;&#x64;&#x64;&#x65;&#110;&#x2e;&#99;&#111;&#x6d;">&#109;&#101;&#x40;&#x63;&#x61;&#115;&#x65;&#x79;&#x68;&#x61;&#100;&#100;&#x65;&#110;&#x2e;&#99;&#x6f;&#109;</a></li>
 <li>Send me a DM on discord Dendroaspis#2087.</li>
 </ol>
 
@@ -237,7 +237,7 @@ function sort() {
 
     $.each(notFoundPool, function(index, value) {
       output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
-      $("#result").append("NOT FOUND - <strike>" + output + "</strike><br/>")
+      $("#result").append("<strike>" + output + "</strike><br/>")
     })
 }
 
