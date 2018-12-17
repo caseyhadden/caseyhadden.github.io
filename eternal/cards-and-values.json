@@ -1,5 +1,17 @@
 [
   {
+    "SetNumber":1,
+    "EternalID":282,
+    "Name":"Beastcaller's Amulet",
+    "LimitedValue":3.5
+  },
+  {
+    "SetNumber":1,
+    "EternalID":98,
+    "Name":"Healer's Cloak",
+    "LimitedValue":2.6
+  },
+  {
     "SetNumber":2,
     "EternalID":206,
     "Name":"Vara's Choice",
