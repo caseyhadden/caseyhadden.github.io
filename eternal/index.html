@@ -9,8 +9,8 @@
   <meta name="author" content="Casey Hadden">
 
   
-  <meta name="description" content="Sealed Helper Sep 7th, 2018 12:00 am This page is intended to help you sort through an Eternal Card Game
-sealed pool. It uses the TDC draft tier &hellip;">
+  <meta name="description" content="Sealed Helper Sep 7th, 2018 12:00 am TL;DR: Just take me to the tool This page is intended to help you sort through an Eternal Card Game
+sealed pool &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -96,7 +96,9 @@ sealed pool. It uses the TDC draft tier &hellip;">
 <time class='entry-date' datetime='2018-09-07'><span class='date'><span class='date-month'>Sep</span> <span class='date-day'>7</span><span class='date-suffix'>th</span>, <span class='date-year'>2018</span></span> <span class='time'>12:00 am</span></time></p>
   </header>
   
-  <p>This page is intended to help you sort through an Eternal Card Game
+  <p>TL;DR: <a href="#tool">Just take me to the tool</a></p>
+
+<p>This page is intended to help you sort through an Eternal Card Game
 sealed pool. It uses the TDC draft tier lists as a base value for cards
 in a limited format like sealed.</p>
 
@@ -119,14 +121,25 @@ bottom of the results, please let me know. I think a few are missing
 from the value data. It could also be that the card was not in one
 of the tier lists.</p>
 
-<p>If you&rsquo;re interested in how I use this tool, check out <a href="/eternal/sealed-example">this example</a>.
+<p>The core of how I use the tool is fairly simple:</p>
+
+<ol>
+<li>Sort the pool</li>
+<li>Try to play as many 4.0+ cards as I can</li>
+<li>Balance #2 against trying to play as few &lt;2.0 cards as I can</li>
+<li>Try to ensure the influence requirements from <a href="https://www.a-space-games.com/drafting-101-part-2-building-the-deck">Flash2351&rsquo;s Draft 101 article</a>
+are met.</li>
+</ol>
+
+
+<p>If you want a longer form description, check out <a href="/eternal/sealed-example">this example</a>.
 Feedback of all kinds is welcome. Let me know, if you think the tool
 is great or terrible. Perhaps I&rsquo;d be better off building decks through
 a different process; let me know. Or anything else. We&rsquo;re all trying
 to improve.</p>
 
 <ol>
-<li>Email <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#109;&#x65;&#x40;&#99;&#97;&#115;&#101;&#x79;&#104;&#97;&#100;&#100;&#101;&#x6e;&#x2e;&#x63;&#x6f;&#109;">&#x6d;&#x65;&#64;&#x63;&#x61;&#x73;&#101;&#121;&#104;&#97;&#100;&#100;&#101;&#110;&#x2e;&#x63;&#111;&#109;</a></li>
+<li>Email <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#109;&#101;&#64;&#x63;&#x61;&#115;&#101;&#121;&#104;&#x61;&#100;&#100;&#101;&#110;&#x2e;&#x63;&#111;&#109;">&#109;&#101;&#x40;&#99;&#x61;&#x73;&#101;&#121;&#x68;&#x61;&#x64;&#x64;&#101;&#x6e;&#x2e;&#99;&#111;&#x6d;</a></li>
 <li>Send me a DM on discord Dendroaspis#2087.</li>
 </ol>
 
@@ -138,19 +151,20 @@ to improve.</p>
 <li>Draft and sealed are different formats and card values will
 sometimes be different between the two. I think the draft tier list
 gets you &lsquo;in the ballpark&rsquo; with human intelligence required from there.</li>
-<li>Context is vital. Cards might have a reasonable rating, but be dependent
-on your deck. For example, being able to pump a Silverwing Familiar past
-its starting 1/1 stats or having additional yetis for a Slushdumper are highly
-important to the card&rsquo;s overall value. In draft, you can adjust your valuation
-criteria for these types of synergies. However, in sealed you only have whatever
-is in your packs. Keep these type of contextual situations in mind when building
-your deck.</li>
+<li>Context matters. Cards can have a good rating, but be dependent on your
+deck - renown units want pump spells and weapons, Slushdumper wants additional
+yetis, etc. These criteria are often important to a card&rsquo;s overall value. In
+draft, you can adjust your valuation criteria for these types of synergies.
+However, in sealed you only have whatever is in your packs. Keep these type
+of contextual situations in mind when building your deck.</li>
 <li>Sealed adds an extra dimension with new packs each week. For the best
 result, it is likely a good option to completely re-evaluate your pool
 from scratch each week vs. assuming you should just build onto what you
 had before.</li>
 </ol>
 
+
+<p><a id="tool">&nbsp;</a></p>
 
 <p><select id="threshold">
   <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
@@ -165,6 +179,11 @@ had before.</li>
   <option value="0.0">0.0 - unplayable</option>
 </select>
 <input type="button" value="Sort" onclick="sort()"></input></p>
+
+<p><strong>NOTE: This page currently uses Sunyveil&rsquo;s tier list for Defiance
+because it is the one available. For the purpose of consistency with the
+earlier lists used, this will be updated to the TDC tier list when and if
+it is made available.</strong></p>
 
 <p><textarea cols="60" rows="20" id="pool"></textarea></p>
 
