@@ -4,6 +4,8 @@ title: "Sealed helper"
 date: 2018-09-07
 ---
 
+TL;DR: [Just take me to the tool](#tool)
+
 This page is intended to help you sort through an Eternal Card Game
 sealed pool. It uses the TDC draft tier lists as a base value for cards
 in a limited format like sealed.
@@ -14,7 +16,7 @@ in a limited format like sealed.
 
 The cards in your pool with values exceeding your threshold will be
 output at the bottom. If a card has a value above 4.0, it will be
-<strong>bold</strong>. If a card has a value above 3.5, it will be
+<strong>bold</strong>. If a card has a value above 3.0, it will be
 <em>italicized</em>. You should be able to import the output text
 into Eternal to further work with your pool and determine which of
 your factions is strongest.
@@ -24,7 +26,15 @@ bottom of the results, please let me know. I think a few are missing
 from the value data. It could also be that the card was not in one
 of the tier lists.
 
-If you're interested in how I use this tool, check out [this example](/eternal/sealed-example).
+The core of how I use the tool is fairly simple:
+
+1. Sort the pool
+2. Try to play as many 4.0+ cards as I can
+3. Balance #2 against trying to play as few <2.0 cards as I can
+4. Try to ensure the influence requirements from [Flash2351's Draft 101 article](https://www.a-space-games.com/drafting-101-part-2-building-the-deck)
+   are met.
+
+If you want a longer form description, check out [this example](/eternal/sealed-example).
 Feedback of all kinds is welcome. Let me know, if you think the tool
 is great or terrible. Perhaps I'd be better off building decks through
 a different process; let me know. Or anything else. We're all trying
@@ -39,31 +49,39 @@ DISCLAIMERS:
 2. Draft and sealed are different formats and card values will
 sometimes be different between the two. I think the draft tier list
 gets you 'in the ballpark' with human intelligence required from there.
-3. Context is vital. Cards might have a reasonable rating, but be dependent
-on your deck. For example, being able to pump a Silverwing Familiar past
-its starting 1/1 stats or having additional yetis for a Slushdumper are highly
-important to the card's overall value. In draft, you can adjust your valuation
-criteria for these types of synergies. However, in sealed you only have whatever
-is in your packs. Keep these type of contextual situations in mind when building
-your deck.
+3. Context matters. Cards can have a good rating, but be dependent on your
+deck - renown units want pump spells and weapons, Slushdumper wants additional
+yetis, etc. These criteria are often important to a card's overall value. In
+draft, you can adjust your valuation criteria for these types of synergies.
+However, in sealed you only have whatever is in your packs. Keep these type
+of contextual situations in mind when building your deck.
 4. Sealed adds an extra dimension with new packs each week. For the best
 result, it is likely a good option to completely re-evaluate your pool
 from scratch each week vs. assuming you should just build onto what you
 had before.
 
+<a id="tool"></a>Threshold:
 <select id="threshold">
-  <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
-  <option value="4.0">4.0 - high impact card generating value or tempo</option>
-  <option value="3.5">3.5 - premium card, pulls you into a color</option>
-  <option value="3.0" selected="true">3.0 - good playable, almost always makes cut</option>
-  <option value="2.5">2.5 - solid playable, rarely cut</option>
-  <option value="2.0">2.0 - good filler, sometimes gets cut</option>
-  <option value="1.5">1.5 - filler, gets cut half the time</option>
-  <option value="1.0">1.0 - bad filler, gets cut most of the time</option>
-  <option value="0.5">0.5 - very low-end playables, sideboard material</option>
-  <option value="0.0">0.0 - unplayable</option>
+  <option value="4.5">&gt;= 4.5 - bomb, dominates game if unanswered</option>
+  <option value="4.0">&gt;= 4.0 - high impact card generating value or tempo</option>
+  <option value="3.5">&gt;= 3.5 - premium card, pulls you into a color</option>
+  <option value="3.0" selected="true">&gt;= 3.0 - good playable, almost always makes cut</option>
+  <option value="2.5">&gt;= 2.5 - solid playable, rarely cut</option>
+  <option value="2.0">&gt;= 2.0 - good filler, sometimes gets cut</option>
+  <option value="1.5">&gt;= 1.5 - filler, gets cut half the time</option>
+  <option value="1.0">&gt;= 1.0 - bad filler, gets cut most of the time</option>
+  <option value="0.5">&gt;= 0.5 - very low-end playables, sideboard material</option>
+  <option value="0.0">&gt;= 0.0 - unplayable</option>
 </select>
 <input type="button" value="Sort" onclick="sort()"></input>
+
+<strong>NOTE: This page currently uses Sunyveil's tier list for Defiance
+because it is the one available. For the purpose of consistency with the
+earlier lists used, this will be updated to the TDC tier list when and if
+it is made available.
+
+Based on some discussion in the discord channel, it looks like the TDC tier
+list will be available sometime between now and the first few days of 2019.</strong>
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
