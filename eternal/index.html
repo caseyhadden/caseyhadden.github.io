@@ -111,7 +111,7 @@ in a limited format like sealed.</p>
 
 <p>The cards in your pool with values exceeding your threshold will be
 output at the bottom. If a card has a value above 4.0, it will be
-<strong>bold</strong>. If a card has a value above 3.5, it will be
+<strong>bold</strong>. If a card has a value above 3.0, it will be
 <em>italicized</em>. You should be able to import the output text
 into Eternal to further work with your pool and determine which of
 your factions is strongest.</p>
@@ -139,7 +139,7 @@ a different process; let me know. Or anything else. We&rsquo;re all trying
 to improve.</p>
 
 <ol>
-<li>Email <a href="&#x6d;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#109;&#x65;&#x40;&#99;&#97;&#x73;&#x65;&#121;&#x68;&#x61;&#100;&#100;&#x65;&#110;&#x2e;&#x63;&#111;&#x6d;">&#109;&#101;&#x40;&#x63;&#97;&#115;&#x65;&#121;&#104;&#x61;&#x64;&#x64;&#101;&#x6e;&#46;&#99;&#111;&#x6d;</a></li>
+<li>Email <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#109;&#x65;&#x40;&#99;&#97;&#115;&#x65;&#x79;&#104;&#97;&#100;&#100;&#x65;&#110;&#46;&#99;&#111;&#x6d;">&#x6d;&#101;&#x40;&#99;&#97;&#115;&#x65;&#121;&#x68;&#x61;&#100;&#x64;&#101;&#110;&#46;&#99;&#111;&#109;</a></li>
 <li>Send me a DM on discord Dendroaspis#2087.</li>
 </ol>
 
@@ -164,19 +164,18 @@ had before.</li>
 </ol>
 
 
-<p><a id="tool">&nbsp;</a></p>
-
-<p><select id="threshold">
-  <option value="4.5">4.5 - bomb, dominates game if unanswered</option>
-  <option value="4.0">4.0 - high impact card generating value or tempo</option>
-  <option value="3.5">3.5 - premium card, pulls you into a color</option>
-  <option value="3.0" selected="true">3.0 - good playable, almost always makes cut</option>
-  <option value="2.5">2.5 - solid playable, rarely cut</option>
-  <option value="2.0">2.0 - good filler, sometimes gets cut</option>
-  <option value="1.5">1.5 - filler, gets cut half the time</option>
-  <option value="1.0">1.0 - bad filler, gets cut most of the time</option>
-  <option value="0.5">0.5 - very low-end playables, sideboard material</option>
-  <option value="0.0">0.0 - unplayable</option>
+<p><a id="tool"></a>Threshold:
+<select id="threshold">
+  <option value="4.5">&gt;= 4.5 - bomb, dominates game if unanswered</option>
+  <option value="4.0">&gt;= 4.0 - high impact card generating value or tempo</option>
+  <option value="3.5">&gt;= 3.5 - premium card, pulls you into a color</option>
+  <option value="3.0" selected="true">&gt;= 3.0 - good playable, almost always makes cut</option>
+  <option value="2.5">&gt;= 2.5 - solid playable, rarely cut</option>
+  <option value="2.0">&gt;= 2.0 - good filler, sometimes gets cut</option>
+  <option value="1.5">&gt;= 1.5 - filler, gets cut half the time</option>
+  <option value="1.0">&gt;= 1.0 - bad filler, gets cut most of the time</option>
+  <option value="0.5">&gt;= 0.5 - very low-end playables, sideboard material</option>
+  <option value="0.0">&gt;= 0.0 - unplayable</option>
 </select>
 <input type="button" value="Sort" onclick="sort()"></input></p>
 
