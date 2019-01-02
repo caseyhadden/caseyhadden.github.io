@@ -3,7 +3,7 @@
     "SetNumber": 1,
     "EternalID": 2,
     "Name": "Flame Blast",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11,7 +11,7 @@
     "SetNumber": 1,
     "EternalID": 3,
     "Name": "Charchain Flail",
-    "LimitedValue": 2.166666667,
+    "LimitedValue": 2.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -19,7 +19,7 @@
     "SetNumber": 1,
     "EternalID": 4,
     "Name": "Heavy Axe",
-    "LimitedValue": 1,
+    "LimitedValue": 2.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -91,7 +91,7 @@
     "SetNumber": 1,
     "EternalID": 14,
     "Name": "Warhelm",
-    "LimitedValue": 1.833333333,
+    "LimitedValue": 2.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -123,7 +123,7 @@
     "SetNumber": 1,
     "EternalID": 18,
     "Name": "Song of War",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -147,7 +147,7 @@
     "SetNumber": 1,
     "EternalID": 21,
     "Name": "Pyre Adept",
-    "LimitedValue": 2,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -203,7 +203,7 @@
     "SetNumber": 1,
     "EternalID": 29,
     "Name": "Assembly Line",
-    "LimitedValue": 2.333333333,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -211,7 +211,7 @@
     "SetNumber": 1,
     "EternalID": 30,
     "Name": "Rebel Sharpshooter",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -227,7 +227,7 @@
     "SetNumber": 1,
     "EternalID": 32,
     "Name": "Oni Quartermaster",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -235,7 +235,7 @@
     "SetNumber": 1,
     "EternalID": 33,
     "Name": "Rally",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -267,7 +267,7 @@
     "SetNumber": 1,
     "EternalID": 37,
     "Name": "Recogulator",
-    "LimitedValue": 1,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -275,7 +275,7 @@
     "SetNumber": 1,
     "EternalID": 38,
     "Name": "Steelfang Chakram",
-    "LimitedValue": 4,
+    "LimitedValue": 4.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -331,7 +331,7 @@
     "SetNumber": 1,
     "EternalID": 45,
     "Name": "Infernus",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -387,7 +387,7 @@
     "SetNumber": 1,
     "EternalID": 52,
     "Name": "Stonescar Maul",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -427,7 +427,7 @@
     "SetNumber": 1,
     "EternalID": 58,
     "Name": "Crowd Favorite",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -435,7 +435,7 @@
     "SetNumber": 1,
     "EternalID": 59,
     "Name": "Claw of the First Dragon",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -459,7 +459,7 @@
     "SetNumber": 1,
     "EternalID": 62,
     "Name": "Lavablood Goliath",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 1.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -475,7 +475,7 @@
     "SetNumber": 1,
     "EternalID": 66,
     "Name": "Copper Conduit",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -483,7 +483,7 @@
     "SetNumber": 1,
     "EternalID": 67,
     "Name": "Infinite Hourglass",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -515,7 +515,7 @@
     "SetNumber": 1,
     "EternalID": 71,
     "Name": "Excavate",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -531,7 +531,7 @@
     "SetNumber": 1,
     "EternalID": 73,
     "Name": "Sanctuary Priest",
-    "LimitedValue": 1,
+    "LimitedValue": 0.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -563,7 +563,7 @@
     "SetNumber": 1,
     "EternalID": 77,
     "Name": "Bold Adventurer",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -595,7 +595,7 @@
     "SetNumber": 1,
     "EternalID": 81,
     "Name": "Secret Pages",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -723,7 +723,7 @@
     "SetNumber": 1,
     "EternalID": 98,
     "Name": "Healer's Cloak",
-    "LimitedValue": 2.666666667,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -731,7 +731,7 @@
     "SetNumber": 1,
     "EternalID": 99,
     "Name": "Sandstorm Titan",
-    "LimitedValue": 4,
+    "LimitedValue": 4.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -747,7 +747,7 @@
     "SetNumber": 1,
     "EternalID": 101,
     "Name": "Towertop Patrol",
-    "LimitedValue": 2.666666667,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -771,7 +771,7 @@
     "SetNumber": 1,
     "EternalID": 104,
     "Name": "Marisen's Disciple",
-    "LimitedValue": 3.666666667,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -779,7 +779,7 @@
     "SetNumber": 1,
     "EternalID": 105,
     "Name": "Ancient Lore",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -787,7 +787,7 @@
     "SetNumber": 1,
     "EternalID": 107,
     "Name": "Idol of Destran",
-    "LimitedValue": 1.833333333,
+    "LimitedValue": 1.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -803,7 +803,7 @@
     "SetNumber": 1,
     "EternalID": 109,
     "Name": "Divining Rod",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -875,7 +875,7 @@
     "SetNumber": 1,
     "EternalID": 118,
     "Name": "Predatory Carnosaur",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -883,7 +883,7 @@
     "SetNumber": 1,
     "EternalID": 119,
     "Name": "Ancient Terrazon",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -891,7 +891,7 @@
     "SetNumber": 1,
     "EternalID": 120,
     "Name": "Dormant Sentinel",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -899,7 +899,7 @@
     "SetNumber": 1,
     "EternalID": 121,
     "Name": "Hall of Lost Kings",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -907,7 +907,7 @@
     "SetNumber": 1,
     "EternalID": 122,
     "Name": "Pillar of Amar",
-    "LimitedValue": 4.166666667,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -931,7 +931,7 @@
     "SetNumber": 1,
     "EternalID": 125,
     "Name": "Gilded Glaive",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -963,7 +963,7 @@
     "SetNumber": 1,
     "EternalID": 130,
     "Name": "Finest Hour",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -995,7 +995,7 @@
     "SetNumber": 1,
     "EternalID": 134,
     "Name": "District Infantry",
-    "LimitedValue": 2.666666667,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1035,7 +1035,7 @@
     "SetNumber": 1,
     "EternalID": 139,
     "Name": "Crownwatch Paladin",
-    "LimitedValue": 3,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1043,7 +1043,7 @@
     "SetNumber": 1,
     "EternalID": 140,
     "Name": "Paladin Oathbook",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1059,7 +1059,7 @@
     "SetNumber": 1,
     "EternalID": 142,
     "Name": "Crownwatch Longsword",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1091,7 +1091,7 @@
     "SetNumber": 1,
     "EternalID": 146,
     "Name": "Auric Sentry",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1107,7 +1107,7 @@
     "SetNumber": 1,
     "EternalID": 148,
     "Name": "Bronze Cuirass",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1115,7 +1115,7 @@
     "SetNumber": 1,
     "EternalID": 149,
     "Name": "Order of the Spire",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1123,7 +1123,7 @@
     "SetNumber": 1,
     "EternalID": 150,
     "Name": "Loyal Watchwing",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1155,7 +1155,7 @@
     "SetNumber": 1,
     "EternalID": 154,
     "Name": "Spire Chaplain",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1163,7 +1163,7 @@
     "SetNumber": 1,
     "EternalID": 155,
     "Name": "Hooru Envoy",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1171,7 +1171,7 @@
     "SetNumber": 1,
     "EternalID": 156,
     "Name": "Hero of the People",
-    "LimitedValue": 2.3,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1187,7 +1187,7 @@
     "SetNumber": 1,
     "EternalID": 158,
     "Name": "Copperhall Recruit",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1203,7 +1203,7 @@
     "SetNumber": 1,
     "EternalID": 160,
     "Name": "Combrei Magister",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1211,7 +1211,7 @@
     "SetNumber": 1,
     "EternalID": 162,
     "Name": "Stalwart Shield",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1227,7 +1227,7 @@
     "SetNumber": 1,
     "EternalID": 164,
     "Name": "Treasury Gate",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1243,7 +1243,7 @@
     "SetNumber": 1,
     "EternalID": 166,
     "Name": "Auric Runehammer",
-    "LimitedValue": 3.6,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1275,7 +1275,7 @@
     "SetNumber": 1,
     "EternalID": 170,
     "Name": "Hammer of Might",
-    "LimitedValue": 4.3,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1283,7 +1283,7 @@
     "SetNumber": 1,
     "EternalID": 171,
     "Name": "Mithril Mace",
-    "LimitedValue": 2.5,
+    "LimitedValue": 1.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1323,7 +1323,7 @@
     "SetNumber": 1,
     "EternalID": 177,
     "Name": "Plated Demolisher",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1339,7 +1339,7 @@
     "SetNumber": 1,
     "EternalID": 180,
     "Name": "Civic Peacekeeper",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1355,7 +1355,7 @@
     "SetNumber": 1,
     "EternalID": 182,
     "Name": "Augmented Form",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1371,7 +1371,7 @@
     "SetNumber": 1,
     "EternalID": 184,
     "Name": "Flight Lieutenant",
-    "LimitedValue": 1,
+    "LimitedValue": 1.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1475,7 +1475,7 @@
     "SetNumber": 1,
     "EternalID": 199,
     "Name": "Cloudsnake Saddle",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1483,7 +1483,7 @@
     "SetNumber": 1,
     "EternalID": 200,
     "Name": "Backlash",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1515,7 +1515,7 @@
     "SetNumber": 1,
     "EternalID": 204,
     "Name": "Tundra Explorer",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1523,7 +1523,7 @@
     "SetNumber": 1,
     "EternalID": 205,
     "Name": "Violent Gust",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1555,7 +1555,7 @@
     "SetNumber": 1,
     "EternalID": 209,
     "Name": "Flash Freeze",
-    "LimitedValue": 2.666666667,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1563,7 +1563,7 @@
     "SetNumber": 1,
     "EternalID": 210,
     "Name": "Eye of Winter",
-    "LimitedValue": 4.333333333,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1595,7 +1595,7 @@
     "SetNumber": 1,
     "EternalID": 214,
     "Name": "Ice Sprite",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1603,7 +1603,7 @@
     "SetNumber": 1,
     "EternalID": 215,
     "Name": "Scaly Gruan",
-    "LimitedValue": 2.5,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1611,7 +1611,7 @@
     "SetNumber": 1,
     "EternalID": 216,
     "Name": "Icebreaker",
-    "LimitedValue": 1,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1619,7 +1619,7 @@
     "SetNumber": 1,
     "EternalID": 217,
     "Name": "Mirror Image",
-    "LimitedValue": 1.8,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1627,7 +1627,7 @@
     "SetNumber": 1,
     "EternalID": 218,
     "Name": "Wisdom of the Elders",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1675,7 +1675,7 @@
     "SetNumber": 1,
     "EternalID": 224,
     "Name": "Stormcaller",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1691,7 +1691,7 @@
     "SetNumber": 1,
     "EternalID": 226,
     "Name": "Jotun Warrior",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1755,7 +1755,7 @@
     "SetNumber": 1,
     "EternalID": 234,
     "Name": "Staff of Stories",
-    "LimitedValue": 3,
+    "LimitedValue": 2.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1763,7 +1763,7 @@
     "SetNumber": 1,
     "EternalID": 235,
     "Name": "Aerial Ace",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1787,7 +1787,7 @@
     "SetNumber": 1,
     "EternalID": 238,
     "Name": "Araktodon",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1803,7 +1803,7 @@
     "SetNumber": 1,
     "EternalID": 240,
     "Name": "North-Wind Herald",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1811,7 +1811,7 @@
     "SetNumber": 1,
     "EternalID": 241,
     "Name": "Celestial Omen",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1819,7 +1819,7 @@
     "SetNumber": 1,
     "EternalID": 242,
     "Name": "Mistveil Drake",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1835,7 +1835,7 @@
     "SetNumber": 1,
     "EternalID": 244,
     "Name": "Channel the Tempest",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1859,7 +1859,7 @@
     "SetNumber": 1,
     "EternalID": 247,
     "Name": "Skycrag Wyvarch",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1867,7 +1867,7 @@
     "SetNumber": 1,
     "EternalID": 248,
     "Name": "Scourge of Frosthome",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1939,7 +1939,7 @@
     "SetNumber": 1,
     "EternalID": 258,
     "Name": "Ghostform",
-    "LimitedValue": 0.333333333,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1963,7 +1963,7 @@
     "SetNumber": 1,
     "EternalID": 261,
     "Name": "Devour",
-    "LimitedValue": 2,
+    "LimitedValue": 1.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1995,7 +1995,7 @@
     "SetNumber": 1,
     "EternalID": 265,
     "Name": "Scavenging Vulture",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2019,7 +2019,7 @@
     "SetNumber": 1,
     "EternalID": 268,
     "Name": "Argenport Instigator",
-    "LimitedValue": 3,
+    "LimitedValue": 2.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2075,7 +2075,7 @@
     "SetNumber": 1,
     "EternalID": 275,
     "Name": "Lifedrinker",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2083,7 +2083,7 @@
     "SetNumber": 1,
     "EternalID": 276,
     "Name": "Amethyst Acolyte",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2115,7 +2115,7 @@
     "SetNumber": 1,
     "EternalID": 280,
     "Name": "Shadowlands Guide",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2155,7 +2155,7 @@
     "SetNumber": 1,
     "EternalID": 285,
     "Name": "Lethrai Falchion",
-    "LimitedValue": 4.166666667,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2179,7 +2179,7 @@
     "SetNumber": 1,
     "EternalID": 288,
     "Name": "Stonescar Magus",
-    "LimitedValue": 1.833333333,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2203,7 +2203,7 @@
     "SetNumber": 1,
     "EternalID": 291,
     "Name": "Soul Collector",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2211,7 +2211,7 @@
     "SetNumber": 1,
     "EternalID": 292,
     "Name": "Grasping at Shadows",
-    "LimitedValue": 0.9,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2219,7 +2219,7 @@
     "SetNumber": 1,
     "EternalID": 293,
     "Name": "Lurking Sanguar",
-    "LimitedValue": 1.833333333,
+    "LimitedValue": 2.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2227,7 +2227,7 @@
     "SetNumber": 1,
     "EternalID": 294,
     "Name": "Oblivion Spike",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2267,7 +2267,7 @@
     "SetNumber": 1,
     "EternalID": 301,
     "Name": "Direwood Rampager",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2283,7 +2283,7 @@
     "SetNumber": 1,
     "EternalID": 303,
     "Name": "Whispers in the Void",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2299,7 +2299,7 @@
     "SetNumber": 1,
     "EternalID": 305,
     "Name": "Venomspine Hydra",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2307,7 +2307,7 @@
     "SetNumber": 1,
     "EternalID": 306,
     "Name": "Azindel's Gift",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2315,7 +2315,7 @@
     "SetNumber": 1,
     "EternalID": 307,
     "Name": "Vara, Fate-Touched",
-    "LimitedValue": 3.833333333,
+    "LimitedValue": 1.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2323,7 +2323,7 @@
     "SetNumber": 1,
     "EternalID": 308,
     "Name": "Touch of the Umbren",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2331,7 +2331,7 @@
     "SetNumber": 1,
     "EternalID": 309,
     "Name": "The Last Word",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2355,7 +2355,7 @@
     "SetNumber": 1,
     "EternalID": 312,
     "Name": "Rakano Artisan",
-    "LimitedValue": 2.166666667,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2419,7 +2419,7 @@
     "SetNumber": 1,
     "EternalID": 321,
     "Name": "Renegade Valkyrie",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2427,7 +2427,7 @@
     "SetNumber": 1,
     "EternalID": 322,
     "Name": "Righteous Fury",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2435,7 +2435,7 @@
     "SetNumber": 1,
     "EternalID": 323,
     "Name": "Navani, Warsinger",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2443,7 +2443,7 @@
     "SetNumber": 1,
     "EternalID": 324,
     "Name": "Field Captain",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2467,7 +2467,7 @@
     "SetNumber": 1,
     "EternalID": 328,
     "Name": "Starsteel Daisho",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2523,7 +2523,7 @@
     "SetNumber": 1,
     "EternalID": 335,
     "Name": "Knight-Chancellor Siraf",
-    "LimitedValue": 4.6,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2531,7 +2531,7 @@
     "SetNumber": 1,
     "EternalID": 336,
     "Name": "Vodakhan's Staff",
-    "LimitedValue": 3.9,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2595,7 +2595,7 @@
     "SetNumber": 1,
     "EternalID": 346,
     "Name": "Minotaur Ambassador",
-    "LimitedValue": 1,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2619,7 +2619,7 @@
     "SetNumber": 1,
     "EternalID": 350,
     "Name": "Call the Ancients",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2651,7 +2651,7 @@
     "SetNumber": 1,
     "EternalID": 355,
     "Name": "Crown of Possibilities",
-    "LimitedValue": 1.8,
+    "LimitedValue": 2.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2667,7 +2667,7 @@
     "SetNumber": 1,
     "EternalID": 357,
     "Name": "Amaran Camel",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2675,7 +2675,7 @@
     "SetNumber": 1,
     "EternalID": 358,
     "Name": "Champion of Wisdom",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2683,7 +2683,7 @@
     "SetNumber": 1,
     "EternalID": 359,
     "Name": "Crystalline Chalice",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2747,7 +2747,7 @@
     "SetNumber": 1,
     "EternalID": 367,
     "Name": "Strength of the Pack",
-    "LimitedValue": 4.3,
+    "LimitedValue": 3.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2787,7 +2787,7 @@
     "SetNumber": 1,
     "EternalID": 373,
     "Name": "Spell Swipe",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2827,7 +2827,7 @@
     "SetNumber": 1,
     "EternalID": 379,
     "Name": "Twilight Raptor",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2835,7 +2835,7 @@
     "SetNumber": 1,
     "EternalID": 380,
     "Name": "Feln Cauldron",
-    "LimitedValue": 0,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2859,7 +2859,7 @@
     "SetNumber": 1,
     "EternalID": 383,
     "Name": "Nightmaw, Sight Unseen",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2867,7 +2867,7 @@
     "SetNumber": 1,
     "EternalID": 384,
     "Name": "Snowcrush Animist",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2923,7 +2923,7 @@
     "SetNumber": 1,
     "EternalID": 391,
     "Name": "Scraptank",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2955,7 +2955,7 @@
     "SetNumber": 1,
     "EternalID": 396,
     "Name": "Smuggler's Stash",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2963,7 +2963,7 @@
     "SetNumber": 1,
     "EternalID": 397,
     "Name": "Bloodrite Kalis",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3019,7 +3019,7 @@
     "SetNumber": 1,
     "EternalID": 406,
     "Name": "Spiked Helm",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3027,7 +3027,7 @@
     "SetNumber": 1,
     "EternalID": 407,
     "Name": "Worn Shield",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3035,7 +3035,7 @@
     "SetNumber": 1,
     "EternalID": 408,
     "Name": "Seek Power",
-    "LimitedValue": 3,
+    "LimitedValue": 3.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3195,7 +3195,7 @@
     "SetNumber": 1,
     "EternalID": 480,
     "Name": "Vault of the Praxis",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3235,7 +3235,7 @@
     "SetNumber": 1,
     "EternalID": 504,
     "Name": "Steadfast Deputy",
-    "LimitedValue": 0.333333333,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3323,7 +3323,7 @@
     "SetNumber": 2,
     "EternalID": 3,
     "Name": "Young Gun",
-    "LimitedValue": 0.333333333,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3339,7 +3339,7 @@
     "SetNumber": 2,
     "EternalID": 5,
     "Name": "On the Hunt",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3363,7 +3363,7 @@
     "SetNumber": 2,
     "EternalID": 8,
     "Name": "Smith's Hammer",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3371,7 +3371,7 @@
     "SetNumber": 2,
     "EternalID": 9,
     "Name": "Granite Ring",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3411,7 +3411,7 @@
     "SetNumber": 2,
     "EternalID": 14,
     "Name": "Stonescar Excavator",
-    "LimitedValue": 0,
+    "LimitedValue": 0.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3419,7 +3419,7 @@
     "SetNumber": 2,
     "EternalID": 15,
     "Name": "Stoneshaker",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3427,7 +3427,7 @@
     "SetNumber": 2,
     "EternalID": 16,
     "Name": "Twinbarrel",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3475,7 +3475,7 @@
     "SetNumber": 2,
     "EternalID": 22,
     "Name": "Library Phoenix",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3483,7 +3483,7 @@
     "SetNumber": 2,
     "EternalID": 23,
     "Name": "Reforge",
-    "LimitedValue": 1.1,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3531,7 +3531,7 @@
     "SetNumber": 2,
     "EternalID": 29,
     "Name": "Stonepowder Heretic",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3555,7 +3555,7 @@
     "SetNumber": 2,
     "EternalID": 32,
     "Name": "Flamestoker",
-    "LimitedValue": 3.8,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3659,7 +3659,7 @@
     "SetNumber": 2,
     "EternalID": 45,
     "Name": "Amber Ring",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3691,7 +3691,7 @@
     "SetNumber": 2,
     "EternalID": 49,
     "Name": "Shepherd's Horn",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3739,7 +3739,7 @@
     "SetNumber": 2,
     "EternalID": 55,
     "Name": "Viper's Bite",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3747,7 +3747,7 @@
     "SetNumber": 2,
     "EternalID": 56,
     "Name": "Amaran Archaeologist",
-    "LimitedValue": 2.333333333,
+    "LimitedValue": 2.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3883,7 +3883,7 @@
     "SetNumber": 2,
     "EternalID": 73,
     "Name": "Strength of Many",
-    "LimitedValue": 2,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3907,7 +3907,7 @@
     "SetNumber": 2,
     "EternalID": 76,
     "Name": "Tranquil Scholar",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3923,7 +3923,7 @@
     "SetNumber": 2,
     "EternalID": 78,
     "Name": "Copperhall Cudgel",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3939,7 +3939,7 @@
     "SetNumber": 2,
     "EternalID": 80,
     "Name": "Emerald Ring",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3987,7 +3987,7 @@
     "SetNumber": 2,
     "EternalID": 86,
     "Name": "Peacekeeper's Prod",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4051,7 +4051,7 @@
     "SetNumber": 2,
     "EternalID": 94,
     "Name": "Scepter of Nobility",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4059,7 +4059,7 @@
     "SetNumber": 2,
     "EternalID": 95,
     "Name": "Aerialist's Khopesh",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4099,7 +4099,7 @@
     "SetNumber": 2,
     "EternalID": 100,
     "Name": "Leave a Witness",
-    "LimitedValue": 4.166666667,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4123,7 +4123,7 @@
     "SetNumber": 2,
     "EternalID": 103,
     "Name": "Cloudsnake Hatchling",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4171,7 +4171,7 @@
     "SetNumber": 2,
     "EternalID": 109,
     "Name": "Maelstrom Bell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4195,7 +4195,7 @@
     "SetNumber": 2,
     "EternalID": 112,
     "Name": "Talon Dive",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4211,7 +4211,7 @@
     "SetNumber": 2,
     "EternalID": 114,
     "Name": "Cloudsnake Harrier",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4219,7 +4219,7 @@
     "SetNumber": 2,
     "EternalID": 115,
     "Name": "Cobalt Ring",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4243,7 +4243,7 @@
     "SetNumber": 2,
     "EternalID": 118,
     "Name": "Icebow",
-    "LimitedValue": 2,
+    "LimitedValue": 3.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4251,7 +4251,7 @@
     "SetNumber": 2,
     "EternalID": 119,
     "Name": "Mind Link",
-    "LimitedValue": 0,
+    "LimitedValue": 0.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4347,7 +4347,7 @@
     "SetNumber": 2,
     "EternalID": 131,
     "Name": "Boltcrafter Shaman",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4371,7 +4371,7 @@
     "SetNumber": 2,
     "EternalID": 134,
     "Name": "Lumbering Gruan",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4387,7 +4387,7 @@
     "SetNumber": 2,
     "EternalID": 136,
     "Name": "Icequake",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4403,7 +4403,7 @@
     "SetNumber": 2,
     "EternalID": 138,
     "Name": "Fallen Oni",
-    "LimitedValue": 0.333333333,
+    "LimitedValue": 0.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4411,7 +4411,7 @@
     "SetNumber": 2,
     "EternalID": 139,
     "Name": "Jack's Knife",
-    "LimitedValue": 2.666666667,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4459,7 +4459,7 @@
     "SetNumber": 2,
     "EternalID": 145,
     "Name": "Threaten",
-    "LimitedValue": 0.333333333,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4467,7 +4467,7 @@
     "SetNumber": 2,
     "EternalID": 146,
     "Name": "Amethyst Ring",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4483,7 +4483,7 @@
     "SetNumber": 2,
     "EternalID": 148,
     "Name": "Cat Burglar",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4491,7 +4491,7 @@
     "SetNumber": 2,
     "EternalID": 149,
     "Name": "Lethrai Memory-Keeper",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4499,7 +4499,7 @@
     "SetNumber": 2,
     "EternalID": 150,
     "Name": "Skeeter",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4531,7 +4531,7 @@
     "SetNumber": 2,
     "EternalID": 154,
     "Name": "Means to an End",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4627,7 +4627,7 @@
     "SetNumber": 2,
     "EternalID": 166,
     "Name": "Direwood Prowler",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4683,7 +4683,7 @@
     "SetNumber": 2,
     "EternalID": 173,
     "Name": "Champion of Impulse",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4691,7 +4691,7 @@
     "SetNumber": 2,
     "EternalID": 174,
     "Name": "Noble Firemane",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4731,7 +4731,7 @@
     "SetNumber": 2,
     "EternalID": 179,
     "Name": "Diogo Málaga",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4763,7 +4763,7 @@
     "SetNumber": 2,
     "EternalID": 183,
     "Name": "Heart of the Vault",
-    "LimitedValue": 3.8,
+    "LimitedValue": 3.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4779,7 +4779,7 @@
     "SetNumber": 2,
     "EternalID": 185,
     "Name": "Moment of Creation",
-    "LimitedValue": 1.1,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4795,7 +4795,7 @@
     "SetNumber": 2,
     "EternalID": 187,
     "Name": "Champion of Fury",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4803,7 +4803,7 @@
     "SetNumber": 2,
     "EternalID": 188,
     "Name": "Kaleb's Choice",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4835,7 +4835,7 @@
     "SetNumber": 2,
     "EternalID": 192,
     "Name": "Calderan Cradle",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4859,7 +4859,7 @@
     "SetNumber": 2,
     "EternalID": 195,
     "Name": "Storm Glider",
-    "LimitedValue": 2,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4875,7 +4875,7 @@
     "SetNumber": 2,
     "EternalID": 197,
     "Name": "Knucklebones",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4883,7 +4883,7 @@
     "SetNumber": 2,
     "EternalID": 198,
     "Name": "Topaz Drake",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4899,7 +4899,7 @@
     "SetNumber": 2,
     "EternalID": 200,
     "Name": "Decimate",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4939,7 +4939,7 @@
     "SetNumber": 2,
     "EternalID": 205,
     "Name": "Shadowlands Bonepicker",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4947,7 +4947,7 @@
     "SetNumber": 2,
     "EternalID": 206,
     "Name": "Vara's Choice",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4971,7 +4971,7 @@
     "SetNumber": 2,
     "EternalID": 209,
     "Name": "Xenan Augury",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4995,7 +4995,7 @@
     "SetNumber": 2,
     "EternalID": 212,
     "Name": "Mask of Torment",
-    "LimitedValue": 0,
+    "LimitedValue": 0.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5059,7 +5059,7 @@
     "SetNumber": 2,
     "EternalID": 220,
     "Name": "Eilyn's Choice",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5083,7 +5083,7 @@
     "SetNumber": 2,
     "EternalID": 223,
     "Name": "Shelterwing Rider",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5131,7 +5131,7 @@
     "SetNumber": 2,
     "EternalID": 229,
     "Name": "Nostrix, Lord of Visions",
-    "LimitedValue": 4,
+    "LimitedValue": 4.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5171,7 +5171,7 @@
     "SetNumber": 2,
     "EternalID": 234,
     "Name": "Bartholo, the Seducer",
-    "LimitedValue": 3.4,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5179,7 +5179,7 @@
     "SetNumber": 2,
     "EternalID": 235,
     "Name": "Bloodletter",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5195,7 +5195,7 @@
     "SetNumber": 2,
     "EternalID": 237,
     "Name": "Champion of Vengeance",
-    "LimitedValue": 2.3,
+    "LimitedValue": 1.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5203,7 +5203,7 @@
     "SetNumber": 2,
     "EternalID": 238,
     "Name": "Sanguine Sword",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5259,7 +5259,7 @@
     "SetNumber": 2,
     "EternalID": 245,
     "Name": "Grinva, Judge of Battles",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5315,7 +5315,7 @@
     "SetNumber": 2,
     "EternalID": 253,
     "Name": "Spirit of Resistance",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5331,7 +5331,7 @@
     "SetNumber": 3,
     "EternalID": 2,
     "Name": "Helpful Doorbot",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5355,7 +5355,7 @@
     "SetNumber": 3,
     "EternalID": 5,
     "Name": "Kennelmaster",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5371,7 +5371,7 @@
     "SetNumber": 3,
     "EternalID": 7,
     "Name": "Combustion Cell",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5395,7 +5395,7 @@
     "SetNumber": 3,
     "EternalID": 10,
     "Name": "Miner's Musket",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5459,7 +5459,7 @@
     "SetNumber": 3,
     "EternalID": 18,
     "Name": "Hoof Slash",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5483,7 +5483,7 @@
     "SetNumber": 3,
     "EternalID": 21,
     "Name": "Ruby Catalyst",
-    "LimitedValue": 1.875,
+    "LimitedValue": 1.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5491,7 +5491,7 @@
     "SetNumber": 3,
     "EternalID": 22,
     "Name": "Ruincrawler Yeti",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5507,7 +5507,7 @@
     "SetNumber": 3,
     "EternalID": 24,
     "Name": "Skycrag Huntsman",
-    "LimitedValue": 1.291666667,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5539,7 +5539,7 @@
     "SetNumber": 3,
     "EternalID": 28,
     "Name": "Ancient Defenses",
-    "LimitedValue": 2.916666667,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5547,7 +5547,7 @@
     "SetNumber": 3,
     "EternalID": 29,
     "Name": "Barbarian Camp",
-    "LimitedValue": 1.291666667,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5563,7 +5563,7 @@
     "SetNumber": 3,
     "EternalID": 31,
     "Name": "Kyojun, Grand Shugo",
-    "LimitedValue": 3.9,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5635,7 +5635,7 @@
     "SetNumber": 3,
     "EternalID": 40,
     "Name": "Barkeep's Friend",
-    "LimitedValue": 1.25,
+    "LimitedValue": 1.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5643,7 +5643,7 @@
     "SetNumber": 3,
     "EternalID": 41,
     "Name": "Molten Fist",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5667,7 +5667,7 @@
     "SetNumber": 3,
     "EternalID": 44,
     "Name": "Sureshot",
-    "LimitedValue": 3.208333333,
+    "LimitedValue": 3.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5691,7 +5691,7 @@
     "SetNumber": 3,
     "EternalID": 47,
     "Name": "Improvised Rubbler",
-    "LimitedValue": 2.041666667,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5699,7 +5699,7 @@
     "SetNumber": 3,
     "EternalID": 48,
     "Name": "Rock Carapace",
-    "LimitedValue": 2.333333333,
+    "LimitedValue": 2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5707,7 +5707,7 @@
     "SetNumber": 3,
     "EternalID": 49,
     "Name": "Great-Kiln Titan",
-    "LimitedValue": 4,
+    "LimitedValue": 2.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5731,7 +5731,7 @@
     "SetNumber": 3,
     "EternalID": 52,
     "Name": "Azurite Prixis",
-    "LimitedValue": 0,
+    "LimitedValue": 0.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5739,7 +5739,7 @@
     "SetNumber": 3,
     "EternalID": 53,
     "Name": "Amaran Shoveler",
-    "LimitedValue": 0.1,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5771,7 +5771,7 @@
     "SetNumber": 3,
     "EternalID": 57,
     "Name": "Lucky Prospector",
-    "LimitedValue": 0.75,
+    "LimitedValue": 1.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5795,7 +5795,7 @@
     "SetNumber": 3,
     "EternalID": 60,
     "Name": "Accelerated Impact",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5811,7 +5811,7 @@
     "SetNumber": 3,
     "EternalID": 62,
     "Name": "Cryptic Etchings",
-    "LimitedValue": 1.625,
+    "LimitedValue": 1.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5819,7 +5819,7 @@
     "SetNumber": 3,
     "EternalID": 63,
     "Name": "Disjunction",
-    "LimitedValue": 0.8,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5835,7 +5835,7 @@
     "SetNumber": 3,
     "EternalID": 65,
     "Name": "Trail Maker",
-    "LimitedValue": 3.291666667,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5851,7 +5851,7 @@
     "SetNumber": 3,
     "EternalID": 67,
     "Name": "Dig Site",
-    "LimitedValue": 1,
+    "LimitedValue": 1.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5875,7 +5875,7 @@
     "SetNumber": 3,
     "EternalID": 70,
     "Name": "Moondial",
-    "LimitedValue": 1.958333333,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5891,7 +5891,7 @@
     "SetNumber": 3,
     "EternalID": 72,
     "Name": "Seasoned Spelunker",
-    "LimitedValue": 3.208333333,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5907,7 +5907,7 @@
     "SetNumber": 3,
     "EternalID": 74,
     "Name": "Ageless Sentinel",
-    "LimitedValue": 2.875,
+    "LimitedValue": 2.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5923,7 +5923,7 @@
     "SetNumber": 3,
     "EternalID": 76,
     "Name": "Gear Master",
-    "LimitedValue": 2.291666667,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5939,7 +5939,7 @@
     "SetNumber": 3,
     "EternalID": 78,
     "Name": "Insistent Automaton",
-    "LimitedValue": 3.208333333,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5955,7 +5955,7 @@
     "SetNumber": 3,
     "EternalID": 80,
     "Name": "Lumen Reclaimer",
-    "LimitedValue": 3.1,
+    "LimitedValue": 2.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5963,7 +5963,7 @@
     "SetNumber": 3,
     "EternalID": 81,
     "Name": "Sandspitter",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5971,7 +5971,7 @@
     "SetNumber": 3,
     "EternalID": 82,
     "Name": "First Watch",
-    "LimitedValue": 0.041666667,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5995,7 +5995,7 @@
     "SetNumber": 3,
     "EternalID": 85,
     "Name": "Sandbinder Sentinel",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6027,7 +6027,7 @@
     "SetNumber": 3,
     "EternalID": 89,
     "Name": "Panoptic Guardian",
-    "LimitedValue": 1,
+    "LimitedValue": 0.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6091,7 +6091,7 @@
     "SetNumber": 3,
     "EternalID": 97,
     "Name": "Emerging Colossus",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6171,7 +6171,7 @@
     "SetNumber": 3,
     "EternalID": 107,
     "Name": "Whetstone",
-    "LimitedValue": 0.083333333,
+    "LimitedValue": 0.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6187,7 +6187,7 @@
     "SetNumber": 3,
     "EternalID": 109,
     "Name": "Crackshot Fugitive",
-    "LimitedValue": 2.541666667,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6211,7 +6211,7 @@
     "SetNumber": 3,
     "EternalID": 112,
     "Name": "Reinvigorate",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6219,7 +6219,7 @@
     "SetNumber": 3,
     "EternalID": 113,
     "Name": "Tax Collector",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6275,7 +6275,7 @@
     "SetNumber": 3,
     "EternalID": 120,
     "Name": "Stella, the Shotcaller",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6299,7 +6299,7 @@
     "SetNumber": 3,
     "EternalID": 123,
     "Name": "Valkyrie Cadet",
-    "LimitedValue": 0.958333333,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6331,7 +6331,7 @@
     "SetNumber": 3,
     "EternalID": 127,
     "Name": "Curse of Taxation",
-    "LimitedValue": 0.041666667,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6363,7 +6363,7 @@
     "SetNumber": 3,
     "EternalID": 131,
     "Name": "Rakano Sheriff",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6395,7 +6395,7 @@
     "SetNumber": 3,
     "EternalID": 135,
     "Name": "Valkyrie Bodyguard",
-    "LimitedValue": 2.458333333,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6419,7 +6419,7 @@
     "SetNumber": 3,
     "EternalID": 138,
     "Name": "Hammer of Authority",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6427,7 +6427,7 @@
     "SetNumber": 3,
     "EternalID": 139,
     "Name": "Valkyrie Arcanist",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6435,7 +6435,7 @@
     "SetNumber": 3,
     "EternalID": 140,
     "Name": "Challenge by Law",
-    "LimitedValue": 3.8,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6467,7 +6467,7 @@
     "SetNumber": 3,
     "EternalID": 144,
     "Name": "Tower Shield",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6547,7 +6547,7 @@
     "SetNumber": 3,
     "EternalID": 154,
     "Name": "Jump Kick",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6555,7 +6555,7 @@
     "SetNumber": 3,
     "EternalID": 155,
     "Name": "Powderglider",
-    "LimitedValue": 1.5,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6579,7 +6579,7 @@
     "SetNumber": 3,
     "EternalID": 158,
     "Name": "Snow Pelting",
-    "LimitedValue": 3.5,
+    "LimitedValue": 2.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6635,7 +6635,7 @@
     "SetNumber": 3,
     "EternalID": 165,
     "Name": "Strategize",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6675,7 +6675,7 @@
     "SetNumber": 3,
     "EternalID": 170,
     "Name": "Daring Pioneer",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6707,7 +6707,7 @@
     "SetNumber": 3,
     "EternalID": 174,
     "Name": "Snowfort",
-    "LimitedValue": 0.708333333,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6715,7 +6715,7 @@
     "SetNumber": 3,
     "EternalID": 175,
     "Name": "Sunken Tower",
-    "LimitedValue": 1.8,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6723,7 +6723,7 @@
     "SetNumber": 3,
     "EternalID": 176,
     "Name": "Voracious Fosora",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6803,7 +6803,7 @@
     "SetNumber": 3,
     "EternalID": 186,
     "Name": "Thudrock, Arctic Artisan",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6851,7 +6851,7 @@
     "SetNumber": 3,
     "EternalID": 192,
     "Name": "Alu, Death-Dreamer",
-    "LimitedValue": 2.541666667,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6883,7 +6883,7 @@
     "SetNumber": 3,
     "EternalID": 196,
     "Name": "Jotun Birth Song",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6947,7 +6947,7 @@
     "SetNumber": 3,
     "EternalID": 204,
     "Name": "Grenamender",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6955,7 +6955,7 @@
     "SetNumber": 3,
     "EternalID": 205,
     "Name": "Stonescar Sneak",
-    "LimitedValue": 4.3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7003,7 +7003,7 @@
     "SetNumber": 3,
     "EternalID": 211,
     "Name": "Cowardice",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 0.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7027,7 +7027,7 @@
     "SetNumber": 3,
     "EternalID": 214,
     "Name": "Grenadin Bellower",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7043,7 +7043,7 @@
     "SetNumber": 3,
     "EternalID": 216,
     "Name": "Infused Strike",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7123,7 +7123,7 @@
     "SetNumber": 3,
     "EternalID": 226,
     "Name": "Devastating Setback",
-    "LimitedValue": 2.3,
+    "LimitedValue": 1.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7163,7 +7163,7 @@
     "SetNumber": 3,
     "EternalID": 231,
     "Name": "Vainglory Patrol",
-    "LimitedValue": 2.791666667,
+    "LimitedValue": 2.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7179,7 +7179,7 @@
     "SetNumber": 3,
     "EternalID": 233,
     "Name": "Headsman's Axe",
-    "LimitedValue": 0.9,
+    "LimitedValue": 0.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7203,7 +7203,7 @@
     "SetNumber": 3,
     "EternalID": 236,
     "Name": "Stonescar Scrapper",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7219,7 +7219,7 @@
     "SetNumber": 3,
     "EternalID": 238,
     "Name": "Umbren Coaxer",
-    "LimitedValue": 1.8,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7243,7 +7243,7 @@
     "SetNumber": 3,
     "EternalID": 241,
     "Name": "Gunrustler",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7259,7 +7259,7 @@
     "SetNumber": 3,
     "EternalID": 243,
     "Name": "Solitude",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7299,7 +7299,7 @@
     "SetNumber": 3,
     "EternalID": 248,
     "Name": "Nametaker",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7307,7 +7307,7 @@
     "SetNumber": 3,
     "EternalID": 249,
     "Name": "Valkyrie Harvester",
-    "LimitedValue": 2.916666667,
+    "LimitedValue": 1.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7331,7 +7331,7 @@
     "SetNumber": 3,
     "EternalID": 252,
     "Name": "Mysterium Orb",
-    "LimitedValue": 0.416666667,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7339,7 +7339,7 @@
     "SetNumber": 3,
     "EternalID": 253,
     "Name": "Monolith Guardian",
-    "LimitedValue": 1.708333333,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7363,7 +7363,7 @@
     "SetNumber": 3,
     "EternalID": 256,
     "Name": "Tinker Dronedropper",
-    "LimitedValue": 4.083333333,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7387,7 +7387,7 @@
     "SetNumber": 3,
     "EternalID": 259,
     "Name": "Shush",
-    "LimitedValue": 1.083333333,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7435,7 +7435,7 @@
     "SetNumber": 3,
     "EternalID": 265,
     "Name": "Crownwatch Traitor",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7539,7 +7539,7 @@
     "SetNumber": 3,
     "EternalID": 278,
     "Name": "Curiox, Insatiable Seeker",
-    "LimitedValue": 1.4,
+    "LimitedValue": 4.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7555,7 +7555,7 @@
     "SetNumber": 3,
     "EternalID": 280,
     "Name": "Family Charter",
-    "LimitedValue": 1.541666667,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7595,7 +7595,7 @@
     "SetNumber": 4,
     "EternalID": 5,
     "Name": "Longbarrel",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7643,7 +7643,7 @@
     "SetNumber": 4,
     "EternalID": 11,
     "Name": "Grenarender",
-    "LimitedValue": 2.4,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7667,7 +7667,7 @@
     "SetNumber": 4,
     "EternalID": 14,
     "Name": "Ruination Sledge",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7683,7 +7683,7 @@
     "SetNumber": 4,
     "EternalID": 16,
     "Name": "Trick Shot",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7691,7 +7691,7 @@
     "SetNumber": 4,
     "EternalID": 17,
     "Name": "Factory Quota",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7715,7 +7715,7 @@
     "SetNumber": 4,
     "EternalID": 20,
     "Name": "Honor the Ancestors",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7747,7 +7747,7 @@
     "SetNumber": 4,
     "EternalID": 24,
     "Name": "Refracted Sentinel",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7763,7 +7763,7 @@
     "SetNumber": 4,
     "EternalID": 26,
     "Name": "Rusty Grenamotive",
-    "LimitedValue": 2.6,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7803,7 +7803,7 @@
     "SetNumber": 4,
     "EternalID": 31,
     "Name": "Dramatist's Mask",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7883,7 +7883,7 @@
     "SetNumber": 4,
     "EternalID": 41,
     "Name": "Wildfire Censari",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7899,7 +7899,7 @@
     "SetNumber": 4,
     "EternalID": 43,
     "Name": "Dashing Rapscallion",
-    "LimitedValue": 3.9,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7955,7 +7955,7 @@
     "SetNumber": 4,
     "EternalID": 50,
     "Name": "Sandstorm Scarf",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7963,7 +7963,7 @@
     "SetNumber": 4,
     "EternalID": 51,
     "Name": "Entrancer",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7987,7 +7987,7 @@
     "SetNumber": 4,
     "EternalID": 54,
     "Name": "Meditation",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8019,7 +8019,7 @@
     "SetNumber": 4,
     "EternalID": 58,
     "Name": "Time Flies",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8043,7 +8043,7 @@
     "SetNumber": 4,
     "EternalID": 61,
     "Name": "Illumination Wisp",
-    "LimitedValue": 3,
+    "LimitedValue": 2.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8075,7 +8075,7 @@
     "SetNumber": 4,
     "EternalID": 65,
     "Name": "Living Offering",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8083,7 +8083,7 @@
     "SetNumber": 4,
     "EternalID": 66,
     "Name": "Sandglass Parma",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8091,7 +8091,7 @@
     "SetNumber": 4,
     "EternalID": 67,
     "Name": "Teacher of Humility",
-    "LimitedValue": 3.1,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8107,7 +8107,7 @@
     "SetNumber": 4,
     "EternalID": 69,
     "Name": "Arcanum Hourglass",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8115,7 +8115,7 @@
     "SetNumber": 4,
     "EternalID": 70,
     "Name": "Auralian Merchant",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8147,7 +8147,7 @@
     "SetNumber": 4,
     "EternalID": 74,
     "Name": "Sirocco Elementalist",
-    "LimitedValue": 1,
+    "LimitedValue": 0.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8219,7 +8219,7 @@
     "SetNumber": 4,
     "EternalID": 83,
     "Name": "Sandspout Mirage",
-    "LimitedValue": 1.6,
+    "LimitedValue": 0.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8243,7 +8243,7 @@
     "SetNumber": 4,
     "EternalID": 86,
     "Name": "Wurmstone",
-    "LimitedValue": 2.6,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8299,7 +8299,7 @@
     "SetNumber": 4,
     "EternalID": 93,
     "Name": "Thundering Kerasaur",
-    "LimitedValue": 3.4,
+    "LimitedValue": 2.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8363,7 +8363,7 @@
     "SetNumber": 4,
     "EternalID": 101,
     "Name": "Peacekeeper's Helm",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8387,7 +8387,7 @@
     "SetNumber": 4,
     "EternalID": 104,
     "Name": "Arcane Defense",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8395,7 +8395,7 @@
     "SetNumber": 4,
     "EternalID": 105,
     "Name": "Bar the Gates",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8403,7 +8403,7 @@
     "SetNumber": 4,
     "EternalID": 106,
     "Name": "Barricade",
-    "LimitedValue": 1.3,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8427,7 +8427,7 @@
     "SetNumber": 4,
     "EternalID": 109,
     "Name": "Miner's Canary",
-    "LimitedValue": 2.5,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8443,7 +8443,7 @@
     "SetNumber": 4,
     "EternalID": 111,
     "Name": "Shamebearer",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8451,7 +8451,7 @@
     "SetNumber": 4,
     "EternalID": 112,
     "Name": "Vanquisher's Blade",
-    "LimitedValue": 4,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8475,7 +8475,7 @@
     "SetNumber": 4,
     "EternalID": 115,
     "Name": "Copperhall Bracers",
-    "LimitedValue": 3.9,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8507,7 +8507,7 @@
     "SetNumber": 4,
     "EternalID": 119,
     "Name": "Kosul Battlemage",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8539,7 +8539,7 @@
     "SetNumber": 4,
     "EternalID": 123,
     "Name": "Rolant's Memorial",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8571,7 +8571,7 @@
     "SetNumber": 4,
     "EternalID": 127,
     "Name": "Citywide Ban",
-    "LimitedValue": 0,
+    "LimitedValue": 0.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8595,7 +8595,7 @@
     "SetNumber": 4,
     "EternalID": 130,
     "Name": "Resolute Paladin",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8611,7 +8611,7 @@
     "SetNumber": 4,
     "EternalID": 132,
     "Name": "Sheriff's Hat",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8619,7 +8619,7 @@
     "SetNumber": 4,
     "EternalID": 133,
     "Name": "Sky Crew",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8643,7 +8643,7 @@
     "SetNumber": 4,
     "EternalID": 136,
     "Name": "Rampart Arbalest",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8675,7 +8675,7 @@
     "SetNumber": 4,
     "EternalID": 140,
     "Name": "Ironfist Archon",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8707,7 +8707,7 @@
     "SetNumber": 4,
     "EternalID": 144,
     "Name": "Sigvard, the Last Bastion",
-    "LimitedValue": 1.3,
+    "LimitedValue": 2.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8723,7 +8723,7 @@
     "SetNumber": 4,
     "EternalID": 146,
     "Name": "Gift of Battle",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8763,7 +8763,7 @@
     "SetNumber": 4,
     "EternalID": 151,
     "Name": "Campfire Watchman",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8771,7 +8771,7 @@
     "SetNumber": 4,
     "EternalID": 152,
     "Name": "Changeestik",
-    "LimitedValue": 4,
+    "LimitedValue": 4.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8787,7 +8787,7 @@
     "SetNumber": 4,
     "EternalID": 154,
     "Name": "Gruanform",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8811,7 +8811,7 @@
     "SetNumber": 4,
     "EternalID": 157,
     "Name": "Iceberg Hailshrieker",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8819,7 +8819,7 @@
     "SetNumber": 4,
     "EternalID": 158,
     "Name": "Lida's Apprentice",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8851,7 +8851,7 @@
     "SetNumber": 4,
     "EternalID": 162,
     "Name": "Tend the Flock",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8867,7 +8867,7 @@
     "SetNumber": 4,
     "EternalID": 164,
     "Name": "Acquisitive Crow",
-    "LimitedValue": 3.9,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8883,7 +8883,7 @@
     "SetNumber": 4,
     "EternalID": 166,
     "Name": "Aerial Battle",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8899,7 +8899,7 @@
     "SetNumber": 4,
     "EternalID": 168,
     "Name": "Horde Plunderer",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8923,7 +8923,7 @@
     "SetNumber": 4,
     "EternalID": 171,
     "Name": "Lethrai Secretweaver",
-    "LimitedValue": 2.1,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8939,7 +8939,7 @@
     "SetNumber": 4,
     "EternalID": 173,
     "Name": "Temple Shihan",
-    "LimitedValue": 3.9,
+    "LimitedValue": 3.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8987,7 +8987,7 @@
     "SetNumber": 4,
     "EternalID": 179,
     "Name": "Spiritward Shaman",
-    "LimitedValue": 1,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9003,7 +9003,7 @@
     "SetNumber": 4,
     "EternalID": 181,
     "Name": "Big Brother",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9019,7 +9019,7 @@
     "SetNumber": 4,
     "EternalID": 183,
     "Name": "Gleaming Shield",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9027,7 +9027,7 @@
     "SetNumber": 4,
     "EternalID": 184,
     "Name": "Sack the City",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9035,7 +9035,7 @@
     "SetNumber": 4,
     "EternalID": 185,
     "Name": "Speardiver",
-    "LimitedValue": 3.1,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9091,7 +9091,7 @@
     "SetNumber": 4,
     "EternalID": 192,
     "Name": "Thunder Giant",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9115,7 +9115,7 @@
     "SetNumber": 4,
     "EternalID": 195,
     "Name": "Horrifying Helm",
-    "LimitedValue": 2.3,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9123,7 +9123,7 @@
     "SetNumber": 4,
     "EternalID": 196,
     "Name": "Sewer Sludge",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9163,7 +9163,7 @@
     "SetNumber": 4,
     "EternalID": 201,
     "Name": "Blackhall Warleader",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9171,7 +9171,7 @@
     "SetNumber": 4,
     "EternalID": 202,
     "Name": "Cull the Deck",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9179,7 +9179,7 @@
     "SetNumber": 4,
     "EternalID": 203,
     "Name": "Fearbinder",
-    "LimitedValue": 0,
+    "LimitedValue": 0.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9211,7 +9211,7 @@
     "SetNumber": 4,
     "EternalID": 207,
     "Name": "Lock Horns",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9243,7 +9243,7 @@
     "SetNumber": 4,
     "EternalID": 211,
     "Name": "Thief's Pick",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9259,7 +9259,7 @@
     "SetNumber": 4,
     "EternalID": 213,
     "Name": "Banished Umbren",
-    "LimitedValue": 1,
+    "LimitedValue": 1.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9283,7 +9283,7 @@
     "SetNumber": 4,
     "EternalID": 216,
     "Name": "Hair-Trigger Pistol",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9291,7 +9291,7 @@
     "SetNumber": 4,
     "EternalID": 217,
     "Name": "Kerendon Merchant",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9299,7 +9299,7 @@
     "SetNumber": 4,
     "EternalID": 218,
     "Name": "Marionette Cross",
-    "LimitedValue": 2.5,
+    "LimitedValue": 1.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9315,7 +9315,7 @@
     "SetNumber": 4,
     "EternalID": 220,
     "Name": "Surgeon's Saw",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9323,7 +9323,7 @@
     "SetNumber": 4,
     "EternalID": 221,
     "Name": "Umbren Deathwatcher",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9331,7 +9331,7 @@
     "SetNumber": 4,
     "EternalID": 222,
     "Name": "Void Drummer",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9363,7 +9363,7 @@
     "SetNumber": 4,
     "EternalID": 226,
     "Name": "Holdup",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9387,7 +9387,7 @@
     "SetNumber": 4,
     "EternalID": 229,
     "Name": "Mazag, the Waking Terror",
-    "LimitedValue": 3.8,
+    "LimitedValue": 3.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9411,7 +9411,7 @@
     "SetNumber": 4,
     "EternalID": 232,
     "Name": "Transmogrifier",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9435,7 +9435,7 @@
     "SetNumber": 4,
     "EternalID": 235,
     "Name": "Grimy Alp-luachra",
-    "LimitedValue": 2.5,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9451,7 +9451,7 @@
     "SetNumber": 4,
     "EternalID": 237,
     "Name": "The End is Near",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9475,7 +9475,7 @@
     "SetNumber": 4,
     "EternalID": 240,
     "Name": "Umbren Occluder",
-    "LimitedValue": 3.5,
+    "LimitedValue": 2.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9547,7 +9547,7 @@
     "SetNumber": 4,
     "EternalID": 249,
     "Name": "Sword of Unity",
-    "LimitedValue": 4.9,
+    "LimitedValue": 5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9555,7 +9555,7 @@
     "SetNumber": 4,
     "EternalID": 250,
     "Name": "Siraf's Choice",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9571,7 +9571,7 @@
     "SetNumber": 4,
     "EternalID": 252,
     "Name": "Cirso's Choice",
-    "LimitedValue": 2.6,
+    "LimitedValue": 1.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9635,7 +9635,7 @@
     "SetNumber": 4,
     "EternalID": 260,
     "Name": "Crill, Merciless Pillager",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9643,7 +9643,7 @@
     "SetNumber": 4,
     "EternalID": 261,
     "Name": "Rindra's Choice",
-    "LimitedValue": 0,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9659,7 +9659,7 @@
     "SetNumber": 4,
     "EternalID": 263,
     "Name": "Stonescar Pickaxe",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9675,7 +9675,7 @@
     "SetNumber": 4,
     "EternalID": 265,
     "Name": "Jekk, Lone Gun",
-    "LimitedValue": 4.9,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9699,7 +9699,7 @@
     "SetNumber": 4,
     "EternalID": 268,
     "Name": "Siphon Vitality",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9715,7 +9715,7 @@
     "SetNumber": 4,
     "EternalID": 270,
     "Name": "Cirso's Cleaver",
-    "LimitedValue": 4,
+    "LimitedValue": 5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9731,7 +9731,7 @@
     "SetNumber": 4,
     "EternalID": 272,
     "Name": "Alchemist's Concoction",
-    "LimitedValue": 0.8,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9755,7 +9755,7 @@
     "SetNumber": 4,
     "EternalID": 275,
     "Name": "Recon Tower",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9771,7 +9771,7 @@
     "SetNumber": 4,
     "EternalID": 277,
     "Name": "Mask Maker",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9779,7 +9779,7 @@
     "SetNumber": 4,
     "EternalID": 278,
     "Name": "Momentum Builder",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9795,7 +9795,7 @@
     "SetNumber": 5,
     "EternalID": 1,
     "Name": "Melt Down",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9803,7 +9803,7 @@
     "SetNumber": 5,
     "EternalID": 2,
     "Name": "Bottoms Up",
-    "LimitedValue": 1,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9811,7 +9811,7 @@
     "SetNumber": 5,
     "EternalID": 3,
     "Name": "Cautious Traveler",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9819,7 +9819,7 @@
     "SetNumber": 5,
     "EternalID": 4,
     "Name": "Research Assistant",
-    "LimitedValue": 0,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9827,7 +9827,7 @@
     "SetNumber": 5,
     "EternalID": 5,
     "Name": "Softfoot Burglar",
-    "LimitedValue": 1,
+    "LimitedValue": 1.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9835,7 +9835,7 @@
     "SetNumber": 5,
     "EternalID": 6,
     "Name": "Urn of Choking Embers",
-    "LimitedValue": 2,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9843,7 +9843,7 @@
     "SetNumber": 5,
     "EternalID": 7,
     "Name": "Conflagrate",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9851,7 +9851,7 @@
     "SetNumber": 5,
     "EternalID": 8,
     "Name": "Firemane Lioness",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9859,7 +9859,7 @@
     "SetNumber": 5,
     "EternalID": 9,
     "Name": "Notorious Scoundrel",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9867,7 +9867,7 @@
     "SetNumber": 5,
     "EternalID": 10,
     "Name": "Oni Forgemaster",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9875,7 +9875,7 @@
     "SetNumber": 5,
     "EternalID": 11,
     "Name": "Plunder",
-    "LimitedValue": 3,
+    "LimitedValue": 0.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9891,7 +9891,7 @@
     "SetNumber": 5,
     "EternalID": 13,
     "Name": "Dune Painter",
-    "LimitedValue": 3,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9899,7 +9899,7 @@
     "SetNumber": 5,
     "EternalID": 14,
     "Name": "Fireheart Recruit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9907,7 +9907,7 @@
     "SetNumber": 5,
     "EternalID": 15,
     "Name": "Grandfather's Axe",
-    "LimitedValue": 2,
+    "LimitedValue": 1.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9915,7 +9915,7 @@
     "SetNumber": 5,
     "EternalID": 16,
     "Name": "Lazy Firemane",
-    "LimitedValue": 2,
+    "LimitedValue": 2.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9923,7 +9923,7 @@
     "SetNumber": 5,
     "EternalID": 17,
     "Name": "Nika, the Freescaler",
-    "LimitedValue": 3,
+    "LimitedValue": 1.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9931,7 +9931,7 @@
     "SetNumber": 5,
     "EternalID": 18,
     "Name": "Phoenix Stone",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9939,7 +9939,7 @@
     "SetNumber": 5,
     "EternalID": 19,
     "Name": "Shiftstone Processor",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9947,7 +9947,7 @@
     "SetNumber": 5,
     "EternalID": 20,
     "Name": "Flamebrewer",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9955,7 +9955,7 @@
     "SetNumber": 5,
     "EternalID": 21,
     "Name": "Bladerang",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9963,7 +9963,7 @@
     "SetNumber": 5,
     "EternalID": 22,
     "Name": "Gilded Flames",
-    "LimitedValue": 2,
+    "LimitedValue": 1.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9971,7 +9971,7 @@
     "SetNumber": 5,
     "EternalID": 23,
     "Name": "Hardsight Cyclops",
-    "LimitedValue": 3,
+    "LimitedValue": 2.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9979,7 +9979,7 @@
     "SetNumber": 5,
     "EternalID": 24,
     "Name": "Ruckus Rouser",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9987,7 +9987,7 @@
     "SetNumber": 5,
     "EternalID": 25,
     "Name": "Shingane Firebrand",
-    "LimitedValue": 4,
+    "LimitedValue": 3.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9995,7 +9995,7 @@
     "SetNumber": 5,
     "EternalID": 26,
     "Name": "Siege Breaker",
-    "LimitedValue": 4,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10003,7 +10003,7 @@
     "SetNumber": 5,
     "EternalID": 27,
     "Name": "Spitfire",
-    "LimitedValue": 1,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10011,7 +10011,7 @@
     "SetNumber": 5,
     "EternalID": 28,
     "Name": "Surveilor",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10019,7 +10019,7 @@
     "SetNumber": 5,
     "EternalID": 29,
     "Name": "Ashen Snakepit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10027,7 +10027,7 @@
     "SetNumber": 5,
     "EternalID": 30,
     "Name": "Hordeleader",
-    "LimitedValue": 2,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10035,7 +10035,7 @@
     "SetNumber": 5,
     "EternalID": 31,
     "Name": "Shingane Forge",
-    "LimitedValue": 4,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10043,7 +10043,7 @@
     "SetNumber": 5,
     "EternalID": 32,
     "Name": "Phoenix Hammer",
-    "LimitedValue": 2,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10051,7 +10051,7 @@
     "SetNumber": 5,
     "EternalID": 33,
     "Name": "Shingane Captain",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10059,7 +10059,7 @@
     "SetNumber": 5,
     "EternalID": 34,
     "Name": "Sunscorched Elemental",
-    "LimitedValue": 1,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10067,7 +10067,7 @@
     "SetNumber": 5,
     "EternalID": 35,
     "Name": "Forgeborn",
-    "LimitedValue": 3,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10075,7 +10075,7 @@
     "SetNumber": 5,
     "EternalID": 36,
     "Name": "Xo of the Endless Hoard",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10083,7 +10083,7 @@
     "SetNumber": 5,
     "EternalID": 37,
     "Name": "Magmatic Sentinel",
-    "LimitedValue": 2,
+    "LimitedValue": 1.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10091,7 +10091,7 @@
     "SetNumber": 5,
     "EternalID": 38,
     "Name": "Unearth the Past",
-    "LimitedValue": 2,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10099,7 +10099,7 @@
     "SetNumber": 5,
     "EternalID": 39,
     "Name": "Be Gone",
-    "LimitedValue": 3,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10107,7 +10107,7 @@
     "SetNumber": 5,
     "EternalID": 40,
     "Name": "Crested Runt",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10115,7 +10115,7 @@
     "SetNumber": 5,
     "EternalID": 41,
     "Name": "Araktodon Egg",
-    "LimitedValue": 3,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10123,7 +10123,7 @@
     "SetNumber": 5,
     "EternalID": 42,
     "Name": "Scorpion",
-    "LimitedValue": 1,
+    "LimitedValue": 2.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10131,7 +10131,7 @@
     "SetNumber": 5,
     "EternalID": 43,
     "Name": "Bazaar Trickster",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10139,7 +10139,7 @@
     "SetNumber": 5,
     "EternalID": 44,
     "Name": "Dissociate",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10147,7 +10147,7 @@
     "SetNumber": 5,
     "EternalID": 45,
     "Name": "Locust",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10155,7 +10155,7 @@
     "SetNumber": 5,
     "EternalID": 46,
     "Name": "Packbeast",
-    "LimitedValue": 1,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10163,7 +10163,7 @@
     "SetNumber": 5,
     "EternalID": 47,
     "Name": "Porcelain Mask",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10171,7 +10171,7 @@
     "SetNumber": 5,
     "EternalID": 48,
     "Name": "Resolute Monk",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10187,7 +10187,7 @@
     "SetNumber": 5,
     "EternalID": 50,
     "Name": "Vapor Hut",
-    "LimitedValue": 1,
+    "LimitedValue": 1.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10195,7 +10195,7 @@
     "SetNumber": 5,
     "EternalID": 51,
     "Name": "Antique Polisher",
-    "LimitedValue": 4,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10203,7 +10203,7 @@
     "SetNumber": 5,
     "EternalID": 52,
     "Name": "Awaken the Ages",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10211,7 +10211,7 @@
     "SetNumber": 5,
     "EternalID": 53,
     "Name": "Mesmerized Moth",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10227,7 +10227,7 @@
     "SetNumber": 5,
     "EternalID": 55,
     "Name": "Unraveling Fanatic",
-    "LimitedValue": 3,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10235,7 +10235,7 @@
     "SetNumber": 5,
     "EternalID": 56,
     "Name": "The Praxis Arcanum",
-    "LimitedValue": 2,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10243,7 +10243,7 @@
     "SetNumber": 5,
     "EternalID": 57,
     "Name": "Cykalis, the Burning Sand",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10251,7 +10251,7 @@
     "SetNumber": 5,
     "EternalID": 58,
     "Name": "Eternity Core",
-    "LimitedValue": 3,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10259,7 +10259,7 @@
     "SetNumber": 5,
     "EternalID": 59,
     "Name": "Maddening Whisper",
-    "LimitedValue": 3,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10267,7 +10267,7 @@
     "SetNumber": 5,
     "EternalID": 60,
     "Name": "Pompous Historian",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10275,7 +10275,7 @@
     "SetNumber": 5,
     "EternalID": 61,
     "Name": "Sirocco Glider",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10283,7 +10283,7 @@
     "SetNumber": 5,
     "EternalID": 62,
     "Name": "Temple Artisan",
-    "LimitedValue": 2,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10291,7 +10291,7 @@
     "SetNumber": 5,
     "EternalID": 63,
     "Name": "Thrashing Dune Wurm",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10299,7 +10299,7 @@
     "SetNumber": 5,
     "EternalID": 64,
     "Name": "Twinfang Cobra",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10315,7 +10315,7 @@
     "SetNumber": 5,
     "EternalID": 66,
     "Name": "Confiscate",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10323,7 +10323,7 @@
     "SetNumber": 5,
     "EternalID": 67,
     "Name": "Infused Guardian",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10331,7 +10331,7 @@
     "SetNumber": 5,
     "EternalID": 68,
     "Name": "Moonstone Vanguard",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10339,7 +10339,7 @@
     "SetNumber": 5,
     "EternalID": 69,
     "Name": "Etched Monolith",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10347,7 +10347,7 @@
     "SetNumber": 5,
     "EternalID": 70,
     "Name": "Powerbreach Sentinel",
-    "LimitedValue": 2,
+    "LimitedValue": 3.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10355,7 +10355,7 @@
     "SetNumber": 5,
     "EternalID": 71,
     "Name": "Temple Captain",
-    "LimitedValue": 2,
+    "LimitedValue": 2.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10363,7 +10363,7 @@
     "SetNumber": 5,
     "EternalID": 72,
     "Name": "Ravid, Insect Master",
-    "LimitedValue": 3,
+    "LimitedValue": 4.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10379,7 +10379,7 @@
     "SetNumber": 5,
     "EternalID": 74,
     "Name": "Pit of Lenekta",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10387,7 +10387,7 @@
     "SetNumber": 5,
     "EternalID": 75,
     "Name": "Endure",
-    "LimitedValue": 1,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10395,7 +10395,7 @@
     "SetNumber": 5,
     "EternalID": 76,
     "Name": "Adjudicator's Gavel",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10403,7 +10403,7 @@
     "SetNumber": 5,
     "EternalID": 77,
     "Name": "Defiance",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10411,7 +10411,7 @@
     "SetNumber": 5,
     "EternalID": 78,
     "Name": "Oni Samurai",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10419,7 +10419,7 @@
     "SetNumber": 5,
     "EternalID": 79,
     "Name": "Svetya's Bravery",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10435,7 +10435,7 @@
     "SetNumber": 5,
     "EternalID": 81,
     "Name": "Axe Sharpener",
-    "LimitedValue": 3,
+    "LimitedValue": 3.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10451,7 +10451,7 @@
     "SetNumber": 5,
     "EternalID": 83,
     "Name": "Chancellor's Horn",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10467,7 +10467,7 @@
     "SetNumber": 5,
     "EternalID": 85,
     "Name": "Golem Press",
-    "LimitedValue": 4,
+    "LimitedValue": 3.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10475,7 +10475,7 @@
     "SetNumber": 5,
     "EternalID": 86,
     "Name": "Hojan, Crownbreaker",
-    "LimitedValue": 0,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10491,7 +10491,7 @@
     "SetNumber": 5,
     "EternalID": 88,
     "Name": "Fur Hat",
-    "LimitedValue": 2,
+    "LimitedValue": 1.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10499,7 +10499,7 @@
     "SetNumber": 5,
     "EternalID": 89,
     "Name": "Kemmo, Ijin's Apprentice",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10507,7 +10507,7 @@
     "SetNumber": 5,
     "EternalID": 90,
     "Name": "Kosul Elite",
-    "LimitedValue": 3,
+    "LimitedValue": 1.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10515,7 +10515,7 @@
     "SetNumber": 5,
     "EternalID": 91,
     "Name": "Kosul Recruit",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10539,7 +10539,7 @@
     "SetNumber": 5,
     "EternalID": 94,
     "Name": "Steel-Eyed Pistoleer",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10547,7 +10547,7 @@
     "SetNumber": 5,
     "EternalID": 95,
     "Name": "Avigraft",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10555,7 +10555,7 @@
     "SetNumber": 5,
     "EternalID": 96,
     "Name": "Aerial Spotter",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10571,7 +10571,7 @@
     "SetNumber": 5,
     "EternalID": 98,
     "Name": "Imperial Loyalist",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10579,7 +10579,7 @@
     "SetNumber": 5,
     "EternalID": 99,
     "Name": "Loyal Falcon",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10595,7 +10595,7 @@
     "SetNumber": 5,
     "EternalID": 101,
     "Name": "Xulta Foil",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10603,7 +10603,7 @@
     "SetNumber": 5,
     "EternalID": 102,
     "Name": "Rallying Banner",
-    "LimitedValue": 3,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10611,7 +10611,7 @@
     "SetNumber": 5,
     "EternalID": 103,
     "Name": "Broken Wing Brawler",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10619,7 +10619,7 @@
     "SetNumber": 5,
     "EternalID": 104,
     "Name": "Warband Skald",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10627,7 +10627,7 @@
     "SetNumber": 5,
     "EternalID": 105,
     "Name": "Crownwatch Captain",
-    "LimitedValue": 2,
+    "LimitedValue": 2.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10635,7 +10635,7 @@
     "SetNumber": 5,
     "EternalID": 106,
     "Name": "Defender's Bulwark",
-    "LimitedValue": 1,
+    "LimitedValue": 0.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10643,7 +10643,7 @@
     "SetNumber": 5,
     "EternalID": 107,
     "Name": "New Order Watchwing",
-    "LimitedValue": 3,
+    "LimitedValue": 3.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10651,7 +10651,7 @@
     "SetNumber": 5,
     "EternalID": 108,
     "Name": "Oathkeeper's Hammer",
-    "LimitedValue": 1,
+    "LimitedValue": 2.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10667,7 +10667,7 @@
     "SetNumber": 5,
     "EternalID": 110,
     "Name": "Martyr's Chains",
-    "LimitedValue": 2,
+    "LimitedValue": 1.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10675,7 +10675,7 @@
     "SetNumber": 5,
     "EternalID": 111,
     "Name": "Savior of the Meek",
-    "LimitedValue": 2,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10691,7 +10691,7 @@
     "SetNumber": 5,
     "EternalID": 113,
     "Name": "Crystal Dirk",
-    "LimitedValue": 1,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10699,7 +10699,7 @@
     "SetNumber": 5,
     "EternalID": 114,
     "Name": "Frostwave",
-    "LimitedValue": 4,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10707,7 +10707,7 @@
     "SetNumber": 5,
     "EternalID": 115,
     "Name": "Mischief Yeti",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10715,7 +10715,7 @@
     "SetNumber": 5,
     "EternalID": 116,
     "Name": "Pitfall Trap",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10723,7 +10723,7 @@
     "SetNumber": 5,
     "EternalID": 117,
     "Name": "Savagery",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10731,7 +10731,7 @@
     "SetNumber": 5,
     "EternalID": 118,
     "Name": "Stormtamer Operative",
-    "LimitedValue": 2,
+    "LimitedValue": 2.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10739,7 +10739,7 @@
     "SetNumber": 5,
     "EternalID": 119,
     "Name": "Frost Talisman",
-    "LimitedValue": 3,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10747,7 +10747,7 @@
     "SetNumber": 5,
     "EternalID": 120,
     "Name": "Master Cartographer",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10755,7 +10755,7 @@
     "SetNumber": 5,
     "EternalID": 121,
     "Name": "Reinforced Towershield",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10771,7 +10771,7 @@
     "SetNumber": 5,
     "EternalID": 123,
     "Name": "Parry",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10779,7 +10779,7 @@
     "SetNumber": 5,
     "EternalID": 124,
     "Name": "Snowdrift Delver",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10787,7 +10787,7 @@
     "SetNumber": 5,
     "EternalID": 125,
     "Name": "Wind Cloak",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10795,7 +10795,7 @@
     "SetNumber": 5,
     "EternalID": 126,
     "Name": "Courier Albatross",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10811,7 +10811,7 @@
     "SetNumber": 5,
     "EternalID": 128,
     "Name": "Glacier Shaper",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10827,7 +10827,7 @@
     "SetNumber": 5,
     "EternalID": 130,
     "Name": "Skycrag Scalebreaker",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10835,7 +10835,7 @@
     "SetNumber": 5,
     "EternalID": 131,
     "Name": "Storm Spiral",
-    "LimitedValue": 3,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10843,7 +10843,7 @@
     "SetNumber": 5,
     "EternalID": 132,
     "Name": "Lens of Clarity",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10859,7 +10859,7 @@
     "SetNumber": 5,
     "EternalID": 134,
     "Name": "Court Mage",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10867,7 +10867,7 @@
     "SetNumber": 5,
     "EternalID": 135,
     "Name": "Sudden Schism",
-    "LimitedValue": 2,
+    "LimitedValue": 2.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10883,7 +10883,7 @@
     "SetNumber": 5,
     "EternalID": 137,
     "Name": "Mass Entomancy",
-    "LimitedValue": 2,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10891,7 +10891,7 @@
     "SetNumber": 5,
     "EternalID": 138,
     "Name": "Reclusive Scholar",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10899,7 +10899,7 @@
     "SetNumber": 5,
     "EternalID": 139,
     "Name": "Shadowlands Borderscout",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10907,7 +10907,7 @@
     "SetNumber": 5,
     "EternalID": 140,
     "Name": "Cliffdiver Mantasaur",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10915,7 +10915,7 @@
     "SetNumber": 5,
     "EternalID": 141,
     "Name": "Elvish Swindler",
-    "LimitedValue": 3,
+    "LimitedValue": 2.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10931,7 +10931,7 @@
     "SetNumber": 5,
     "EternalID": 143,
     "Name": "Brilliant Idea",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10939,7 +10939,7 @@
     "SetNumber": 5,
     "EternalID": 144,
     "Name": "Snowsculptor",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10947,7 +10947,7 @@
     "SetNumber": 5,
     "EternalID": 145,
     "Name": "Shaluuk Captain",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10955,7 +10955,7 @@
     "SetNumber": 5,
     "EternalID": 146,
     "Name": "Quicksilver Mirror",
-    "LimitedValue": 2,
+    "LimitedValue": 1.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10987,7 +10987,7 @@
     "SetNumber": 5,
     "EternalID": 150,
     "Name": "Cabal Scavenger",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11003,7 +11003,7 @@
     "SetNumber": 5,
     "EternalID": 152,
     "Name": "Lethrai Lobotomy",
-    "LimitedValue": 3,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11011,7 +11011,7 @@
     "SetNumber": 5,
     "EternalID": 153,
     "Name": "Rat Cage",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11019,7 +11019,7 @@
     "SetNumber": 5,
     "EternalID": 154,
     "Name": "Secret Passage",
-    "LimitedValue": 1,
+    "LimitedValue": 2.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11027,7 +11027,7 @@
     "SetNumber": 5,
     "EternalID": 155,
     "Name": "Weary Spiteling",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11035,7 +11035,7 @@
     "SetNumber": 5,
     "EternalID": 156,
     "Name": "Blood Quill",
-    "LimitedValue": 0,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11043,7 +11043,7 @@
     "SetNumber": 5,
     "EternalID": 157,
     "Name": "Curator's Spear",
-    "LimitedValue": 3,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11059,7 +11059,7 @@
     "SetNumber": 5,
     "EternalID": 159,
     "Name": "Kerendon Steward",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11067,7 +11067,7 @@
     "SetNumber": 5,
     "EternalID": 160,
     "Name": "Mob Rule",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11075,7 +11075,7 @@
     "SetNumber": 5,
     "EternalID": 161,
     "Name": "Mournful Deathcap",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11083,7 +11083,7 @@
     "SetNumber": 5,
     "EternalID": 162,
     "Name": "Obliviobot",
-    "LimitedValue": 2,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11091,7 +11091,7 @@
     "SetNumber": 5,
     "EternalID": 163,
     "Name": "Scavenge",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11099,7 +11099,7 @@
     "SetNumber": 5,
     "EternalID": 164,
     "Name": "Tavia, Lethrai Raidleader",
-    "LimitedValue": 2,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11107,7 +11107,7 @@
     "SetNumber": 5,
     "EternalID": 165,
     "Name": "Warlock's Brew",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11115,7 +11115,7 @@
     "SetNumber": 5,
     "EternalID": 166,
     "Name": "Flickerling",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11123,7 +11123,7 @@
     "SetNumber": 5,
     "EternalID": 167,
     "Name": "Mug",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11131,7 +11131,7 @@
     "SetNumber": 5,
     "EternalID": 168,
     "Name": "Rhysta, Acantha's Herald",
-    "LimitedValue": 4,
+    "LimitedValue": 2.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11139,7 +11139,7 @@
     "SetNumber": 5,
     "EternalID": 169,
     "Name": "Dumping Ground",
-    "LimitedValue": 2,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11147,7 +11147,7 @@
     "SetNumber": 5,
     "EternalID": 170,
     "Name": "Fangs in the Dark",
-    "LimitedValue": 3,
+    "LimitedValue": 0.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11155,7 +11155,7 @@
     "SetNumber": 5,
     "EternalID": 171,
     "Name": "Governor Sahin",
-    "LimitedValue": 2,
+    "LimitedValue": 2.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11171,7 +11171,7 @@
     "SetNumber": 5,
     "EternalID": 173,
     "Name": "Umbral Edge",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11179,7 +11179,7 @@
     "SetNumber": 5,
     "EternalID": 174,
     "Name": "Consuming Greed",
-    "LimitedValue": 3,
+    "LimitedValue": 2.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11187,7 +11187,7 @@
     "SetNumber": 5,
     "EternalID": 175,
     "Name": "Elder Astrologer",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11195,7 +11195,7 @@
     "SetNumber": 5,
     "EternalID": 176,
     "Name": "Eye for an Eye",
-    "LimitedValue": 3,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11203,7 +11203,7 @@
     "SetNumber": 5,
     "EternalID": 177,
     "Name": "Breathstealer",
-    "LimitedValue": 1,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11211,7 +11211,7 @@
     "SetNumber": 5,
     "EternalID": 178,
     "Name": "Pillar of Dreams",
-    "LimitedValue": 3,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11219,7 +11219,7 @@
     "SetNumber": 5,
     "EternalID": 179,
     "Name": "Bloodlust",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11227,7 +11227,7 @@
     "SetNumber": 5,
     "EternalID": 180,
     "Name": "Auric Captain",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11243,7 +11243,7 @@
     "SetNumber": 5,
     "EternalID": 182,
     "Name": "Dizo's Office",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11251,7 +11251,7 @@
     "SetNumber": 5,
     "EternalID": 183,
     "Name": "Fear Made Flesh",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11259,7 +11259,7 @@
     "SetNumber": 5,
     "EternalID": 184,
     "Name": "Improvised Club",
-    "LimitedValue": 3,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11267,7 +11267,7 @@
     "SetNumber": 5,
     "EternalID": 185,
     "Name": "Acantha, the Huntress",
-    "LimitedValue": 1,
+    "LimitedValue": 1.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11275,7 +11275,7 @@
     "SetNumber": 5,
     "EternalID": 186,
     "Name": "Darya, Warrior Poet",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11283,7 +11283,7 @@
     "SetNumber": 5,
     "EternalID": 187,
     "Name": "Stoneshell Walker",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11291,7 +11291,7 @@
     "SetNumber": 5,
     "EternalID": 188,
     "Name": "Penitent Bull",
-    "LimitedValue": 3,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11299,7 +11299,7 @@
     "SetNumber": 5,
     "EternalID": 189,
     "Name": "Serene Meditant",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11307,7 +11307,7 @@
     "SetNumber": 5,
     "EternalID": 190,
     "Name": "Aniyah, Arctic Sheriff",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11315,7 +11315,7 @@
     "SetNumber": 5,
     "EternalID": 191,
     "Name": "Gate Guardian",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11323,7 +11323,7 @@
     "SetNumber": 5,
     "EternalID": 192,
     "Name": "Lethrai Hideaway",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11331,7 +11331,7 @@
     "SetNumber": 5,
     "EternalID": 193,
     "Name": "Zende, the Heart-Binder",
-    "LimitedValue": 3,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11339,7 +11339,7 @@
     "SetNumber": 5,
     "EternalID": 194,
     "Name": "Clan Huntcaller",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11371,7 +11371,7 @@
     "SetNumber": 5,
     "EternalID": 198,
     "Name": "Red Canyon Smuggler",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11379,7 +11379,7 @@
     "SetNumber": 5,
     "EternalID": 199,
     "Name": "Eaton, Seditious Noble",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11387,7 +11387,7 @@
     "SetNumber": 5,
     "EternalID": 200,
     "Name": "Ijin's Workshop",
-    "LimitedValue": 2,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11395,7 +11395,7 @@
     "SetNumber": 5,
     "EternalID": 201,
     "Name": "Deadeye",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11403,7 +11403,7 @@
     "SetNumber": 5,
     "EternalID": 202,
     "Name": "Honeypot",
-    "LimitedValue": 2,
+    "LimitedValue": 2.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11419,7 +11419,7 @@
     "SetNumber": 5,
     "EternalID": 204,
     "Name": "Great Valley Smuggler",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11427,7 +11427,7 @@
     "SetNumber": 5,
     "EternalID": 205,
     "Name": "Colossal Pteriax",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11443,7 +11443,7 @@
     "SetNumber": 5,
     "EternalID": 207,
     "Name": "Tunneling Gargantua",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11451,7 +11451,7 @@
     "SetNumber": 5,
     "EternalID": 208,
     "Name": "Lost Scroll",
-    "LimitedValue": 2,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11459,7 +11459,7 @@
     "SetNumber": 5,
     "EternalID": 209,
     "Name": "Back for More",
-    "LimitedValue": 2,
+    "LimitedValue": 0.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11467,7 +11467,7 @@
     "SetNumber": 5,
     "EternalID": 210,
     "Name": "Hidden Road Smuggler",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11475,7 +11475,7 @@
     "SetNumber": 5,
     "EternalID": 211,
     "Name": "Resilient Wagoneer",
-    "LimitedValue": 3,
+    "LimitedValue": 2.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11491,7 +11491,7 @@
     "SetNumber": 5,
     "EternalID": 213,
     "Name": "Regent's Tomb",
-    "LimitedValue": 2,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11499,7 +11499,7 @@
     "SetNumber": 5,
     "EternalID": 214,
     "Name": "Mighty Strikes",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11507,7 +11507,7 @@
     "SetNumber": 5,
     "EternalID": 215,
     "Name": "Howling Peak Smuggler",
-    "LimitedValue": 1,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11515,7 +11515,7 @@
     "SetNumber": 5,
     "EternalID": 216,
     "Name": "Iceberg Shineefinder",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11523,7 +11523,7 @@
     "SetNumber": 5,
     "EternalID": 217,
     "Name": "Chunk Chunk",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11531,7 +11531,7 @@
     "SetNumber": 5,
     "EternalID": 218,
     "Name": "Burn Them All",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11539,7 +11539,7 @@
     "SetNumber": 5,
     "EternalID": 219,
     "Name": "Howling Peak",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11547,7 +11547,7 @@
     "SetNumber": 5,
     "EternalID": 220,
     "Name": "Lethrai Courtier",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11555,7 +11555,7 @@
     "SetNumber": 5,
     "EternalID": 221,
     "Name": "Ebon Dune Smuggler",
-    "LimitedValue": 1,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11563,7 +11563,7 @@
     "SetNumber": 5,
     "EternalID": 222,
     "Name": "Sadistic Ritualist",
-    "LimitedValue": 1,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11571,7 +11571,7 @@
     "SetNumber": 5,
     "EternalID": 223,
     "Name": "Dread",
-    "LimitedValue": 1,
+    "LimitedValue": 1.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11579,7 +11579,7 @@
     "SetNumber": 5,
     "EternalID": 224,
     "Name": "Xenan Temple",
-    "LimitedValue": 3,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11587,7 +11587,7 @@
     "SetNumber": 5,
     "EternalID": 225,
     "Name": "Blistersting Claws",
-    "LimitedValue": 2,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11595,7 +11595,7 @@
     "SetNumber": 5,
     "EternalID": 226,
     "Name": "Token of Honor",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11603,7 +11603,7 @@
     "SetNumber": 5,
     "EternalID": 227,
     "Name": "Ixtun Cargo",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11611,7 +11611,7 @@
     "SetNumber": 5,
     "EternalID": 228,
     "Name": "Display of Honor",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11619,7 +11619,7 @@
     "SetNumber": 5,
     "EternalID": 229,
     "Name": "Kosul Beastmaster",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11627,7 +11627,7 @@
     "SetNumber": 5,
     "EternalID": 230,
     "Name": "Quinn, Lone Wanderer",
-    "LimitedValue": 2,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11635,7 +11635,7 @@
     "SetNumber": 5,
     "EternalID": 231,
     "Name": "Token of Knowledge",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11643,7 +11643,7 @@
     "SetNumber": 5,
     "EternalID": 232,
     "Name": "Auralian Cargo",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11651,7 +11651,7 @@
     "SetNumber": 5,
     "EternalID": 233,
     "Name": "Display of Knowledge",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11675,7 +11675,7 @@
     "SetNumber": 5,
     "EternalID": 236,
     "Name": "Token of Ambition",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11683,7 +11683,7 @@
     "SetNumber": 5,
     "EternalID": 237,
     "Name": "Winchest Cargo",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11691,7 +11691,7 @@
     "SetNumber": 5,
     "EternalID": 238,
     "Name": "Blaze",
-    "LimitedValue": 2,
+    "LimitedValue": 2.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11699,7 +11699,7 @@
     "SetNumber": 5,
     "EternalID": 239,
     "Name": "Display of Ambition",
-    "LimitedValue": 3,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11715,7 +11715,7 @@
     "SetNumber": 5,
     "EternalID": 241,
     "Name": "Token of Instinct",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11723,7 +11723,7 @@
     "SetNumber": 5,
     "EternalID": 242,
     "Name": "Jennev Cargo",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11731,7 +11731,7 @@
     "SetNumber": 5,
     "EternalID": 243,
     "Name": "Carnivorous Sauropod",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11739,7 +11739,7 @@
     "SetNumber": 5,
     "EternalID": 244,
     "Name": "Display of Instinct",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11747,7 +11747,7 @@
     "SetNumber": 5,
     "EternalID": 245,
     "Name": "Zal Chi, Herald of War",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11755,7 +11755,7 @@
     "SetNumber": 5,
     "EternalID": 246,
     "Name": "Token of Vision",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11763,7 +11763,7 @@
     "SetNumber": 5,
     "EternalID": 247,
     "Name": "Kerendon Cargo",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11771,7 +11771,7 @@
     "SetNumber": 5,
     "EternalID": 248,
     "Name": "Bleak Basin Guide",
-    "LimitedValue": 2,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11787,7 +11787,7 @@
     "SetNumber": 5,
     "EternalID": 250,
     "Name": "Grinva, Breaker of Will",
-    "LimitedValue": 5,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11795,7 +11795,7 @@
     "SetNumber": 5,
     "EternalID": 251,
     "Name": "Astromancer's Compass",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11803,7 +11803,7 @@
     "SetNumber": 5,
     "EternalID": 252,
     "Name": "Bannerman",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11811,7 +11811,7 @@
     "SetNumber": 5,
     "EternalID": 253,
     "Name": "Iron Hook",
-    "LimitedValue": 3,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11835,7 +11835,7 @@
     "SetNumber": 5,
     "EternalID": 256,
     "Name": "Rumbling Contraption",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   }
