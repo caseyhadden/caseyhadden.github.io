@@ -75,14 +75,6 @@ had before.
 </select>
 <input type="button" value="Sort" onclick="sort()"></input>
 
-<strong>NOTE: This page currently uses Sunyveil's tier list for Defiance
-because it is the one available. For the purpose of consistency with the
-earlier lists used, this will be updated to the TDC tier list when and if
-it is made available.
-
-Based on some discussion in the discord channel, it looks like the TDC tier
-list will be available sometime between now and the first few days of 2019.</strong>
-
 <textarea cols="60" rows="20" id="pool"></textarea>
 
 <h4>Sorted pool</h4>
