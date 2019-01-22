@@ -75,6 +75,8 @@ had before.
 </select>
 <input type="button" value="Sort" onclick="sort()"></input>
 
+<strong>This tool now uses the latest TDC tier list for Defiance.</strong>
+
 <textarea cols="60" rows="20" id="pool"></textarea>
 
 <h4>Sorted pool</h4>
