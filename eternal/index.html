@@ -139,7 +139,7 @@ a different process; let me know. Or anything else. We&rsquo;re all trying
 to improve.</p>
 
 <ol>
-<li>Email <a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#x6d;&#x65;&#x40;&#99;&#97;&#x73;&#101;&#121;&#104;&#97;&#100;&#x64;&#x65;&#x6e;&#x2e;&#99;&#111;&#109;">&#x6d;&#x65;&#x40;&#x63;&#x61;&#x73;&#x65;&#x79;&#104;&#x61;&#100;&#x64;&#101;&#x6e;&#46;&#99;&#x6f;&#109;</a></li>
+<li>Email <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x6d;&#101;&#x40;&#x63;&#x61;&#115;&#101;&#121;&#104;&#97;&#100;&#x64;&#x65;&#x6e;&#x2e;&#x63;&#111;&#x6d;">&#109;&#x65;&#x40;&#x63;&#x61;&#x73;&#101;&#x79;&#104;&#97;&#x64;&#100;&#101;&#110;&#46;&#x63;&#111;&#109;</a></li>
 <li>Send me a DM on discord Dendroaspis#2087.</li>
 </ol>
 
@@ -164,7 +164,12 @@ had before.</li>
 </ol>
 
 
-<p><a id="tool"></a>Threshold:
+<p><a id="tool"></a>Included Factions: <input type="checkbox" id="fire" value="F" checked><label for="fire">Fire</label>
+<input type="checkbox" id="time" value="T" checked><label for="time">Time</label>
+<input type="checkbox" id="justice" value="J" checked><label for="justice">Justice</label>
+<input type="checkbox" id="primal" value="P" checked><label for="primal">Primal</label>
+<input type="checkbox" id="shadow" value="S" checked><label for="shadow">Shadow</label>
+<br/>Threshold:
 <select id="threshold">
   <option value="4.5">&gt;= 4.5 - bomb, dominates game if unanswered</option>
   <option value="4.0">&gt;= 4.0 - high impact card generating value or tempo</option>
@@ -183,7 +188,7 @@ had before.</li>
 
 <p><textarea cols="60" rows="20" id="pool"></textarea></p>
 
-<h4>Sorted pool</h4>
+<h4>Sorted pool <input type="button" value="Toggle details" onclick="toggleExtra()"></input></h4>
 
 
 
@@ -237,23 +242,52 @@ function sort() {
 
     valuedPool.sort(SortByValue).reverse()
 
+    requestedInfluence = []
+    $.each($("input:checked"), function(index, value) {
+      requestedInfluence.push(value.value)
+    })
+
     threshold = $("#threshold").val()
+    tableContent = "<table id='sort_results'>"
     $.each(valuedPool, function(index, value) {
-        if (value.LimitedValue >= threshold) {
+        cardInfluence = makeUnique(value.Influence)
+        influenceDiff = cardInfluence.filter(x => !requestedInfluence.includes(x))
+        if (value.LimitedValue >= threshold && influenceDiff.length == 0) {
             output = "1 " + value.Name + " (Set" + value.SetNumber + " #" + value.EternalID + ")"
             if (value.LimitedValue >= 4.0) {
                 output = "<strong>" + output + "</strong>"
             } else if (value.LimitedValue >= 3.0) {
                 output = "<em>" + output + "</em>"
             }
-            $("#result").append("<span title='" + value.LimitedValue + "'>" + output + "</span><br/>")
+            tableContent += "<tr>"
+            tableContent += "<td class='card_data'>" + output + "</td>"
+            tableContent += "<td class='influence_data'>" + value.Influence + "</td>"
+            tableContent += "<td class='value_data'>" + value.LimitedValue + "</td>"
+            tableContent += "</tr>"
         }
     })
+    tableContent += "</table>"
+    $("#result").append(tableContent)
+    toggleExtra() // hide to start
 
     $.each(notFoundPool, function(index, value) {
       output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
       $("#result").append("<strike>" + output + "</strike><br/>")
     })
+}
+
+function toggleExtra() {
+    tbl = $("#sort_results")
+    console.log(tbl)
+    influenceColumn = tbl.find(".influence_data")
+    console.log(influenceColumn)
+    influenceColumn.toggle()
+    tbl.find(".value_data").toggle()
+}
+
+function makeUnique(str) {
+  uniq = String.prototype.concat(...new Set(str))
+  return uniq.split("")
 }
 
 function SortByValue(a, b) {
@@ -346,6 +380,8 @@ function substr(str,i,j){
     return s;
 }
 </script>
+
+
 
 
   
