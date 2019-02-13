@@ -60,7 +60,12 @@ result, it is likely a good option to completely re-evaluate your pool
 from scratch each week vs. assuming you should just build onto what you
 had before.
 
-<a id="tool"></a>Threshold:
+<a id="tool"></a>Included Factions: <input type="checkbox" id="fire" value="F" checked><label for="fire">Fire</label>
+<input type="checkbox" id="time" value="T" checked><label for="time">Time</label>
+<input type="checkbox" id="justice" value="J" checked><label for="justice">Justice</label>
+<input type="checkbox" id="primal" value="P" checked><label for="primal">Primal</label>
+<input type="checkbox" id="shadow" value="S" checked><label for="shadow">Shadow</label>
+<br/>Threshold:
 <select id="threshold">
   <option value="4.5">&gt;= 4.5 - bomb, dominates game if unanswered</option>
   <option value="4.0">&gt;= 4.0 - high impact card generating value or tempo</option>
@@ -75,11 +80,12 @@ had before.
 </select>
 <input type="button" value="Sort" onclick="sort()"></input>
 
+
 <strong>This tool now uses the latest TDC tier list for Defiance.</strong>
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
-<h4>Sorted pool</h4>
+<h4>Sorted pool <input type="button" value="Toggle details" onclick="toggleExtra()"></input></h4>
 
 <div id="result">
 </div>
@@ -127,23 +133,52 @@ function sort() {
 
     valuedPool.sort(SortByValue).reverse()
 
+    requestedInfluence = []
+    $.each($("input:checked"), function(index, value) {
+      requestedInfluence.push(value.value)
+    })
+
     threshold = $("#threshold").val()
+    tableContent = "<table id='sort_results'>"
     $.each(valuedPool, function(index, value) {
-        if (value.LimitedValue >= threshold) {
+        cardInfluence = makeUnique(value.Influence)
+        influenceDiff = cardInfluence.filter(x => !requestedInfluence.includes(x))
+        if (value.LimitedValue >= threshold && influenceDiff.length == 0) {
             output = "1 " + value.Name + " (Set" + value.SetNumber + " #" + value.EternalID + ")"
             if (value.LimitedValue >= 4.0) {
                 output = "<strong>" + output + "</strong>"
             } else if (value.LimitedValue >= 3.0) {
                 output = "<em>" + output + "</em>"
             }
-            $("#result").append("<span title='" + value.LimitedValue + "'>" + output + "</span><br/>")
+            tableContent += "<tr>"
+            tableContent += "<td class='card_data'>" + output + "</td>"
+            tableContent += "<td style='padding-left: 10px' class='influence_data'>" + value.Influence + "</td>"
+            tableContent += "<td style='padding-left: 10px' class='value_data'>" + value.LimitedValue + "</td>"
+            tableContent += "</tr>"
         }
     })
+    tableContent += "</table>"
+    $("#result").append(tableContent)
+    toggleExtra() // hide to start
 
     $.each(notFoundPool, function(index, value) {
       output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
       $("#result").append("<strike>" + output + "</strike><br/>")
     })
+}
+
+function toggleExtra() {
+    tbl = $("#sort_results")
+    console.log(tbl)
+    influenceColumn = tbl.find(".influence_data")
+    console.log(influenceColumn)
+    influenceColumn.toggle()
+    tbl.find(".value_data").toggle()
+}
+
+function makeUnique(str) {
+  uniq = String.prototype.concat(...new Set(str))
+  return uniq.split("")
 }
 
 function SortByValue(a, b) {
@@ -236,3 +271,4 @@ function substr(str,i,j){
     return s;
 }
 </script>
+
