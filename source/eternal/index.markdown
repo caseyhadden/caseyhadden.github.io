@@ -270,5 +270,6 @@ function substr(str,i,j){
     }
     return s;
 }
+
 </script>
 

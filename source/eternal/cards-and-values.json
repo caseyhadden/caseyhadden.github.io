@@ -13,7 +13,7 @@
     "EternalID": 3,
     "Name": "Charchain Flail",
     "Influence": "FF",
-    "LimitedValue": 2.2,
+    "LimitedValue": 2.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -22,7 +22,7 @@
     "EternalID": 4,
     "Name": "Heavy Axe",
     "Influence": "F",
-    "LimitedValue": 2.2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -139,7 +139,7 @@
     "EternalID": 18,
     "Name": "Song of War",
     "Influence": "F",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -148,7 +148,7 @@
     "EternalID": 19,
     "Name": "Brazen Daredevil",
     "Influence": "F",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -220,7 +220,7 @@
     "EternalID": 28,
     "Name": "Burn Out",
     "Influence": "F",
-    "LimitedValue": 2,
+    "LimitedValue": 2.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -229,7 +229,7 @@
     "EternalID": 29,
     "Name": "Assembly Line",
     "Influence": "F",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -256,7 +256,7 @@
     "EternalID": 32,
     "Name": "Oni Quartermaster",
     "Influence": "F",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -265,7 +265,7 @@
     "EternalID": 33,
     "Name": "Rally",
     "Influence": "F",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -301,7 +301,7 @@
     "EternalID": 37,
     "Name": "Recogulator",
     "Influence": "F",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -310,7 +310,7 @@
     "EternalID": 38,
     "Name": "Steelfang Chakram",
     "Influence": "F",
-    "LimitedValue": 4.3,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -472,7 +472,7 @@
     "EternalID": 56,
     "Name": "General Izalio",
     "Influence": "FF",
-    "LimitedValue": 4.333333333,
+    "LimitedValue": 4.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -517,7 +517,7 @@
     "EternalID": 62,
     "Name": "Lavablood Goliath",
     "Influence": "FF",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -535,7 +535,7 @@
     "EternalID": 66,
     "Name": "Copper Conduit",
     "Influence": "T",
-    "LimitedValue": 2,
+    "LimitedValue": 2.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -544,7 +544,7 @@
     "EternalID": 67,
     "Name": "Infinite Hourglass",
     "Influence": "T",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -616,7 +616,7 @@
     "EternalID": 75,
     "Name": "Predator's Instinct",
     "Influence": "T",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -643,7 +643,7 @@
     "EternalID": 78,
     "Name": "Voice of the Speaker",
     "Influence": "T",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -670,7 +670,7 @@
     "EternalID": 81,
     "Name": "Secret Pages",
     "Influence": "T",
-    "LimitedValue": 1.6,
+    "LimitedValue": 0.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -751,7 +751,7 @@
     "EternalID": 91,
     "Name": "Dispel",
     "Influence": "T",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -823,7 +823,7 @@
     "EternalID": 99,
     "Name": "Sandstorm Titan",
     "Influence": "TT",
-    "LimitedValue": 4.3,
+    "LimitedValue": 4.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -886,7 +886,7 @@
     "EternalID": 107,
     "Name": "Idol of Destran",
     "Influence": "TT",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.25,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -985,7 +985,7 @@
     "EternalID": 118,
     "Name": "Predatory Carnosaur",
     "Influence": "TTT",
-    "LimitedValue": 4,
+    "LimitedValue": 4.25,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -994,7 +994,7 @@
     "EternalID": 119,
     "Name": "Ancient Terrazon",
     "Influence": "TTT",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1066,7 +1066,7 @@
     "EternalID": 128,
     "Name": "Elder's Feather",
     "Influence": "J",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1084,7 +1084,7 @@
     "EternalID": 130,
     "Name": "Finest Hour",
     "Influence": "J",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1174,7 +1174,7 @@
     "EternalID": 140,
     "Name": "Paladin Oathbook",
     "Influence": "J",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1183,7 +1183,7 @@
     "EternalID": 141,
     "Name": "Rebuke",
     "Influence": "J",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1255,7 +1255,7 @@
     "EternalID": 149,
     "Name": "Order of the Spire",
     "Influence": "J",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1327,7 +1327,7 @@
     "EternalID": 157,
     "Name": "Privilege of Rank",
     "Influence": "J",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1354,7 +1354,7 @@
     "EternalID": 160,
     "Name": "Combrei Magister",
     "Influence": "J",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1363,7 +1363,7 @@
     "EternalID": 162,
     "Name": "Stalwart Shield",
     "Influence": "J",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1381,7 +1381,7 @@
     "EternalID": 164,
     "Name": "Treasury Gate",
     "Influence": "J",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1435,7 +1435,7 @@
     "EternalID": 170,
     "Name": "Hammer of Might",
     "Influence": "J",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1444,7 +1444,7 @@
     "EternalID": 171,
     "Name": "Mithril Mace",
     "Influence": "JJ",
-    "LimitedValue": 1.7,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1507,7 +1507,7 @@
     "EternalID": 180,
     "Name": "Civic Peacekeeper",
     "Influence": "J",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1525,7 +1525,7 @@
     "EternalID": 182,
     "Name": "Augmented Form",
     "Influence": "JJJ",
-    "LimitedValue": 4.3,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1543,7 +1543,7 @@
     "EternalID": 184,
     "Name": "Flight Lieutenant",
     "Influence": "J",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1588,7 +1588,7 @@
     "EternalID": 190,
     "Name": "Levitate",
     "Influence": "P",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1597,7 +1597,7 @@
     "EternalID": 191,
     "Name": "Yeti Spy",
     "Influence": "P",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1660,7 +1660,7 @@
     "EternalID": 199,
     "Name": "Cloudsnake Saddle",
     "Influence": "P",
-    "LimitedValue": 1.2,
+    "LimitedValue": 0.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1696,7 +1696,7 @@
     "EternalID": 203,
     "Name": "Yeti Snowslinger",
     "Influence": "P",
-    "LimitedValue": 2.8,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1759,7 +1759,7 @@
     "EternalID": 210,
     "Name": "Eye of Winter",
     "Influence": "P",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1804,7 +1804,7 @@
     "EternalID": 215,
     "Name": "Scaly Gruan",
     "Influence": "P",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1813,7 +1813,7 @@
     "EternalID": 216,
     "Name": "Icebreaker",
     "Influence": "P",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1975,7 +1975,7 @@
     "EternalID": 234,
     "Name": "Staff of Stories",
     "Influence": "PP",
-    "LimitedValue": 2.3,
+    "LimitedValue": 2.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2038,7 +2038,7 @@
     "EternalID": 241,
     "Name": "Celestial Omen",
     "Influence": "PP",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2200,7 +2200,7 @@
     "EternalID": 260,
     "Name": "Blood Beetle",
     "Influence": "S",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2209,7 +2209,7 @@
     "EternalID": 261,
     "Name": "Devour",
     "Influence": "S",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2272,7 +2272,7 @@
     "EternalID": 268,
     "Name": "Argenport Instigator",
     "Influence": "SS",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2317,7 +2317,7 @@
     "EternalID": 273,
     "Name": "Desperado",
     "Influence": "SS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2407,7 +2407,7 @@
     "EternalID": 283,
     "Name": "Cabal Recruiter",
     "Influence": "S",
-    "LimitedValue": 1.666666667,
+    "LimitedValue": 2.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2506,7 +2506,7 @@
     "EternalID": 294,
     "Name": "Oblivion Spike",
     "Influence": "SS",
-    "LimitedValue": 2,
+    "LimitedValue": 2.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2542,7 +2542,7 @@
     "EternalID": 300,
     "Name": "Argenport Ringmaster",
     "Influence": "SS",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 2.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2569,7 +2569,7 @@
     "EternalID": 303,
     "Name": "Whispers in the Void",
     "Influence": "SSSS",
-    "LimitedValue": 1,
+    "LimitedValue": 0.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2731,7 +2731,7 @@
     "EternalID": 322,
     "Name": "Righteous Fury",
     "Influence": "FJ",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2758,7 +2758,7 @@
     "EternalID": 326,
     "Name": "Ijin, Imperial Armorer",
     "Influence": "FFJ",
-    "LimitedValue": 5,
+    "LimitedValue": 4.625,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2776,7 +2776,7 @@
     "EternalID": 328,
     "Name": "Starsteel Daisho",
     "Influence": "FFJJ",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2848,7 +2848,7 @@
     "EternalID": 336,
     "Name": "Vodakhan's Staff",
     "Influence": "TJ",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2875,7 +2875,7 @@
     "EternalID": 339,
     "Name": "Stronghold's Visage",
     "Influence": "TJ",
-    "LimitedValue": 1,
+    "LimitedValue": 1.25,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2920,7 +2920,7 @@
     "EternalID": 346,
     "Name": "Minotaur Ambassador",
     "Influence": "TJ",
-    "LimitedValue": 2.3,
+    "LimitedValue": 1.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2947,7 +2947,7 @@
     "EternalID": 350,
     "Name": "Call the Ancients",
     "Influence": "TP",
-    "LimitedValue": 2.3,
+    "LimitedValue": 2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2983,7 +2983,7 @@
     "EternalID": 355,
     "Name": "Crown of Possibilities",
     "Influence": "TP",
-    "LimitedValue": 2.2,
+    "LimitedValue": 2.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3019,7 +3019,7 @@
     "EternalID": 359,
     "Name": "Crystalline Chalice",
     "Influence": "TPP",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3046,7 +3046,7 @@
     "EternalID": 362,
     "Name": "Cirso, the Great Glutton",
     "Influence": "TTPP",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3091,7 +3091,7 @@
     "EternalID": 367,
     "Name": "Strength of the Pack",
     "Influence": "PPP",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3118,7 +3118,7 @@
     "EternalID": 371,
     "Name": "Champion of Cunning",
     "Influence": "PS",
-    "LimitedValue": 3.1,
+    "LimitedValue": 2.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3145,7 +3145,7 @@
     "EternalID": 374,
     "Name": "Haunting Scream",
     "Influence": "PS",
-    "LimitedValue": 0.9,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3190,7 +3190,7 @@
     "EternalID": 380,
     "Name": "Feln Cauldron",
     "Influence": "PS",
-    "LimitedValue": 1,
+    "LimitedValue": 0.25,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3226,7 +3226,7 @@
     "EternalID": 384,
     "Name": "Snowcrush Animist",
     "Influence": "PPSS",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3271,7 +3271,7 @@
     "EternalID": 389,
     "Name": "Bandit Queen",
     "Influence": "FFS",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3280,7 +3280,7 @@
     "EternalID": 390,
     "Name": "Infernal Tyrant",
     "Influence": "FFSS",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3325,7 +3325,7 @@
     "EternalID": 396,
     "Name": "Smuggler's Stash",
     "Influence": "FS",
-    "LimitedValue": 3.1,
+    "LimitedValue": 2.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3334,7 +3334,7 @@
     "EternalID": 397,
     "Name": "Bloodrite Kalis",
     "Influence": "FS",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3379,7 +3379,7 @@
     "EternalID": 403,
     "Name": "Stonescar Leviathan",
     "Influence": "FFSS",
-    "LimitedValue": 2.3,
+    "LimitedValue": 1.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3406,7 +3406,7 @@
     "EternalID": 407,
     "Name": "Worn Shield",
     "Influence": "",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3415,7 +3415,7 @@
     "EternalID": 408,
     "Name": "Seek Power",
     "Influence": "",
-    "LimitedValue": 3.2,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3496,7 +3496,7 @@
     "EternalID": 417,
     "Name": "Feln Banner",
     "Influence": "PS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3514,7 +3514,7 @@
     "EternalID": 419,
     "Name": "Stonescar Banner",
     "Influence": "FS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3532,7 +3532,7 @@
     "EternalID": 421,
     "Name": "Elysian Banner",
     "Influence": "TP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3559,7 +3559,7 @@
     "EternalID": 424,
     "Name": "Combrei Banner",
     "Influence": "TJ",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3586,7 +3586,7 @@
     "EternalID": 427,
     "Name": "Rakano Banner",
     "Influence": "FJ",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3595,7 +3595,7 @@
     "EternalID": 480,
     "Name": "Vault of the Praxis",
     "Influence": "TT",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3604,7 +3604,7 @@
     "EternalID": 488,
     "Name": "Scouting Party",
     "Influence": "P",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3793,7 +3793,7 @@
     "EternalID": 9,
     "Name": "Granite Ring",
     "Influence": "F",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3901,7 +3901,7 @@
     "EternalID": 21,
     "Name": "Groundbreaker",
     "Influence": "FFF",
-    "LimitedValue": 3,
+    "LimitedValue": 3.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4117,7 +4117,7 @@
     "EternalID": 45,
     "Name": "Amber Ring",
     "Influence": "T",
-    "LimitedValue": 2,
+    "LimitedValue": 1.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4144,7 +4144,7 @@
     "EternalID": 48,
     "Name": "Evelina, Valley Searcher",
     "Influence": "T",
-    "LimitedValue": 2.8,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4189,7 +4189,7 @@
     "EternalID": 53,
     "Name": "Snapping Brushstalker",
     "Influence": "TT",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4369,7 +4369,7 @@
     "EternalID": 73,
     "Name": "Strength of Many",
     "Influence": "J",
-    "LimitedValue": 2.3,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4432,7 +4432,7 @@
     "EternalID": 80,
     "Name": "Emerald Ring",
     "Influence": "J",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4477,7 +4477,7 @@
     "EternalID": 85,
     "Name": "Shard of the Spire",
     "Influence": "J",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4513,7 +4513,7 @@
     "EternalID": 89,
     "Name": "Valkyrie Militant",
     "Influence": "J",
-    "LimitedValue": 2,
+    "LimitedValue": 1.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4531,7 +4531,7 @@
     "EternalID": 91,
     "Name": "Victor's Cry",
     "Influence": "JJ",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4540,7 +4540,7 @@
     "EternalID": 92,
     "Name": "Crownwatch Press-Gang",
     "Influence": "J",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4549,7 +4549,7 @@
     "EternalID": 93,
     "Name": "Minotaur Duelist",
     "Influence": "JJ",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4612,7 +4612,7 @@
     "EternalID": 100,
     "Name": "Leave a Witness",
     "Influence": "JJJ",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4621,7 +4621,7 @@
     "EternalID": 101,
     "Name": "Elias, the Broken Wing",
     "Influence": "JJJJ",
-    "LimitedValue": 3.4,
+    "LimitedValue": 2.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4702,7 +4702,7 @@
     "EternalID": 110,
     "Name": "Mating Call",
     "Influence": "P",
-    "LimitedValue": 0,
+    "LimitedValue": 0.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4747,7 +4747,7 @@
     "EternalID": 115,
     "Name": "Cobalt Ring",
     "Influence": "P",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4774,7 +4774,7 @@
     "EternalID": 118,
     "Name": "Icebow",
     "Influence": "P",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4900,7 +4900,7 @@
     "EternalID": 132,
     "Name": "Cirso's Meddling",
     "Influence": "P",
-    "LimitedValue": 1,
+    "LimitedValue": 0.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4927,7 +4927,7 @@
     "EternalID": 135,
     "Name": "Adaptive Predator",
     "Influence": "PP",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4999,7 +4999,7 @@
     "EternalID": 143,
     "Name": "Piercing Grief",
     "Influence": "S",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5026,7 +5026,7 @@
     "EternalID": 146,
     "Name": "Amethyst Ring",
     "Influence": "S",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5044,7 +5044,7 @@
     "EternalID": 148,
     "Name": "Cat Burglar",
     "Influence": "S",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5053,7 +5053,7 @@
     "EternalID": 149,
     "Name": "Lethrai Memory-Keeper",
     "Influence": "S",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5071,7 +5071,7 @@
     "EternalID": 151,
     "Name": "Sorrow's Shroud",
     "Influence": "S",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5233,7 +5233,7 @@
     "EternalID": 169,
     "Name": "Inspire Obedience",
     "Influence": "SS",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5251,7 +5251,7 @@
     "EternalID": 171,
     "Name": "Praxis Banner",
     "Influence": "FT",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5269,7 +5269,7 @@
     "EternalID": 173,
     "Name": "Champion of Impulse",
     "Influence": "FT",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5323,7 +5323,7 @@
     "EternalID": 179,
     "Name": "Diogo Málaga",
     "Influence": "FFT",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5332,7 +5332,7 @@
     "EternalID": 180,
     "Name": "Talir's Choice",
     "Influence": "FT",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5359,7 +5359,7 @@
     "EternalID": 183,
     "Name": "Heart of the Vault",
     "Influence": "FFFTTT",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5377,7 +5377,7 @@
     "EternalID": 185,
     "Name": "Moment of Creation",
     "Influence": "FFTT",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5386,7 +5386,7 @@
     "EternalID": 186,
     "Name": "Skycrag Banner",
     "Influence": "FP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5395,7 +5395,7 @@
     "EternalID": 187,
     "Name": "Champion of Fury",
     "Influence": "FP",
-    "LimitedValue": 3,
+    "LimitedValue": 3.25,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5449,7 +5449,7 @@
     "EternalID": 193,
     "Name": "Hunter's Harpoon",
     "Influence": "FP",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5485,7 +5485,7 @@
     "EternalID": 197,
     "Name": "Knucklebones",
     "Influence": "FP",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5521,7 +5521,7 @@
     "EternalID": 201,
     "Name": "Xenan Banner",
     "Influence": "TS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5566,7 +5566,7 @@
     "EternalID": 206,
     "Name": "Vara's Choice",
     "Influence": "TS",
-    "LimitedValue": 2.7,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5620,7 +5620,7 @@
     "EternalID": 212,
     "Name": "Mask of Torment",
     "Influence": "TS",
-    "LimitedValue": 0.7,
+    "LimitedValue": 0.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5656,7 +5656,7 @@
     "EternalID": 216,
     "Name": "Hooru Banner",
     "Influence": "JP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5692,7 +5692,7 @@
     "EternalID": 220,
     "Name": "Eilyn's Choice",
     "Influence": "JP",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5773,7 +5773,7 @@
     "EternalID": 229,
     "Name": "Nostrix, Lord of Visions",
     "Influence": "JJJPPP",
-    "LimitedValue": 4.1,
+    "LimitedValue": 3.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5791,7 +5791,7 @@
     "EternalID": 231,
     "Name": "Argenport Banner",
     "Influence": "JS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5809,7 +5809,7 @@
     "EternalID": 233,
     "Name": "Auric Vigilante",
     "Influence": "JS",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 2.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5818,7 +5818,7 @@
     "EternalID": 234,
     "Name": "Bartholo, the Seducer",
     "Influence": "JJS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -5827,7 +5827,7 @@
     "EternalID": 235,
     "Name": "Bloodletter",
     "Influence": "JS",
-    "LimitedValue": 4.3,
+    "LimitedValue": 4.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5863,7 +5863,7 @@
     "EternalID": 239,
     "Name": "Stonepowder Alchemist",
     "Influence": "JS",
-    "LimitedValue": 3,
+    "LimitedValue": 3.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5917,7 +5917,7 @@
     "EternalID": 245,
     "Name": "Grinva, Judge of Battles",
     "Influence": "JJJSSS",
-    "LimitedValue": 2.2,
+    "LimitedValue": 1.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6007,7 +6007,7 @@
     "EternalID": 3,
     "Name": "Iceberg Frontrunner",
     "Influence": "F",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6097,7 +6097,7 @@
     "EternalID": 13,
     "Name": "Unpredictable Outlaw",
     "Influence": "F",
-    "LimitedValue": 2,
+    "LimitedValue": 2.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6106,7 +6106,7 @@
     "EternalID": 14,
     "Name": "Yeti Sage",
     "Influence": "F",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6133,7 +6133,7 @@
     "EternalID": 17,
     "Name": "First-Shot Rioter",
     "Influence": "F",
-    "LimitedValue": 2.75,
+    "LimitedValue": 2.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6151,7 +6151,7 @@
     "EternalID": 19,
     "Name": "Milos Izalio, Heir to Rebellion",
     "Influence": "FF",
-    "LimitedValue": 2.3,
+    "LimitedValue": 3.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6178,7 +6178,7 @@
     "EternalID": 22,
     "Name": "Ruincrawler Yeti",
     "Influence": "F",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6196,7 +6196,7 @@
     "EternalID": 24,
     "Name": "Skycrag Huntsman",
     "Influence": "F",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6205,7 +6205,7 @@
     "EternalID": 25,
     "Name": "Temple Raider",
     "Influence": "F",
-    "LimitedValue": 2.166666667,
+    "LimitedValue": 1.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6232,7 +6232,7 @@
     "EternalID": 28,
     "Name": "Ancient Defenses",
     "Influence": "FF",
-    "LimitedValue": 2.7,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6250,7 +6250,7 @@
     "EternalID": 30,
     "Name": "Hellfire Oni",
     "Influence": "F",
-    "LimitedValue": 2.625,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6277,7 +6277,7 @@
     "EternalID": 33,
     "Name": "Wandering Forge",
     "Influence": "F",
-    "LimitedValue": 1.708333333,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6286,7 +6286,7 @@
     "EternalID": 34,
     "Name": "Hotbarrel Revolver",
     "Influence": "FF",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6304,7 +6304,7 @@
     "EternalID": 36,
     "Name": "Jekk, Hunted Fugitive",
     "Influence": "FFF",
-    "LimitedValue": 4.666666667,
+    "LimitedValue": 4.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6340,7 +6340,7 @@
     "EternalID": 40,
     "Name": "Barkeep's Friend",
     "Influence": "FF",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6358,7 +6358,7 @@
     "EternalID": 42,
     "Name": "Oni Gunwright",
     "Influence": "FF",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6376,7 +6376,7 @@
     "EternalID": 44,
     "Name": "Sureshot",
     "Influence": "FF",
-    "LimitedValue": 3.1,
+    "LimitedValue": 2.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6385,7 +6385,7 @@
     "EternalID": 45,
     "Name": "Tempered Sentinel",
     "Influence": "FF",
-    "LimitedValue": 1.791666667,
+    "LimitedValue": 1.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6412,7 +6412,7 @@
     "EternalID": 48,
     "Name": "Rock Carapace",
     "Influence": "FF",
-    "LimitedValue": 2,
+    "LimitedValue": 1.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6421,7 +6421,7 @@
     "EternalID": 49,
     "Name": "Great-Kiln Titan",
     "Influence": "FF",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6430,7 +6430,7 @@
     "EternalID": 50,
     "Name": "Heroic Bravo",
     "Influence": "F",
-    "LimitedValue": 2.208333333,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6448,7 +6448,7 @@
     "EternalID": 52,
     "Name": "Azurite Prixis",
     "Influence": "T",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6457,7 +6457,7 @@
     "EternalID": 53,
     "Name": "Amaran Shoveler",
     "Influence": "T",
-    "LimitedValue": 1,
+    "LimitedValue": 0.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6493,7 +6493,7 @@
     "EternalID": 57,
     "Name": "Lucky Prospector",
     "Influence": "T",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6511,7 +6511,7 @@
     "EternalID": 59,
     "Name": "Twilight Hunt",
     "Influence": "T",
-    "LimitedValue": 3.083333333,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6538,7 +6538,7 @@
     "EternalID": 62,
     "Name": "Cryptic Etchings",
     "Influence": "T",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6574,7 +6574,7 @@
     "EternalID": 66,
     "Name": "Baying Serasaur",
     "Influence": "T",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6592,7 +6592,7 @@
     "EternalID": 68,
     "Name": "Lastlight Infusion",
     "Influence": "T",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6628,7 +6628,7 @@
     "EternalID": 72,
     "Name": "Seasoned Spelunker",
     "Influence": "T",
-    "LimitedValue": 4,
+    "LimitedValue": 3.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6637,7 +6637,7 @@
     "EternalID": 73,
     "Name": "Serene Excavator",
     "Influence": "T",
-    "LimitedValue": 2.125,
+    "LimitedValue": 1.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6664,7 +6664,7 @@
     "EternalID": 76,
     "Name": "Gear Master",
     "Influence": "TT",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6673,7 +6673,7 @@
     "EternalID": 77,
     "Name": "Hissing Spiketail",
     "Influence": "T",
-    "LimitedValue": 1,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6727,7 +6727,7 @@
     "EternalID": 83,
     "Name": "Fishing Dinoch",
     "Influence": "T",
-    "LimitedValue": 2.375,
+    "LimitedValue": 1.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6754,7 +6754,7 @@
     "EternalID": 86,
     "Name": "Stirring Sand",
     "Influence": "TT",
-    "LimitedValue": 0.708333333,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6763,7 +6763,7 @@
     "EternalID": 87,
     "Name": "Worldbearer Behemoth",
     "Influence": "TTT",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6790,7 +6790,7 @@
     "EternalID": 90,
     "Name": "Timeworn Sentinel",
     "Influence": "T",
-    "LimitedValue": 1.75,
+    "LimitedValue": 1.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6808,7 +6808,7 @@
     "EternalID": 92,
     "Name": "Serasaur Bull",
     "Influence": "TT",
-    "LimitedValue": 3.291666667,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6826,7 +6826,7 @@
     "EternalID": 94,
     "Name": "Dinosaur Stampede",
     "Influence": "T",
-    "LimitedValue": 0.25,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6835,7 +6835,7 @@
     "EternalID": 95,
     "Name": "Intriguing Ancient",
     "Influence": "T",
-    "LimitedValue": 1.583333333,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6853,7 +6853,7 @@
     "EternalID": 97,
     "Name": "Emerging Colossus",
     "Influence": "TT",
-    "LimitedValue": 0.7,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6862,7 +6862,7 @@
     "EternalID": 98,
     "Name": "Scourstone Sentinel",
     "Influence": "TT",
-    "LimitedValue": 2.458333333,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6871,7 +6871,7 @@
     "EternalID": 99,
     "Name": "Foraging Sauropod",
     "Influence": "T",
-    "LimitedValue": 2.208333333,
+    "LimitedValue": 1.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6880,7 +6880,7 @@
     "EternalID": 100,
     "Name": "Novaquake Titan",
     "Influence": "TTTT",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6925,7 +6925,7 @@
     "EternalID": 105,
     "Name": "Steady Marshal",
     "Influence": "J",
-    "LimitedValue": 1.541666667,
+    "LimitedValue": 1.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6961,7 +6961,7 @@
     "EternalID": 109,
     "Name": "Crackshot Fugitive",
     "Influence": "J",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7006,7 +7006,7 @@
     "EternalID": 114,
     "Name": "Copperhall Marshal",
     "Influence": "J",
-    "LimitedValue": 2.916666667,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7024,7 +7024,7 @@
     "EternalID": 116,
     "Name": "Entrapment",
     "Influence": "J",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7033,7 +7033,7 @@
     "EternalID": 117,
     "Name": "Showdown",
     "Influence": "J",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7060,7 +7060,7 @@
     "EternalID": 120,
     "Name": "Stella, the Shotcaller",
     "Influence": "J",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.625,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7087,7 +7087,7 @@
     "EternalID": 123,
     "Name": "Valkyrie Cadet",
     "Influence": "J",
-    "LimitedValue": 1.1,
+    "LimitedValue": 0.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7123,7 +7123,7 @@
     "EternalID": 127,
     "Name": "Curse of Taxation",
     "Influence": "J",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7150,7 +7150,7 @@
     "EternalID": 130,
     "Name": "Lawman's Sidearm",
     "Influence": "J",
-    "LimitedValue": 2.625,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7159,7 +7159,7 @@
     "EternalID": 131,
     "Name": "Rakano Sheriff",
     "Influence": "JJ",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7222,7 +7222,7 @@
     "EternalID": 138,
     "Name": "Hammer of Authority",
     "Influence": "JJ",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7267,7 +7267,7 @@
     "EternalID": 143,
     "Name": "Regent's Blade",
     "Influence": "JJJ",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7285,7 +7285,7 @@
     "EternalID": 145,
     "Name": "Town Watchman",
     "Influence": "J",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7312,7 +7312,7 @@
     "EternalID": 148,
     "Name": "Last Stand at the Gate",
     "Influence": "JJJ",
-    "LimitedValue": 3,
+    "LimitedValue": 2.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7375,7 +7375,7 @@
     "EternalID": 155,
     "Name": "Powderglider",
     "Influence": "P",
-    "LimitedValue": 0.6,
+    "LimitedValue": 1.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7384,7 +7384,7 @@
     "EternalID": 156,
     "Name": "Savage Skybrood",
     "Influence": "P",
-    "LimitedValue": 0.791666667,
+    "LimitedValue": 0.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7402,7 +7402,7 @@
     "EternalID": 158,
     "Name": "Snow Pelting",
     "Influence": "P",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7438,7 +7438,7 @@
     "EternalID": 162,
     "Name": "Horizon Seeker",
     "Influence": "P",
-    "LimitedValue": 1,
+    "LimitedValue": 0.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7447,7 +7447,7 @@
     "EternalID": 163,
     "Name": "Iceberg Mason",
     "Influence": "P",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7501,7 +7501,7 @@
     "EternalID": 169,
     "Name": "Yeti Windflyer",
     "Influence": "P",
-    "LimitedValue": 2.458333333,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7510,7 +7510,7 @@
     "EternalID": 170,
     "Name": "Daring Pioneer",
     "Influence": "PP",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7546,7 +7546,7 @@
     "EternalID": 174,
     "Name": "Snowfort",
     "Influence": "P",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7555,7 +7555,7 @@
     "EternalID": 175,
     "Name": "Sunken Tower",
     "Influence": "PP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7564,7 +7564,7 @@
     "EternalID": 176,
     "Name": "Voracious Fosora",
     "Influence": "P",
-    "LimitedValue": 1.6,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7573,7 +7573,7 @@
     "EternalID": 177,
     "Name": "Wild Rider",
     "Influence": "P",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7582,7 +7582,7 @@
     "EternalID": 178,
     "Name": "Yeti Furflinger",
     "Influence": "PPP",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7591,7 +7591,7 @@
     "EternalID": 179,
     "Name": "Clutchmate",
     "Influence": "P",
-    "LimitedValue": 1.958333333,
+    "LimitedValue": 2.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7627,7 +7627,7 @@
     "EternalID": 183,
     "Name": "Nocturnal Kyrex",
     "Influence": "P",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7645,7 +7645,7 @@
     "EternalID": 185,
     "Name": "Slushdumper",
     "Influence": "P",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7654,7 +7654,7 @@
     "EternalID": 186,
     "Name": "Thudrock, Arctic Artisan",
     "Influence": "PP",
-    "LimitedValue": 3.1,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7663,7 +7663,7 @@
     "EternalID": 187,
     "Name": "Jotun Feast-Caller",
     "Influence": "PPP",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.25,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7672,7 +7672,7 @@
     "EternalID": 188,
     "Name": "Jotun Punter",
     "Influence": "P",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7735,7 +7735,7 @@
     "EternalID": 195,
     "Name": "Slope Sergeant",
     "Influence": "PP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7744,7 +7744,7 @@
     "EternalID": 196,
     "Name": "Jotun Birth Song",
     "Influence": "PPP",
-    "LimitedValue": 0,
+    "LimitedValue": 1.25,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7753,7 +7753,7 @@
     "EternalID": 197,
     "Name": "Novice Herdrider",
     "Influence": "PP",
-    "LimitedValue": 1.958333333,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7762,7 +7762,7 @@
     "EternalID": 198,
     "Name": "Bellowing Thunderfoot",
     "Influence": "PP",
-    "LimitedValue": 2.25,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7771,7 +7771,7 @@
     "EternalID": 199,
     "Name": "Surveying Mantasaur",
     "Influence": "P",
-    "LimitedValue": 1.916666667,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7780,7 +7780,7 @@
     "EternalID": 200,
     "Name": "Clutchkeeper",
     "Influence": "PPP",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7834,7 +7834,7 @@
     "EternalID": 206,
     "Name": "Trusty Revolver",
     "Influence": "S",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7906,7 +7906,7 @@
     "EternalID": 214,
     "Name": "Grenadin Bellower",
     "Influence": "S",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7915,7 +7915,7 @@
     "EternalID": 215,
     "Name": "Hideout Pistol",
     "Influence": "S",
-    "LimitedValue": 2.1,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7933,7 +7933,7 @@
     "EternalID": 217,
     "Name": "Miris Nightshade",
     "Influence": "S",
-    "LimitedValue": 3,
+    "LimitedValue": 3.25,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7969,7 +7969,7 @@
     "EternalID": 221,
     "Name": "Darkclaw Ravager",
     "Influence": "SS",
-    "LimitedValue": 0.6,
+    "LimitedValue": 1.25,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8041,7 +8041,7 @@
     "EternalID": 229,
     "Name": "Final-Shot Rioter",
     "Influence": "S",
-    "LimitedValue": 2.166666667,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8050,7 +8050,7 @@
     "EternalID": 230,
     "Name": "Street Leecher",
     "Influence": "SS",
-    "LimitedValue": 3.125,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8068,7 +8068,7 @@
     "EternalID": 232,
     "Name": "Cover of Darkness",
     "Influence": "S",
-    "LimitedValue": 1,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8077,7 +8077,7 @@
     "EternalID": 233,
     "Name": "Headsman's Axe",
     "Influence": "SS",
-    "LimitedValue": 0.7,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8113,7 +8113,7 @@
     "EternalID": 237,
     "Name": "Triggerman",
     "Influence": "S",
-    "LimitedValue": 2,
+    "LimitedValue": 2.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8140,7 +8140,7 @@
     "EternalID": 240,
     "Name": "Finback Komonat",
     "Influence": "S",
-    "LimitedValue": 1.208333333,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8149,7 +8149,7 @@
     "EternalID": 241,
     "Name": "Gunrustler",
     "Influence": "SS",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8194,7 +8194,7 @@
     "EternalID": 246,
     "Name": "Repulsive Gorger",
     "Influence": "SS",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8203,7 +8203,7 @@
     "EternalID": 247,
     "Name": "Encroaching Darkness",
     "Influence": "SSS",
-    "LimitedValue": 0,
+    "LimitedValue": 0.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8212,7 +8212,7 @@
     "EternalID": 248,
     "Name": "Nametaker",
     "Influence": "SSS",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8230,7 +8230,7 @@
     "EternalID": 250,
     "Name": "Callous Survivalist",
     "Influence": "SS",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8248,7 +8248,7 @@
     "EternalID": 252,
     "Name": "Mysterium Orb",
     "Influence": "FT",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8257,7 +8257,7 @@
     "EternalID": 253,
     "Name": "Monolith Guardian",
     "Influence": "FT",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8293,7 +8293,7 @@
     "EternalID": 257,
     "Name": "Iceberg Warchief",
     "Influence": "FP",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8320,7 +8320,7 @@
     "EternalID": 260,
     "Name": "Scaletender",
     "Influence": "TP",
-    "LimitedValue": 2.583333333,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8428,7 +8428,7 @@
     "EternalID": 272,
     "Name": "Agile Deathjaw",
     "Influence": "TTSS",
-    "LimitedValue": 1.916666667,
+    "LimitedValue": 0.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8482,7 +8482,7 @@
     "EternalID": 278,
     "Name": "Curiox, Insatiable Seeker",
     "Influence": "FFTTPP",
-    "LimitedValue": 4.4,
+    "LimitedValue": 3.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8491,7 +8491,7 @@
     "EternalID": 279,
     "Name": "Common Cause",
     "Influence": "",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8500,7 +8500,7 @@
     "EternalID": 280,
     "Name": "Family Charter",
     "Influence": "",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8572,7 +8572,7 @@
     "EternalID": 8,
     "Name": "Ankle Cutter",
     "Influence": "F",
-    "LimitedValue": 2,
+    "LimitedValue": 2.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8617,7 +8617,7 @@
     "EternalID": 13,
     "Name": "Quicktrigger Outlaw",
     "Influence": "F",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8644,7 +8644,7 @@
     "EternalID": 16,
     "Name": "Trick Shot",
     "Influence": "F",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8653,7 +8653,7 @@
     "EternalID": 17,
     "Name": "Factory Quota",
     "Influence": "F",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8716,7 +8716,7 @@
     "EternalID": 24,
     "Name": "Refracted Sentinel",
     "Influence": "F",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8779,7 +8779,7 @@
     "EternalID": 31,
     "Name": "Dramatist's Mask",
     "Influence": "FF",
-    "LimitedValue": 0.7,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8788,7 +8788,7 @@
     "EternalID": 32,
     "Name": "Iceberg Scattershot",
     "Influence": "F",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8950,7 +8950,7 @@
     "EternalID": 50,
     "Name": "Sandstorm Scarf",
     "Influence": "T",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9103,7 +9103,7 @@
     "EternalID": 67,
     "Name": "Teacher of Humility",
     "Influence": "TT",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9130,7 +9130,7 @@
     "EternalID": 70,
     "Name": "Auralian Merchant",
     "Influence": "T",
-    "LimitedValue": 3.7,
+    "LimitedValue": 3.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9337,7 +9337,7 @@
     "EternalID": 93,
     "Name": "Thundering Kerasaur",
     "Influence": "TTTT",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.625,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9481,7 +9481,7 @@
     "EternalID": 109,
     "Name": "Miner's Canary",
     "Influence": "J",
-    "LimitedValue": 0.8,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9508,7 +9508,7 @@
     "EternalID": 112,
     "Name": "Vanquisher's Blade",
     "Influence": "JJ",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9643,7 +9643,7 @@
     "EternalID": 127,
     "Name": "Citywide Ban",
     "Influence": "J",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9679,7 +9679,7 @@
     "EternalID": 131,
     "Name": "Sheriff Marley",
     "Influence": "JJ",
-    "LimitedValue": 4,
+    "LimitedValue": 4.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9688,7 +9688,7 @@
     "EternalID": 132,
     "Name": "Sheriff's Hat",
     "Influence": "J",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9733,7 +9733,7 @@
     "EternalID": 137,
     "Name": "Answer the Call",
     "Influence": "JJ",
-    "LimitedValue": 0.8,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9751,7 +9751,7 @@
     "EternalID": 139,
     "Name": "Heirloom Blade",
     "Influence": "JJJ",
-    "LimitedValue": 1,
+    "LimitedValue": 0.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9850,7 +9850,7 @@
     "EternalID": 150,
     "Name": "Substitute",
     "Influence": "P",
-    "LimitedValue": 0.8,
+    "LimitedValue": 0.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9877,7 +9877,7 @@
     "EternalID": 153,
     "Name": "Dusk Raider",
     "Influence": "P",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9913,7 +9913,7 @@
     "EternalID": 157,
     "Name": "Iceberg Hailshrieker",
     "Influence": "P",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9922,7 +9922,7 @@
     "EternalID": 158,
     "Name": "Lida's Apprentice",
     "Influence": "P",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.625,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10021,7 +10021,7 @@
     "EternalID": 169,
     "Name": "Jennev Merchant",
     "Influence": "P",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10039,7 +10039,7 @@
     "EternalID": 171,
     "Name": "Lethrai Secretweaver",
     "Influence": "PP",
-    "LimitedValue": 1.7,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10129,7 +10129,7 @@
     "EternalID": 181,
     "Name": "Big Brother",
     "Influence": "PP",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10210,7 +10210,7 @@
     "EternalID": 190,
     "Name": "Enraged Araktodon",
     "Influence": "PP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 1.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10300,7 +10300,7 @@
     "EternalID": 200,
     "Name": "Back-Alley Delinquent",
     "Influence": "S",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10327,7 +10327,7 @@
     "EternalID": 203,
     "Name": "Fearbinder",
     "Influence": "S",
-    "LimitedValue": 0.7,
+    "LimitedValue": 1.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10354,7 +10354,7 @@
     "EternalID": 206,
     "Name": "Lethrai Target Caller",
     "Influence": "SS",
-    "LimitedValue": 3,
+    "LimitedValue": 2.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10390,7 +10390,7 @@
     "EternalID": 210,
     "Name": "Territorial Elf",
     "Influence": "S",
-    "LimitedValue": 1,
+    "LimitedValue": 1.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10462,7 +10462,7 @@
     "EternalID": 218,
     "Name": "Marionette Cross",
     "Influence": "SSS",
-    "LimitedValue": 1.7,
+    "LimitedValue": 2.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10543,7 +10543,7 @@
     "EternalID": 227,
     "Name": "Kyrex Coach Driver",
     "Influence": "SS",
-    "LimitedValue": 3,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10552,7 +10552,7 @@
     "EternalID": 228,
     "Name": "Lethrai Provocateur",
     "Influence": "SS",
-    "LimitedValue": 4,
+    "LimitedValue": 3.625,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10561,7 +10561,7 @@
     "EternalID": 229,
     "Name": "Mazag, the Waking Terror",
     "Influence": "SSS",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10588,7 +10588,7 @@
     "EternalID": 232,
     "Name": "Transmogrifier",
     "Influence": "S",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10759,7 +10759,7 @@
     "EternalID": 251,
     "Name": "Derry Cathain, Ripclaw Rider",
     "Influence": "TP",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.25,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10822,7 +10822,7 @@
     "EternalID": 258,
     "Name": "Crunch, the Hoarder",
     "Influence": "FP",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10840,7 +10840,7 @@
     "EternalID": 260,
     "Name": "Crill, Merciless Pillager",
     "Influence": "FFPP",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10858,7 +10858,7 @@
     "EternalID": 262,
     "Name": "Ancient of the Ice Caves",
     "Influence": "PPSS",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10876,7 +10876,7 @@
     "EternalID": 264,
     "Name": "Jekk's Choice",
     "Influence": "FS",
-    "LimitedValue": 3,
+    "LimitedValue": 3.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10921,7 +10921,7 @@
     "EternalID": 269,
     "Name": "Unraveler of Destinies",
     "Influence": "TTSS",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10957,7 +10957,7 @@
     "EternalID": 273,
     "Name": "Veteran Strategist",
     "Influence": "",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10984,7 +10984,7 @@
     "EternalID": 276,
     "Name": "Disrupt",
     "Influence": "",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10993,7 +10993,7 @@
     "EternalID": 277,
     "Name": "Mask Maker",
     "Influence": "",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11002,7 +11002,7 @@
     "EternalID": 278,
     "Name": "Momentum Builder",
     "Influence": "",
-    "LimitedValue": 3.8,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11020,7 +11020,7 @@
     "EternalID": 1,
     "Name": "Melt Down",
     "Influence": "F",
-    "LimitedValue": 0,
+    "LimitedValue": 0.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11029,7 +11029,7 @@
     "EternalID": 2,
     "Name": "Bottoms Up",
     "Influence": "F",
-    "LimitedValue": 3,
+    "LimitedValue": 3.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11038,7 +11038,7 @@
     "EternalID": 3,
     "Name": "Cautious Traveler",
     "Influence": "F",
-    "LimitedValue": 0.9,
+    "LimitedValue": 0.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11047,7 +11047,7 @@
     "EternalID": 4,
     "Name": "Research Assistant",
     "Influence": "F",
-    "LimitedValue": 1,
+    "LimitedValue": 0.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11056,7 +11056,7 @@
     "EternalID": 5,
     "Name": "Softfoot Burglar",
     "Influence": "F",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11065,7 +11065,7 @@
     "EternalID": 6,
     "Name": "Urn of Choking Embers",
     "Influence": "F",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11092,7 +11092,7 @@
     "EternalID": 9,
     "Name": "Notorious Scoundrel",
     "Influence": "F",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11110,7 +11110,7 @@
     "EternalID": 11,
     "Name": "Plunder",
     "Influence": "F",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11128,7 +11128,7 @@
     "EternalID": 13,
     "Name": "Dune Painter",
     "Influence": "F",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11137,7 +11137,7 @@
     "EternalID": 14,
     "Name": "Fireheart Recruit",
     "Influence": "F",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11146,7 +11146,7 @@
     "EternalID": 15,
     "Name": "Grandfather's Axe",
     "Influence": "F",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11155,7 +11155,7 @@
     "EternalID": 16,
     "Name": "Lazy Firemane",
     "Influence": "F",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11164,7 +11164,7 @@
     "EternalID": 17,
     "Name": "Nika, the Freescaler",
     "Influence": "FFF",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11209,7 +11209,7 @@
     "EternalID": 22,
     "Name": "Gilded Flames",
     "Influence": "F",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11218,7 +11218,7 @@
     "EternalID": 23,
     "Name": "Hardsight Cyclops",
     "Influence": "FF",
-    "LimitedValue": 2,
+    "LimitedValue": 2.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11236,7 +11236,7 @@
     "EternalID": 25,
     "Name": "Shingane Firebrand",
     "Influence": "FF",
-    "LimitedValue": 3.9,
+    "LimitedValue": 3.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11245,7 +11245,7 @@
     "EternalID": 26,
     "Name": "Siege Breaker",
     "Influence": "FF",
-    "LimitedValue": 4.2,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11254,7 +11254,7 @@
     "EternalID": 27,
     "Name": "Spitfire",
     "Influence": "F",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11281,7 +11281,7 @@
     "EternalID": 30,
     "Name": "Hordeleader",
     "Influence": "F",
-    "LimitedValue": 3,
+    "LimitedValue": 2.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11299,7 +11299,7 @@
     "EternalID": 32,
     "Name": "Phoenix Hammer",
     "Influence": "FF",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11326,7 +11326,7 @@
     "EternalID": 35,
     "Name": "Forgeborn",
     "Influence": "FFF",
-    "LimitedValue": 1,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11335,7 +11335,7 @@
     "EternalID": 36,
     "Name": "Xo of the Endless Hoard",
     "Influence": "FFF",
-    "LimitedValue": 4.5,
+    "LimitedValue": 3.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11344,7 +11344,7 @@
     "EternalID": 37,
     "Name": "Magmatic Sentinel",
     "Influence": "FF",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11362,7 +11362,7 @@
     "EternalID": 39,
     "Name": "Be Gone",
     "Influence": "T",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11380,7 +11380,7 @@
     "EternalID": 41,
     "Name": "Araktodon Egg",
     "Influence": "T",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11389,7 +11389,7 @@
     "EternalID": 42,
     "Name": "Scorpion",
     "Influence": "T",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11425,7 +11425,7 @@
     "EternalID": 46,
     "Name": "Packbeast",
     "Influence": "T",
-    "LimitedValue": 1.3,
+    "LimitedValue": 1.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11434,7 +11434,7 @@
     "EternalID": 47,
     "Name": "Porcelain Mask",
     "Influence": "T",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11506,7 +11506,7 @@
     "EternalID": 55,
     "Name": "Unraveling Fanatic",
     "Influence": "T",
-    "LimitedValue": 2,
+    "LimitedValue": 2.25,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11533,7 +11533,7 @@
     "EternalID": 58,
     "Name": "Eternity Core",
     "Influence": "T",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11542,7 +11542,7 @@
     "EternalID": 59,
     "Name": "Maddening Whisper",
     "Influence": "TT",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11551,7 +11551,7 @@
     "EternalID": 60,
     "Name": "Pompous Historian",
     "Influence": "TT",
-    "LimitedValue": 2.3,
+    "LimitedValue": 2.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11560,7 +11560,7 @@
     "EternalID": 61,
     "Name": "Sirocco Glider",
     "Influence": "T",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11569,7 +11569,7 @@
     "EternalID": 62,
     "Name": "Temple Artisan",
     "Influence": "T",
-    "LimitedValue": 2.3,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11614,7 +11614,7 @@
     "EternalID": 67,
     "Name": "Infused Guardian",
     "Influence": "T",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11641,7 +11641,7 @@
     "EternalID": 70,
     "Name": "Powerbreach Sentinel",
     "Influence": "TT",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11650,7 +11650,7 @@
     "EternalID": 71,
     "Name": "Temple Captain",
     "Influence": "TT",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11659,7 +11659,7 @@
     "EternalID": 72,
     "Name": "Ravid, Insect Master",
     "Influence": "TT",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11686,7 +11686,7 @@
     "EternalID": 75,
     "Name": "Endure",
     "Influence": "J",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11713,7 +11713,7 @@
     "EternalID": 78,
     "Name": "Oni Samurai",
     "Influence": "J",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11722,7 +11722,7 @@
     "EternalID": 79,
     "Name": "Svetya's Bravery",
     "Influence": "J",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11731,7 +11731,7 @@
     "EternalID": 80,
     "Name": "Unmoored Valkyrie",
     "Influence": "J",
-    "LimitedValue": 2,
+    "LimitedValue": 1.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11740,7 +11740,7 @@
     "EternalID": 81,
     "Name": "Axe Sharpener",
     "Influence": "J",
-    "LimitedValue": 3.2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11758,7 +11758,7 @@
     "EternalID": 83,
     "Name": "Chancellor's Horn",
     "Influence": "J",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11776,7 +11776,7 @@
     "EternalID": 85,
     "Name": "Golem Press",
     "Influence": "J",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11803,7 +11803,7 @@
     "EternalID": 88,
     "Name": "Fur Hat",
     "Influence": "J",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11821,7 +11821,7 @@
     "EternalID": 90,
     "Name": "Kosul Elite",
     "Influence": "JJ",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11848,7 +11848,7 @@
     "EternalID": 93,
     "Name": "Siraf's Beacon",
     "Influence": "J",
-    "LimitedValue": 3,
+    "LimitedValue": 2.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11866,7 +11866,7 @@
     "EternalID": 95,
     "Name": "Avigraft",
     "Influence": "JJ",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11875,7 +11875,7 @@
     "EternalID": 96,
     "Name": "Aerial Spotter",
     "Influence": "JJ",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11893,7 +11893,7 @@
     "EternalID": 98,
     "Name": "Imperial Loyalist",
     "Influence": "J",
-    "LimitedValue": 4,
+    "LimitedValue": 3.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11902,7 +11902,7 @@
     "EternalID": 99,
     "Name": "Loyal Falcon",
     "Influence": "JJ",
-    "LimitedValue": 3.7,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11929,7 +11929,7 @@
     "EternalID": 102,
     "Name": "Rallying Banner",
     "Influence": "J",
-    "LimitedValue": 1.4,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11938,7 +11938,7 @@
     "EternalID": 103,
     "Name": "Broken Wing Brawler",
     "Influence": "J",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11956,7 +11956,7 @@
     "EternalID": 105,
     "Name": "Crownwatch Captain",
     "Influence": "JJ",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.625,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11965,7 +11965,7 @@
     "EternalID": 106,
     "Name": "Defender's Bulwark",
     "Influence": "JJ",
-    "LimitedValue": 0.7,
+    "LimitedValue": 0.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11974,7 +11974,7 @@
     "EternalID": 107,
     "Name": "New Order Watchwing",
     "Influence": "JJ",
-    "LimitedValue": 3.8,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11983,7 +11983,7 @@
     "EternalID": 108,
     "Name": "Oathkeeper's Hammer",
     "Influence": "J",
-    "LimitedValue": 2.6,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11992,7 +11992,7 @@
     "EternalID": 109,
     "Name": "Reyna, the Unwavering",
     "Influence": "JJJ",
-    "LimitedValue": 2.9,
+    "LimitedValue": 2.875,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12001,7 +12001,7 @@
     "EternalID": 110,
     "Name": "Martyr's Chains",
     "Influence": "JJJJ",
-    "LimitedValue": 1.3,
+    "LimitedValue": 2.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12046,7 +12046,7 @@
     "EternalID": 115,
     "Name": "Mischief Yeti",
     "Influence": "P",
-    "LimitedValue": 2.4,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12064,7 +12064,7 @@
     "EternalID": 117,
     "Name": "Savagery",
     "Influence": "PPP",
-    "LimitedValue": 1,
+    "LimitedValue": 1.125,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12082,7 +12082,7 @@
     "EternalID": 119,
     "Name": "Frost Talisman",
     "Influence": "P",
-    "LimitedValue": 2,
+    "LimitedValue": 2.625,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12091,7 +12091,7 @@
     "EternalID": 120,
     "Name": "Master Cartographer",
     "Influence": "P",
-    "LimitedValue": 3,
+    "LimitedValue": 2.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12100,7 +12100,7 @@
     "EternalID": 121,
     "Name": "Reinforced Towershield",
     "Influence": "P",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12109,7 +12109,7 @@
     "EternalID": 122,
     "Name": "Kosul Huntsman",
     "Influence": "P",
-    "LimitedValue": 3,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12118,7 +12118,7 @@
     "EternalID": 123,
     "Name": "Parry",
     "Influence": "P",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12154,7 +12154,7 @@
     "EternalID": 127,
     "Name": "Fledgling Avisaur",
     "Influence": "P",
-    "LimitedValue": 1,
+    "LimitedValue": 0.875,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12163,7 +12163,7 @@
     "EternalID": 128,
     "Name": "Glacier Shaper",
     "Influence": "P",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12226,7 +12226,7 @@
     "EternalID": 135,
     "Name": "Sudden Schism",
     "Influence": "PP",
-    "LimitedValue": 2,
+    "LimitedValue": 2.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12244,7 +12244,7 @@
     "EternalID": 137,
     "Name": "Mass Entomancy",
     "Influence": "PP",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12280,7 +12280,7 @@
     "EternalID": 141,
     "Name": "Elvish Swindler",
     "Influence": "PP",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12298,7 +12298,7 @@
     "EternalID": 143,
     "Name": "Brilliant Idea",
     "Influence": "PP",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12307,7 +12307,7 @@
     "EternalID": 144,
     "Name": "Snowsculptor",
     "Influence": "P",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12325,7 +12325,7 @@
     "EternalID": 146,
     "Name": "Quicksilver Mirror",
     "Influence": "PPP",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12334,7 +12334,7 @@
     "EternalID": 147,
     "Name": "Starved Vorlunk",
     "Influence": "PP",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12343,7 +12343,7 @@
     "EternalID": 148,
     "Name": "Eilyn, the Rising Storm",
     "Influence": "PPP",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.125,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12388,7 +12388,7 @@
     "EternalID": 153,
     "Name": "Rat Cage",
     "Influence": "S",
-    "LimitedValue": 1,
+    "LimitedValue": 1.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12397,7 +12397,7 @@
     "EternalID": 154,
     "Name": "Secret Passage",
     "Influence": "S",
-    "LimitedValue": 2.4,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12415,7 +12415,7 @@
     "EternalID": 156,
     "Name": "Blood Quill",
     "Influence": "S",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.625,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12424,7 +12424,7 @@
     "EternalID": 157,
     "Name": "Curator's Spear",
     "Influence": "S",
-    "LimitedValue": 2,
+    "LimitedValue": 2.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12451,7 +12451,7 @@
     "EternalID": 160,
     "Name": "Mob Rule",
     "Influence": "S",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12478,7 +12478,7 @@
     "EternalID": 163,
     "Name": "Scavenge",
     "Influence": "S",
-    "LimitedValue": 2.2,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12496,7 +12496,7 @@
     "EternalID": 165,
     "Name": "Warlock's Brew",
     "Influence": "S",
-    "LimitedValue": 2.9,
+    "LimitedValue": 2.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12505,7 +12505,7 @@
     "EternalID": 166,
     "Name": "Flickerling",
     "Influence": "S",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12523,7 +12523,7 @@
     "EternalID": 168,
     "Name": "Rhysta, Acantha's Herald",
     "Influence": "SS",
-    "LimitedValue": 2.7,
+    "LimitedValue": 3.375,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12532,7 +12532,7 @@
     "EternalID": 169,
     "Name": "Dumping Ground",
     "Influence": "SS",
-    "LimitedValue": 3.9,
+    "LimitedValue": 3.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12541,7 +12541,7 @@
     "EternalID": 170,
     "Name": "Fangs in the Dark",
     "Influence": "SS",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12550,7 +12550,7 @@
     "EternalID": 171,
     "Name": "Governor Sahin",
     "Influence": "S",
-    "LimitedValue": 2.6,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12559,7 +12559,7 @@
     "EternalID": 172,
     "Name": "Lethrai Intimidator",
     "Influence": "S",
-    "LimitedValue": 2.6,
+    "LimitedValue": 3.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12577,7 +12577,7 @@
     "EternalID": 174,
     "Name": "Consuming Greed",
     "Influence": "S",
-    "LimitedValue": 2.7,
+    "LimitedValue": 2.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12595,7 +12595,7 @@
     "EternalID": 176,
     "Name": "Eye for an Eye",
     "Influence": "SS",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12640,7 +12640,7 @@
     "EternalID": 181,
     "Name": "Sadistic Glee",
     "Influence": "S",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12676,7 +12676,7 @@
     "EternalID": 185,
     "Name": "Acantha, the Huntress",
     "Influence": "SS",
-    "LimitedValue": 1.8,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12694,7 +12694,7 @@
     "EternalID": 187,
     "Name": "Stoneshell Walker",
     "Influence": "FT",
-    "LimitedValue": 3,
+    "LimitedValue": 3.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12703,7 +12703,7 @@
     "EternalID": 188,
     "Name": "Penitent Bull",
     "Influence": "TJ",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.25,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12739,7 +12739,7 @@
     "EternalID": 192,
     "Name": "Lethrai Hideaway",
     "Influence": "PS",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12748,7 +12748,7 @@
     "EternalID": 193,
     "Name": "Zende, the Heart-Binder",
     "Influence": "PPSS",
-    "LimitedValue": 3.9,
+    "LimitedValue": 3.75,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12766,7 +12766,7 @@
     "EternalID": 195,
     "Name": "Syl, Hand of the Cabal",
     "Influence": "FFSS",
-    "LimitedValue": 4,
+    "LimitedValue": 4.375,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12775,7 +12775,7 @@
     "EternalID": 196,
     "Name": "Bear Arms",
     "Influence": "FJ",
-    "LimitedValue": 3,
+    "LimitedValue": 3.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12793,7 +12793,7 @@
     "EternalID": 198,
     "Name": "Red Canyon Smuggler",
     "Influence": "FJ",
-    "LimitedValue": 3.7,
+    "LimitedValue": 3.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12802,7 +12802,7 @@
     "EternalID": 199,
     "Name": "Eaton, Seditious Noble",
     "Influence": "FFJJ",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12820,7 +12820,7 @@
     "EternalID": 201,
     "Name": "Deadeye",
     "Influence": "FJ",
-    "LimitedValue": 3,
+    "LimitedValue": 2.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12829,7 +12829,7 @@
     "EternalID": 202,
     "Name": "Honeypot",
     "Influence": "TP",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12865,7 +12865,7 @@
     "EternalID": 206,
     "Name": "Bazaar Stampede",
     "Influence": "TTP",
-    "LimitedValue": 1,
+    "LimitedValue": 0.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12874,7 +12874,7 @@
     "EternalID": 207,
     "Name": "Tunneling Gargantua",
     "Influence": "TP",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.375,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12883,7 +12883,7 @@
     "EternalID": 208,
     "Name": "Lost Scroll",
     "Influence": "JS",
-    "LimitedValue": 1.1,
+    "LimitedValue": 0.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12892,7 +12892,7 @@
     "EternalID": 209,
     "Name": "Back for More",
     "Influence": "JJS",
-    "LimitedValue": 0.7,
+    "LimitedValue": 0.75,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12901,7 +12901,7 @@
     "EternalID": 210,
     "Name": "Hidden Road Smuggler",
     "Influence": "JS",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12910,7 +12910,7 @@
     "EternalID": 211,
     "Name": "Resilient Wagoneer",
     "Influence": "JS",
-    "LimitedValue": 2.9,
+    "LimitedValue": 2.875,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12919,7 +12919,7 @@
     "EternalID": 212,
     "Name": "Howling Kurtarr",
     "Influence": "JJSS",
-    "LimitedValue": 4,
+    "LimitedValue": 3.875,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12928,7 +12928,7 @@
     "EternalID": 213,
     "Name": "Regent's Tomb",
     "Influence": "JS",
-    "LimitedValue": 3.9,
+    "LimitedValue": 3.625,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12937,7 +12937,7 @@
     "EternalID": 214,
     "Name": "Mighty Strikes",
     "Influence": "FP",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.125,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12991,7 +12991,7 @@
     "EternalID": 220,
     "Name": "Lethrai Courtier",
     "Influence": "TS",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.25,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13036,7 +13036,7 @@
     "EternalID": 225,
     "Name": "Blistersting Claws",
     "Influence": "TSS",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -13081,7 +13081,7 @@
     "EternalID": 230,
     "Name": "Quinn, Lone Wanderer",
     "Influence": "FFJJPP",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4.25,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13117,7 +13117,7 @@
     "EternalID": 234,
     "Name": "Tumbling Sloth",
     "Influence": "TPS",
-    "LimitedValue": 2.9,
+    "LimitedValue": 2.375,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13153,7 +13153,7 @@
     "EternalID": 238,
     "Name": "Blaze",
     "Influence": "FJS",
-    "LimitedValue": 2.7,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13162,7 +13162,7 @@
     "EternalID": 239,
     "Name": "Display of Ambition",
     "Influence": "FJS",
-    "LimitedValue": 2.8,
+    "LimitedValue": 3.125,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13216,7 +13216,7 @@
     "EternalID": 245,
     "Name": "Zal Chi, Herald of War",
     "Influence": "FFTTPP",
-    "LimitedValue": 4.4,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13243,7 +13243,7 @@
     "EternalID": 248,
     "Name": "Bleak Basin Guide",
     "Influence": "TJS",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.75,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13252,7 +13252,7 @@
     "EternalID": 249,
     "Name": "Display of Vision",
     "Influence": "TJS",
-    "LimitedValue": 3,
+    "LimitedValue": 2.75,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13279,7 +13279,7 @@
     "EternalID": 252,
     "Name": "Bannerman",
     "Influence": "",
-    "LimitedValue": 3.2,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
