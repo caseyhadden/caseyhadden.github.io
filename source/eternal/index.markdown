@@ -81,7 +81,7 @@ had before.
 <input type="button" value="Sort" onclick="sort()"></input>
 
 
-<strong>This tool now uses the latest TDC tier list for Defiance.</strong>
+<strong>This tool now uses the latest TDC tier list for Homecoming.</strong>
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 

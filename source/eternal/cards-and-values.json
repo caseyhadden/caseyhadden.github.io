@@ -2272,7 +2272,7 @@
     "EternalID": 268,
     "Name": "Argenport Instigator",
     "Influence": "SS",
-    "LimitedValue": 2.625,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3370,7 +3370,7 @@
     "EternalID": 402,
     "Name": "Champion of Chaos",
     "Influence": "FS",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12793,7 +12793,7 @@
     "EternalID": 198,
     "Name": "Red Canyon Smuggler",
     "Influence": "FJ",
-    "LimitedValue": 3.875,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12847,7 +12847,7 @@
     "EternalID": 204,
     "Name": "Great Valley Smuggler",
     "Influence": "TP",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
