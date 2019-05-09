@@ -90,6 +90,17 @@ had before.
 <div id="result">
 </div>
 
+<br/>
+<strong>The charts below are heavily inspired by the
+<a href="https://eternalsealed.surge.sh/">Eternal Sealed Analyzer</a>.</strong>
+
+<canvas id="monoChart">
+</canvas>
+
+<br/>
+<canvas id="dualChart">
+</canvas>
+
 <script type="text/javascript">
 var cardsAndValues = []
 $.getJSON("/eternal/cards-and-values.json", function(data) {
@@ -97,6 +108,8 @@ $.getJSON("/eternal/cards-and-values.json", function(data) {
         cardsAndValues.push(value)
     })
 })
+
+var monoChart, dualChart
 
 function sort() {
     $("#result").empty()
@@ -138,11 +151,89 @@ function sort() {
       requestedInfluence.push(value.value)
     })
 
+    let fire = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Fire",
+    }, time =  {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Time",
+    }, justice =  {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Justice",
+    }, primal = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Primal",
+    }, shadow = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Shadow",
+    }, rakano = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Rakano",
+    }, argenport = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Argenport",
+    }, hooru = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Hooru",
+    }, combrei = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Combrei",
+    }, stonescar = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Stonescar",
+    }, skycrag = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Skycrag",
+    }, praxis = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Praxis",
+    }, feln = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Feln",
+    }, xenan = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Xenan",
+    }, elysian = {
+      unit: 0,
+      spell: 0,
+      attachment: 0,
+      name: "Elysian",
+    };
+
     threshold = $("#threshold").val()
     tableContent = "<table id='sort_results'>"
     $.each(valuedPool, function(index, value) {
         cardInfluence = makeUnique(value.Influence)
         influenceDiff = cardInfluence.filter(x => !requestedInfluence.includes(x))
+        influenceString = cardInfluence.join("")
         if (value.LimitedValue >= threshold && influenceDiff.length == 0) {
             output = "1 " + value.Name + " (Set" + value.SetNumber + " #" + value.EternalID + ")"
             if (value.LimitedValue >= 4.0) {
@@ -155,16 +246,601 @@ function sort() {
             tableContent += "<td style='padding-left: 10px' class='influence_data'>" + value.Influence + "</td>"
             tableContent += "<td style='padding-left: 10px' class='value_data'>" + value.LimitedValue + "</td>"
             tableContent += "</tr>"
+            // update our counts for charts
+            switch (influenceString) {
+              case "F":
+                updateCounts(fire, value)
+                break;
+              case "T":
+                updateCounts(time, value)
+                break;
+              case "J":
+                updateCounts(justice, value)
+                break;
+              case "P":
+                updateCounts(primal, value)
+                break;
+              case "S":
+                updateCounts(shadow, value)
+                break;
+              case "FJ":
+                updateCounts(rakano, value)
+                break;
+              case "JS":
+                updateCounts(argenport, value)
+                break;
+              case "JP":
+                updateCounts(hooru, value)
+                break;
+              case "TJ":
+                updateCounts(combrei, value)
+                break;
+              case "FS":
+                updateCounts(stonescar, value)
+                break;
+              case "FP":
+                updateCounts(skycrag, value)
+                break;
+              case "FT":
+                updateCounts(praxis, value)
+                break;
+              case "PS":
+                updateCounts(feln, value)
+                break;
+              case "TS":
+                updateCounts(xenan, value)
+                break;
+              case "TP":
+                updateCounts(elysian, value)
+                break;
+            }
         }
     })
     tableContent += "</table>"
     $("#result").append(tableContent)
     toggleExtra() // hide to start
 
+    if (monoChart) {
+      monoChart.destroy()
+    }
+    monoChart = new Chart($("#monoChart"), {
+        type: "bar",
+        data: {
+            labels: ["Fire", "Time", "Justice", "Primal", "Shadow"],
+            datasets: [
+                {
+                    label: "Unit",
+                    data: [
+                        fire.unit,
+                        time.unit,
+                        justice.unit,
+                        primal.unit,
+                        shadow.unit,
+                    ],
+                    backgroundColor: [
+                        "rgba(255,99,132,0.6)",
+                        "rgba(255, 206, 86, 0.6)",
+                        "rgba(75, 192, 192, 0.6)",
+                        "rgba(54, 162, 235, 0.6)",
+                        "rgba(153, 102, 255, 0.6)",
+                    ],
+                    borderColor: [
+                        "rgba(255,99,132,1)",
+                        "rgba(255, 206, 86, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(54, 162, 235, 1)",
+                        "rgba(153, 102, 255, 1)",
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Spell",
+                    data: [
+                        fire.spell,
+                        time.spell,
+                        justice.spell,
+                        primal.spell,
+                        shadow.spell,
+                    ],
+                    backgroundColor: [
+                        "rgba(255,99,132,0.4)" /*R*/,
+                        "rgba(255, 206, 86, 0.4)" /*W*/,
+                        "rgba(75, 192, 192, 0.4)" /*G*/,
+                        "rgba(54, 162, 235, 0.4)" /*U*/,
+                        "rgba(153, 102, 255, 0.4)" /*B*/,
+                    ],
+                    borderColor: [
+                        "rgba(255,99,132,1)",
+                        "rgba(255, 206, 86, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(54, 162, 235, 1)",
+                        "rgba(153, 102, 255, 1)",
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Attachment",
+                    data: [
+                        fire.attachment,
+                        time.attachment,
+                        justice.attachment,
+                        primal.attachment,
+                        shadow.attachment,
+                    ],
+                    backgroundColor: [
+                        "rgba(255,99,132,0.2)" /*R*/,
+                        "rgba(255, 206, 86, 0.2)" /*W*/,
+                        "rgba(75, 192, 192, 0.2)" /*G*/,
+                        "rgba(54, 162, 235, 0.2)" /*U*/,
+                        "rgba(153, 102, 255, 0.2)" /*B*/,
+                    ],
+                    borderColor: [
+                        "rgba(255,99,132,1)",
+                        "rgba(255, 206, 86, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(54, 162, 235, 1)",
+                        "rgba(153, 102, 255, 1)",
+                    ],
+                    borderWidth: 1,
+                },
+            ],
+        },
+        options: {
+            legend: {
+                display: false,
+            },
+            scales: {
+                xAxes: [
+                    {
+                        stacked: true,
+                        ticks: {
+                            autoSkip: false,
+                        },
+                    },
+                ],
+                yAxes: [
+                    {
+                        stacked: true,
+                        ticks: {
+                            beginAtZero: true,
+                        },
+                    },
+                ],
+            },
+        },
+    });
+
+    if (dualChart) {
+      dualChart.destroy()
+    }
+    dualChart = new Chart($("#dualChart"), {
+        type: "bar",
+        data: {
+            labels: [
+                "Rakano",
+                "Argenport",
+                "Hooru",
+                "Combrei",
+                "Stonescar",
+                "Skycrag",
+                "Praxis",
+                "Feln",
+                "Xenan",
+                "Elysian",
+            ],
+            datasets: [
+                {
+                    label: "Units - Mono 1",
+                    data: [
+                        fire.unit,
+                        justice.unit,
+                        justice.unit,
+                        justice.unit,
+                        fire.unit,
+                        fire.unit,
+                        fire.unit,
+                        primal.unit,
+                        shadow.unit,
+                        primal.unit,
+                    ],
+                    backgroundColor: [
+                        "rgba(255,99,132,0.6)", //Fire
+                        "rgba(75, 192, 192, 0.6)", //Justice
+                        "rgba(75, 192, 192, 0.6)",
+                        "rgba(75, 192, 192, 0.6)",
+                        "rgba(255,99,132,0.6)",
+                        "rgba(255,99,132,0.6)",
+                        "rgba(255,99,132,0.6)",
+                        "rgba(54, 162, 235, 0.6)", //Primal
+                        "rgba(153, 102, 255, 0.6)", //Shadow
+                        "rgba(54, 162, 235, 0.6)",
+                    ],
+                    borderColor: [
+                        "rgba(255,99,132,1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(54, 162, 235,14)",
+                        "rgba(153, 102, 255, 1)",
+                        "rgba(54, 162, 235,14)",
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Units - Mono 2",
+                    data: [
+                        justice.unit,
+                        shadow.unit,
+                        primal.unit,
+                        time.unit,
+                        shadow.unit,
+                        primal.unit,
+                        time.unit,
+                        shadow.unit,
+                        time.unit,
+                        time.unit,
+                    ],
+                    backgroundColor: [
+                        "rgba(75, 192, 192, 0.6)" /*G*/,
+                        "rgba(153, 102, 255,0.6)" /*B*/,
+                        "rgba(54, 162, 235, 0.6)" /*U*/,
+                        "rgba(255, 206, 86, 0.6)" /*W*/,
+                        "rgba(153, 102, 255,0.6)" /*B*/,
+                        "rgba(54, 162, 235, 0.6)" /*U*/,
+                        "rgba(255, 206, 86, 0.6)" /*W*/,
+                        "rgba(153, 102, 255,0.6)" /*B*/,
+                        "rgba(255, 206, 86, 0.6)" /*W*/,
+                        "rgba(255, 206, 86, 0.6)" /*W*/,
+                    ],
+                    borderColor: [
+                        "rgba(75, 192, 192, 1)" /*G*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(54, 162, 235, 1)" /*U*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(54, 162, 235, 1)" /*U*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(255, 206, 86,12)" /*W*/,
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Spells - Mono 1",
+                    data: [
+                        fire.spell,
+                        justice.spell,
+                        justice.spell,
+                        justice.spell,
+                        fire.spell,
+                        fire.spell,
+                        fire.spell,
+                        primal.spell,
+                        shadow.spell,
+                        primal.spell,
+                    ],
+                    backgroundColor: [
+                        "rgba(255,99,132,0.4)", //Fire
+                        "rgba(75, 192, 192, 0.4)", //Justice
+                        "rgba(75, 192, 192, 0.4)",
+                        "rgba(75, 192, 192, 0.4)",
+                        "rgba(255,99,132,0.4)",
+                        "rgba(255,99,132,0.4)",
+                        "rgba(255,99,132,0.4)",
+                        "rgba(54, 162, 235, 0.4)", //Primal
+                        "rgba(153, 102, 255, 0.4)", //Shadow
+                        "rgba(54, 162, 235, 0.4)",
+                    ],
+                    borderColor: [
+                        "rgba(255,99,132,1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(54, 162, 235,14)",
+                        "rgba(153, 102, 255, 1)",
+                        "rgba(54, 162, 235,14)",
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Spells - Mono 2",
+                    data: [
+                        justice.spell,
+                        shadow.spell,
+                        primal.spell,
+                        time.spell,
+                        shadow.spell,
+                        primal.spell,
+                        time.spell,
+                        shadow.spell,
+                        time.spell,
+                        time.spell,
+                    ],
+                    backgroundColor: [
+                        "rgba(75, 192, 192, 0.4)" /*G*/,
+                        "rgba(153, 102, 255,0.4)" /*B*/,
+                        "rgba(54, 162, 235, 0.4)" /*U*/,
+                        "rgba(255, 206, 86, 0.4)" /*W*/,
+                        "rgba(153, 102, 255,0.4)" /*B*/,
+                        "rgba(54, 162, 235, 0.4)" /*U*/,
+                        "rgba(255, 206, 86, 0.4)" /*W*/,
+                        "rgba(153, 102, 255,0.4)" /*B*/,
+                        "rgba(255, 206, 86, 0.4)" /*W*/,
+                        "rgba(255, 206, 86, 0.4)" /*W*/,
+                    ],
+                    borderColor: [
+                        "rgba(75, 192, 192, 1)" /*G*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(54, 162, 235, 1)" /*U*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(54, 162, 235, 1)" /*U*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(255, 206, 86,12)" /*W*/,
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Attachments - Mono 1",
+                    data: [
+                        fire.attachment,
+                        justice.attachment,
+                        justice.attachment,
+                        justice.attachment,
+                        fire.attachment,
+                        fire.attachment,
+                        fire.attachment,
+                        primal.attachment,
+                        shadow.attachment,
+                        primal.attachment,
+                    ],
+                    backgroundColor: [
+                        "rgba(255,99,132,0.2)", //Fire
+                        "rgba(75, 192, 192, 0.2)", //Justice
+                        "rgba(75, 192, 192, 0.2)",
+                        "rgba(75, 192, 192, 0.2)",
+                        "rgba(255,99,132,0.2)",
+                        "rgba(255,99,132,0.2)",
+                        "rgba(255,99,132,0.2)",
+                        "rgba(54, 162, 235, 0.2)", //Primal
+                        "rgba(153, 102, 255, 0.2)", //Shadow
+                        "rgba(54, 162, 235, 0.2)",
+                    ],
+                    borderColor: [
+                        "rgba(255,99,132,1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(75, 192, 192, 1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(255,99,132,1)",
+                        "rgba(54, 162, 235,14)",
+                        "rgba(153, 102, 255, 1)",
+                        "rgba(54, 162, 235,14)",
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Attachments - Mono 2",
+                    data: [
+                        justice.attachment,
+                        shadow.attachment,
+                        primal.attachment,
+                        time.attachment,
+                        shadow.attachment,
+                        primal.attachment,
+                        time.attachment,
+                        shadow.attachment,
+                        time.attachment,
+                        time.attachment,
+                    ],
+                    backgroundColor: [
+                        "rgba(75, 192, 192, 0.2)" /*G*/,
+                        "rgba(153, 102, 255,0.2)" /*B*/,
+                        "rgba(54, 162, 235, 0.2)" /*U*/,
+                        "rgba(255, 206, 86, 0.2)" /*W*/,
+                        "rgba(153, 102, 255,0.2)" /*B*/,
+                        "rgba(54, 162, 235, 0.2)" /*U*/,
+                        "rgba(255, 206, 86, 0.2)" /*W*/,
+                        "rgba(153, 102, 255,0.2)" /*B*/,
+                        "rgba(255, 206, 86, 0.2)" /*W*/,
+                        "rgba(255, 206, 86, 0.2)" /*W*/,
+                    ],
+                    borderColor: [
+                        "rgba(75, 192, 192, 1)" /*G*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(54, 162, 235, 1)" /*U*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(54, 162, 235, 1)" /*U*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(153, 102, 255, 1)" /*B*/,
+                        "rgba(255, 206, 86, 1)" /*W*/,
+                        "rgba(255, 206, 86,12)" /*W*/,
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Units - Dual",
+                    data: [
+                        rakano.unit,
+                        argenport.unit,
+                        hooru.unit,
+                        combrei.unit,
+                        stonescar.unit,
+                        skycrag.unit,
+                        praxis.unit,
+                        feln.unit,
+                        xenan.unit,
+                        elysian.unit,
+                    ],
+                    backgroundColor: [
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.6)" /*Gray*/,
+                    ],
+                    borderColor: [
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Spells - Dual",
+                    data: [
+                        rakano.spell,
+                        argenport.spell,
+                        hooru.spell,
+                        combrei.spell,
+                        stonescar.spell,
+                        skycrag.spell,
+                        praxis.spell,
+                        feln.spell,
+                        xenan.spell,
+                        elysian.spell,
+                    ],
+                    backgroundColor: [
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.4)" /*Gray*/,
+                    ],
+                    borderColor: [
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                    ],
+                    borderWidth: 1,
+                },
+                {
+                    label: "Attachments - Dual",
+                    data: [
+                        rakano.attachment,
+                        argenport.attachment,
+                        hooru.attachment,
+                        combrei.attachment,
+                        stonescar.attachment,
+                        skycrag.attachment,
+                        praxis.attachment,
+                        feln.attachment,
+                        xenan.attachment,
+                        elysian.attachment,
+                    ],
+                    backgroundColor: [
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                        "rgba(75, 75, 75, 0.2)" /*Gray*/,
+                    ],
+                    borderColor: [
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                        "rgba(75, 75, 75, 1)" /*Gray*/,
+                    ],
+                    borderWidth: 1,
+                },
+            ],
+        },
+        options: {
+            legend: {
+                display: false,
+            },
+            scales: {
+                xAxes: [
+                    {
+                        stacked: true,
+                        ticks: {
+                            autoSkip: false,
+                        },
+                    },
+                ],
+                yAxes: [
+                    {
+                        stacked: true,
+                        ticks: {
+                            beginAtZero: true,
+                        },
+                    },
+                ],
+            },
+        },
+    });
+
     $.each(notFoundPool, function(index, value) {
       output = "1 " + value.name + " (Set" + value.set + " #" + value.cardNumber + ")"
       $("#result").append("<strike>" + output + "</strike><br/>")
     })
+}
+
+function updateCounts(item, value) {
+    switch (value.Type) {
+      case "Unit":
+        item.unit++
+        break
+      case "Spell":
+      case "Fast Spell":
+        item.spell++
+        break
+      case "Curse":
+      case "Relic":
+      case "Cursed Relic":
+      case "Relic Weapon":
+      case "Weapon":
+        item.attachment++
+        break
+      default:
+        console.log(value.Type)
+    }
 }
 
 function toggleExtra() {
