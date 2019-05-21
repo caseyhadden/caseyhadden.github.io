@@ -2523,7 +2523,7 @@
     "SetNumber": 1,
     "EternalID": 268,
     "Name": "Argenport Instigator",
-    "Influence": "SS",
+    "Influence": "S",
     "Type": "Unit",
     "LimitedValue": 3.5,
     "Rarity": "Rare",
@@ -11202,10 +11202,10 @@
   {
     "SetNumber": 4,
     "EternalID": 176,
-    "Name": "Icespear Chucker",
+    "Name": "Icicle Marksman",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12593,7 +12593,7 @@
     "SetNumber": 5,
     "EternalID": 36,
     "Name": "Xo of the Endless Hoard",
-    "Influence": "FFF",
+    "Influence": "FFFF",
     "Type": "Unit",
     "LimitedValue": 3.375,
     "Rarity": "Legendary",
@@ -14797,6 +14797,2386 @@
     "Type": "Unit",
     "LimitedValue": 0.5,
     "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 1,
+    "Name": "Granite Coin",
+    "Influence": "F",
+    "Type": "Power",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 2,
+    "Name": "Brenn's Scrying",
+    "Influence": "F",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 3,
+    "Name": "Char",
+    "Influence": "F",
+    "Type": "Fast Spell",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 4,
+    "Name": "Needlespitter",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 5,
+    "Name": "Oni Patrol",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 6,
+    "Name": "Stonehewer",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 7,
+    "Name": "Blurreechaser",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 8,
+    "Name": "Cinder Sprite",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 0,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 9,
+    "Name": "Clodagh, Loyal Advisor",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 10,
+    "Name": "Daring Maneuver",
+    "Influence": "F",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 11,
+    "Name": "Guns Blazing",
+    "Influence": "F",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 12,
+    "Name": "Horde Duelist",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 13,
+    "Name": "Impatient Pyromage",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 14,
+    "Name": "Incendiary Slagmite",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 15,
+    "Name": "Ruins Guide",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 16,
+    "Name": "Slag",
+    "Influence": "F",
+    "Type": "Fast Spell",
+    "LimitedValue": 0,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 17,
+    "Name": "Stronghold Vandal",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 18,
+    "Name": "Zuberi's Longbow",
+    "Influence": "F",
+    "Type": "Weapon",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 19,
+    "Name": "Call to Arms",
+    "Influence": "F",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 20,
+    "Name": "Censari Dervish",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 21,
+    "Name": "Coverfire Marksman",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 22,
+    "Name": "Gold Mine",
+    "Influence": "F",
+    "Type": "Relic",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 23,
+    "Name": "Nimble Conscript",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 24,
+    "Name": "Quake Titan",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 25,
+    "Name": "Sizzleback Salamander",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 26,
+    "Name": "Streets Aflame",
+    "Influence": "F",
+    "Type": "Fast Spell",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 27,
+    "Name": "Tantrum",
+    "Influence": "F",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 28,
+    "Name": "Furious Compulsion",
+    "Influence": "FF",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 29,
+    "Name": "Kaleb's Persuader",
+    "Influence": "FF",
+    "Type": "Weapon",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 30,
+    "Name": "Kaleb's Sanctum",
+    "Influence": "F",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 31,
+    "Name": "Mining Team",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 32,
+    "Name": "Outlaw Ringleader",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 33,
+    "Name": "Raging Firemaw",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 5,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 34,
+    "Name": "Combustion Brawler",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 35,
+    "Name": "Eclipse Dragon",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 36,
+    "Name": "Ghodan, Undefeated",
+    "Influence": "FFFFF",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 37,
+    "Name": "Rallying Sergeant",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 38,
+    "Name": "Waystone Elemental",
+    "Influence": "F",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 39,
+    "Name": "Blademaster Daimyo",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 40,
+    "Name": "Heretic's Cannon",
+    "Influence": "F",
+    "Type": "Weapon",
+    "LimitedValue": 4,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 41,
+    "Name": "Outdraw",
+    "Influence": "F",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 42,
+    "Name": "Aspect of Destruction",
+    "Influence": "FFF",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 43,
+    "Name": "Brenn, Arch-Magister",
+    "Influence": "FF",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 44,
+    "Name": "Clan Barracks",
+    "Influence": "F",
+    "Type": "Relic",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 45,
+    "Name": "Twinflame",
+    "Influence": "FF",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 46,
+    "Name": "Amber Coin",
+    "Influence": "T",
+    "Type": "Power",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 47,
+    "Name": "Arcanum Elite",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 48,
+    "Name": "Auralian Infestation",
+    "Influence": "T",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 49,
+    "Name": "Ghar, Master Sandmage",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 50,
+    "Name": "Phase Out",
+    "Influence": "T",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 51,
+    "Name": "Potion of Alacrity",
+    "Influence": "T",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 52,
+    "Name": "Adolescent Deathjaw",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 53,
+    "Name": "Burdenbearer Wisp",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 54,
+    "Name": "Cryptic Master",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 55,
+    "Name": "Devotee of the Sands",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 56,
+    "Name": "Displaced Oryctodon",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 57,
+    "Name": "Glimpse the Possibilities",
+    "Influence": "T",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 58,
+    "Name": "Sudden Stampede",
+    "Influence": "T",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 59,
+    "Name": "Wurm Bait",
+    "Influence": "T",
+    "Type": "Relic",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 60,
+    "Name": "Blink",
+    "Influence": "T",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 61,
+    "Name": "Bulbous Humbug",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 62,
+    "Name": "Death Pit",
+    "Influence": "TT",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 63,
+    "Name": "Expedition Leader",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 64,
+    "Name": "Kimi, Expedition Guide",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 65,
+    "Name": "Novice Entomancer",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 66,
+    "Name": "Omnivorous Vorlunk",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 67,
+    "Name": "Patience",
+    "Influence": "T",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 68,
+    "Name": "Perilous Research",
+    "Influence": "TT",
+    "Type": "Spell",
+    "LimitedValue": 0,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 69,
+    "Name": "Quicksilver Ooze",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 70,
+    "Name": "Search Party",
+    "Influence": "TT",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 71,
+    "Name": "Stillweave Shroud",
+    "Influence": "T",
+    "Type": "Weapon",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 72,
+    "Name": "Submerged Titan",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 73,
+    "Name": "Swirl the Sands",
+    "Influence": "T",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 74,
+    "Name": "Talir's Sanctum",
+    "Influence": "T",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 75,
+    "Name": "Tocas, Waystone Harvester",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 5,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 76,
+    "Name": "Trickster Mage",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 77,
+    "Name": "Ancient Clocktower",
+    "Influence": "T",
+    "Type": "Relic",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 78,
+    "Name": "Mute",
+    "Influence": "T",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 79,
+    "Name": "Sauropod Crasher",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 80,
+    "Name": "Temporal Adept",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 81,
+    "Name": "Corrupted Behemoth",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 82,
+    "Name": "Horn of Plenty",
+    "Influence": "T",
+    "Type": "Relic",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 83,
+    "Name": "Venomous Mount",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 84,
+    "Name": "Xumucan, the Surveyor",
+    "Influence": "TTTTT",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 85,
+    "Name": "Locust Hatcher",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 86,
+    "Name": "Refreshing Waters",
+    "Influence": "TT",
+    "Type": "Fast Spell",
+    "LimitedValue": 0,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 87,
+    "Name": "Tremorshocker",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 88,
+    "Name": "Enhanced Excavator",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 89,
+    "Name": "Lumen Colossus",
+    "Influence": "TT",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 90,
+    "Name": "Blurred Stygimoloch",
+    "Influence": "T",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 91,
+    "Name": "Emerald Coin",
+    "Influence": "J",
+    "Type": "Power",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 92,
+    "Name": "Embargo Officer",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 93,
+    "Name": "Flash Grenade",
+    "Influence": "J",
+    "Type": "Fast Spell",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 94,
+    "Name": "Headhunter",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 95,
+    "Name": "Heist",
+    "Influence": "J",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 96,
+    "Name": "Warfront Missionary",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 97,
+    "Name": "Isolate",
+    "Influence": "J",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 98,
+    "Name": "Kira, the Prodigy",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 99,
+    "Name": "Pioneering Aviator",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 100,
+    "Name": "Relentless Deadshot",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 101,
+    "Name": "Reweave",
+    "Influence": "J",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 102,
+    "Name": "Silver Shortsword",
+    "Influence": "J",
+    "Type": "Relic Weapon",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 103,
+    "Name": "Siraf, Grand Strategist",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 5,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 104,
+    "Name": "Steadfast Paladin",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 105,
+    "Name": "Svetya's Faithful",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 106,
+    "Name": "Touch of Grace",
+    "Influence": "J",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 107,
+    "Name": "Auric Lookout",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 108,
+    "Name": "Inner Might",
+    "Influence": "JJ",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 109,
+    "Name": "Kemmo's Blueprints",
+    "Influence": "JJ",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 110,
+    "Name": "Kosul Bladebarrier",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 111,
+    "Name": "Pristine Light",
+    "Influence": "JJ",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 112,
+    "Name": "Retribution",
+    "Influence": "J",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 113,
+    "Name": "Righteous Intent",
+    "Influence": "JJ",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 114,
+    "Name": "Spellstrike Sorceress",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 115,
+    "Name": "Tinker Ennervator",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 116,
+    "Name": "War Wagon",
+    "Influence": "JJ",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 117,
+    "Name": "Copperhall Chancellor",
+    "Influence": "JJJ",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 118,
+    "Name": "High Alert",
+    "Influence": "J",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 119,
+    "Name": "Kosul Curator",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 120,
+    "Name": "Minotaur Platemaker",
+    "Influence": "JJ",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 121,
+    "Name": "Reclaim",
+    "Influence": "J",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 122,
+    "Name": "Tauride Test Pilot",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 123,
+    "Name": "Reinforcements",
+    "Influence": "JJ",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 124,
+    "Name": "Roosting Warhawk",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 125,
+    "Name": "Sediti, the Killing Steel",
+    "Influence": "JJJJJ",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 126,
+    "Name": "Shieldcrafter",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 127,
+    "Name": "Steel Legion",
+    "Influence": "JJ",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 128,
+    "Name": "Svetya's Sanctum",
+    "Influence": "JJ",
+    "Type": "Relic",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 129,
+    "Name": "Twin Sai",
+    "Influence": "JJ",
+    "Type": "Relic Weapon",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 130,
+    "Name": "Withstand",
+    "Influence": "JJ",
+    "Type": "Fast Spell",
+    "LimitedValue": 4,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 131,
+    "Name": "Nikos, the Unifier",
+    "Influence": "JJ",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 132,
+    "Name": "Unseen Ghostblade",
+    "Influence": "J",
+    "Type": "Relic Weapon",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 133,
+    "Name": "Valkyrie Accuser",
+    "Influence": "JJ",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 134,
+    "Name": "Xulta Loyalist",
+    "Influence": "JJ",
+    "Type": "Unit",
+    "LimitedValue": 5,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 135,
+    "Name": "Secret Weapon",
+    "Influence": "J",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 136,
+    "Name": "Cobalt Coin",
+    "Influence": "P",
+    "Type": "Power",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 137,
+    "Name": "Dinomancy Enthusiast",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 138,
+    "Name": "Fend Off",
+    "Influence": "P",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 139,
+    "Name": "Furnish",
+    "Influence": "P",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 140,
+    "Name": "Good Idea at the Time",
+    "Influence": "P",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 141,
+    "Name": "Gustrider",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 142,
+    "Name": "Spy Glass",
+    "Influence": "P",
+    "Type": "Weapon",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 143,
+    "Name": "Swift Refusal",
+    "Influence": "P",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 144,
+    "Name": "Vargo's Pelt",
+    "Influence": "P",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 145,
+    "Name": "Warning Jolt",
+    "Influence": "P",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 146,
+    "Name": "Yeti Bully",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 147,
+    "Name": "Avalanche Yeti",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 148,
+    "Name": "Belligerent Yeti",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 149,
+    "Name": "Fledgling Owlet",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 150,
+    "Name": "Fragility",
+    "Influence": "P",
+    "Type": "Curse",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 151,
+    "Name": "Ice Bolt",
+    "Influence": "P",
+    "Type": "Fast Spell",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 152,
+    "Name": "Read the Runes",
+    "Influence": "PP",
+    "Type": "Fast Spell",
+    "LimitedValue": 0,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 153,
+    "Name": "Re-read",
+    "Influence": "P",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 154,
+    "Name": "Royal Decree",
+    "Influence": "P",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 155,
+    "Name": "Camp Surveyor",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 156,
+    "Name": "Crashing Avalanche",
+    "Influence": "PP",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 157,
+    "Name": "Eilyn's Sanctum",
+    "Influence": "PP",
+    "Type": "Relic",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 158,
+    "Name": "Frost Elemental",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 159,
+    "Name": "Larai, the Appraiser",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 160,
+    "Name": "Lightning Sprite",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 161,
+    "Name": "Peaktop Trekker",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 162,
+    "Name": "Thudrock's Masterwork",
+    "Influence": "PP",
+    "Type": "Site",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 163,
+    "Name": "Yeti Instigator",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 164,
+    "Name": "Aggressive Ursine",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 165,
+    "Name": "Bam, Sneakeepeekee",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 166,
+    "Name": "Death from Above",
+    "Influence": "P",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 167,
+    "Name": "Elder Meditant",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 168,
+    "Name": "Innate Conviction",
+    "Influence": "PP",
+    "Type": "Spell",
+    "LimitedValue": 4,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 169,
+    "Name": "Lethrai Soothsayer",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 5,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 170,
+    "Name": "Murderous Flock",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 171,
+    "Name": "Ferocity of Bear",
+    "Influence": "P",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 172,
+    "Name": "Hold Under",
+    "Influence": "PP",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 173,
+    "Name": "Keen Saddleback",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 174,
+    "Name": "Mass Polymorph",
+    "Influence": "PP",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 175,
+    "Name": "Rost, the Walking Glacier",
+    "Influence": "PPPPP",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 176,
+    "Name": "Cloudsnake Matriarch",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 177,
+    "Name": "Diving Pteriax",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 178,
+    "Name": "Tamarys, Earthshaker",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 179,
+    "Name": "Snowmass Jotun",
+    "Influence": "P",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 180,
+    "Name": "Terror on the Mountain",
+    "Influence": "PP",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 181,
+    "Name": "Amethyst Coin",
+    "Influence": "S",
+    "Type": "Power",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 182,
+    "Name": "Bloodnurse",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 183,
+    "Name": "Boot Knife",
+    "Influence": "S",
+    "Type": "Relic Weapon",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 184,
+    "Name": "Muck Crawler",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 185,
+    "Name": "Remembrance",
+    "Influence": "S",
+    "Type": "Spell",
+    "LimitedValue": 0,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 186,
+    "Name": "Spiteful Strike",
+    "Influence": "S",
+    "Type": "Fast Spell",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 187,
+    "Name": "Street Urchin",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 188,
+    "Name": "Vicious Rumors",
+    "Influence": "S",
+    "Type": "Spell",
+    "LimitedValue": 0,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 189,
+    "Name": "Angry Prophet",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 190,
+    "Name": "Auric Reclaimer",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 191,
+    "Name": "Cabal Repeater",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 192,
+    "Name": "Illicit Armament",
+    "Influence": "S",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 193,
+    "Name": "Olly, Maniacal Graverobber",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 194,
+    "Name": "Stained Honor",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 195,
+    "Name": "Unchecked Aggression",
+    "Influence": "S",
+    "Type": "Fast Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 196,
+    "Name": "Vizier's Tablet",
+    "Influence": "S",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 197,
+    "Name": "Crooked Alleyguide",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 198,
+    "Name": "Darkweave Enchantress",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 199,
+    "Name": "Death Ripple",
+    "Influence": "S",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 200,
+    "Name": "Gorgon Cutthroat",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 201,
+    "Name": "Lethrai Direbeast",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 202,
+    "Name": "Livia, Hexweaver",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 203,
+    "Name": "Sinister Design",
+    "Influence": "SS",
+    "Type": "Fast Spell",
+    "LimitedValue": 0,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 204,
+    "Name": "Vishni, Lethrai Highblood",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 4,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 205,
+    "Name": "Bandit's Flail",
+    "Influence": "S",
+    "Type": "Relic Weapon",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 206,
+    "Name": "Dizo's Racket",
+    "Influence": "SS",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 207,
+    "Name": "Heartstopper",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 208,
+    "Name": "Malediction",
+    "Influence": "SS",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 209,
+    "Name": "Nullblade",
+    "Influence": "SSS",
+    "Type": "Relic Weapon",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 210,
+    "Name": "Razorquill",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 211,
+    "Name": "Umbren Voidbringer",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 212,
+    "Name": "Withering Touch",
+    "Influence": "S",
+    "Type": "Fast Spell",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 213,
+    "Name": "Eviscerate",
+    "Influence": "SS",
+    "Type": "Spell",
+    "LimitedValue": 3,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 214,
+    "Name": "Fallen Militiaman",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 215,
+    "Name": "Scarecrow",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 216,
+    "Name": "Stonescar Outfitter",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 217,
+    "Name": "Tasbu, the Forbidden",
+    "Influence": "SSSSS",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 218,
+    "Name": "Unspeakable Torment",
+    "Influence": "SS",
+    "Type": "Relic",
+    "LimitedValue": 0,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 219,
+    "Name": "Wretched Talon",
+    "Influence": "SS",
+    "Type": "Relic Weapon",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 220,
+    "Name": "Hostile Takeover",
+    "Influence": "SS",
+    "Type": "Curse",
+    "LimitedValue": 4,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 221,
+    "Name": "Hunting Anoura",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 222,
+    "Name": "Inevitable Horror",
+    "Influence": "SS",
+    "Type": "Unit",
+    "LimitedValue": 3,
+    "Rarity": "Legendary",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 223,
+    "Name": "Vara's Sanctum",
+    "Influence": "SS",
+    "Type": "Relic",
+    "LimitedValue": 3,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 224,
+    "Name": "Winnow",
+    "Influence": "SS",
+    "Type": "Spell",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 225,
+    "Name": "Direwood Lurker",
+    "Influence": "S",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Common",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 226,
+    "Name": "Praxis Insignia",
+    "Influence": "FT",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 227,
+    "Name": "East Annex Smuggler",
+    "Influence": "FT",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 228,
+    "Name": "Stonescar Insignia",
+    "Influence": "FS",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 229,
+    "Name": "Cen Wastes Smuggler",
+    "Influence": "FS",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 230,
+    "Name": "Combrei Insignia",
+    "Influence": "TJ",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 231,
+    "Name": "Pearl Abbey Smuggler",
+    "Influence": "TJ",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 232,
+    "Name": "Hooru Insignia",
+    "Influence": "JP",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 233,
+    "Name": "Rime Conclave Smuggler",
+    "Influence": "JP",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 234,
+    "Name": "Feln Insignia",
+    "Influence": "PS",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 235,
+    "Name": "Blight Pass Smuggler",
+    "Influence": "PS",
+    "Type": "Unit",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 236,
+    "Name": "Seal of Devotion",
+    "Influence": "",
+    "Type": "Power",
+    "LimitedValue": 1,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 237,
+    "Name": "Evenhanded Golem",
+    "Influence": "",
+    "Type": "Unit",
+    "LimitedValue": 2,
+    "Rarity": "Rare",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 6,
+    "EternalID": 238,
+    "Name": "Seek Answers",
+    "Influence": "",
+    "Type": "Spell",
+    "LimitedValue": 2,
+    "Rarity": "Uncommon",
     "DeckBuildable": true
   }
 ]
