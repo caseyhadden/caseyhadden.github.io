@@ -1,11 +1,111 @@
 [
   {
+    "SetNumber": 0,
+    "EternalID": 51,
+    "Name": "Seat of Order",
+    "Influence": "JP",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 53,
+    "Name": "Seat of Fury",
+    "Influence": "FP",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 54,
+    "Name": "Seat of Impulse",
+    "Influence": "FT",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 55,
+    "Name": "Seat of Vengeance",
+    "Influence": "JS",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 56,
+    "Name": "Seat of Glory",
+    "Influence": "FJ",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 58,
+    "Name": "Seat of Progress",
+    "Influence": "TJ",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 60,
+    "Name": "Seat of Chaos",
+    "Influence": "FS",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 61,
+    "Name": "Seat of Mystery",
+    "Influence": "TS",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 62,
+    "Name": "Seat of Cunning",
+    "Influence": "PS",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
+    "SetNumber": 0,
+    "EternalID": 63,
+    "Name": "Seat of Wisdom",
+    "Influence": "TP",
+    "Type": "Power",
+    "LimitedValue": 2.5,
+    "Rarity": "Uncommon",
+    "DeckBuildable": true
+  },
+  {
     "SetNumber": 1,
     "EternalID": 2,
     "Name": "Flame Blast",
     "Influence": "FFF",
     "Type": "Spell",
-    "LimitedValue": 2.6,
+    "LimitedValue": 3.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -45,7 +145,7 @@
     "Name": "Light the Fuse",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -125,7 +225,7 @@
     "Name": "Ruin",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -185,7 +285,7 @@
     "Name": "Pyre Adept",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 1.2,
+    "LimitedValue": 2.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -215,7 +315,7 @@
     "Name": "Piercing Shot",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 2.166666667,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -265,7 +365,7 @@
     "Name": "Rebel Sharpshooter",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -305,7 +405,7 @@
     "Name": "Censari Brigand",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -355,7 +455,7 @@
     "Name": "Cloud of Ash",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -425,7 +525,7 @@
     "Name": "Calderan Gunsmith",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -555,7 +655,7 @@
     "Name": "Steelbound Dragon",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -595,7 +695,7 @@
     "Name": "Copper Conduit",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2.375,
+    "LimitedValue": 2.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -605,7 +705,7 @@
     "Name": "Infinite Hourglass",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1.5,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -635,7 +735,7 @@
     "Name": "Slow",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -645,7 +745,7 @@
     "Name": "Excavate",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -695,7 +795,7 @@
     "Name": "Unlock Potential",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -795,7 +895,7 @@
     "Name": "Dawnwalker",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -895,7 +995,7 @@
     "Name": "Steward of Prophecy",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -905,7 +1005,7 @@
     "Name": "Healer's Cloak",
     "Influence": "T",
     "Type": "Weapon",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -915,7 +1015,7 @@
     "Name": "Sandstorm Titan",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 4.125,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -975,7 +1075,7 @@
     "Name": "Ancient Lore",
     "Influence": "TT",
     "Type": "Spell",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -985,7 +1085,7 @@
     "Name": "Idol of Destran",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 1.25,
+    "LimitedValue": 0.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1105,7 +1205,7 @@
     "Name": "Ancient Terrazon",
     "Influence": "TTT",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1125,7 +1225,7 @@
     "Name": "Hall of Lost Kings",
     "Influence": "TT",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1145,7 +1245,7 @@
     "Name": "Marisen, the Eldest",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 4.5,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1215,7 +1315,7 @@
     "Name": "Tinker Apprentice",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 0.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1235,7 +1335,7 @@
     "Name": "Detain",
     "Influence": "J",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1255,7 +1355,7 @@
     "Name": "Argenport Soldier",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1345,7 +1445,7 @@
     "Name": "Eager Owlet",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1385,7 +1485,7 @@
     "Name": "Bronze Cuirass",
     "Influence": "J",
     "Type": "Weapon",
-    "LimitedValue": 1.6,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1425,7 +1525,7 @@
     "Name": "Silverwing Familiar",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1455,7 +1555,7 @@
     "Name": "Hooru Envoy",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1485,7 +1585,7 @@
     "Name": "Copperhall Recruit",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1.3,
+    "LimitedValue": 2.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1525,7 +1625,7 @@
     "Name": "Armorsmith",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1605,7 +1705,7 @@
     "Name": "Mithril Mace",
     "Influence": "JJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 2,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1655,7 +1755,7 @@
     "Name": "Plated Demolisher",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 2.7,
+    "LimitedValue": 3.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1665,7 +1765,7 @@
     "Name": "Ceremonial Mask",
     "Influence": "JJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1735,7 +1835,7 @@
     "Name": "Sword of the Sky King",
     "Influence": "JJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 3,
+    "LimitedValue": 2.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -1815,7 +1915,7 @@
     "Name": "Wild Cloudsnake",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1835,7 +1935,7 @@
     "Name": "Lightning Strike",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1845,7 +1945,7 @@
     "Name": "Cloudsnake Saddle",
     "Influence": "P",
     "Type": "Weapon",
-    "LimitedValue": 0.875,
+    "LimitedValue": 0.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1875,7 +1975,7 @@
     "Name": "Whispering Wind",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -1895,7 +1995,7 @@
     "Name": "Tundra Explorer",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -1945,7 +2045,7 @@
     "Name": "Flash Freeze",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 2.9,
+    "LimitedValue": 2.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -1985,7 +2085,7 @@
     "Name": "Scheme",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2005,7 +2105,7 @@
     "Name": "Scaly Gruan",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2095,7 +2195,7 @@
     "Name": "Stormcaller",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 2.7,
+    "LimitedValue": 2.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2175,7 +2275,7 @@
     "Name": "Crystallize",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 5,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2205,7 +2305,7 @@
     "Name": "Aerial Ace",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2235,7 +2335,7 @@
     "Name": "Araktodon",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2245,7 +2345,7 @@
     "Name": "Jarrall Iceheart",
     "Influence": "PPP",
     "Type": "Unit",
-    "LimitedValue": 3.166666667,
+    "LimitedValue": 2.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2265,7 +2365,7 @@
     "Name": "Celestial Omen",
     "Influence": "PP",
     "Type": "Fast Spell",
-    "LimitedValue": 0.125,
+    "LimitedValue": 0.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2295,7 +2395,7 @@
     "Name": "Channel the Tempest",
     "Influence": "PPPP",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2405,7 +2505,7 @@
     "Name": "Direfang Spider",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1.333333333,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2425,7 +2525,7 @@
     "Name": "Ghostform",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2475,7 +2575,7 @@
     "Name": "Venomfang Dagger",
     "Influence": "S",
     "Type": "Weapon",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2495,7 +2595,7 @@
     "Name": "Scavenging Vulture",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2565,7 +2665,7 @@
     "Name": "Torrent of Spiders",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2595,7 +2695,7 @@
     "Name": "Lifedrinker",
     "Influence": "S",
     "Type": "Relic Weapon",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2665,7 +2765,7 @@
     "Name": "Beastcaller's Amulet",
     "Influence": "S",
     "Type": "Weapon",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2765,7 +2865,7 @@
     "Name": "Grasping at Shadows",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2775,7 +2875,7 @@
     "Name": "Lurking Sanguar",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2.1,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2785,7 +2885,7 @@
     "Name": "Oblivion Spike",
     "Influence": "SS",
     "Type": "Relic Weapon",
-    "LimitedValue": 2.375,
+    "LimitedValue": 2.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -2805,7 +2905,7 @@
     "Name": "Cabal Cutthroat",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2835,7 +2935,7 @@
     "Name": "Direwood Rampager",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -2855,7 +2955,7 @@
     "Name": "Whispers in the Void",
     "Influence": "SSSS",
     "Type": "Spell",
-    "LimitedValue": 0.875,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2865,7 +2965,7 @@
     "Name": "Horsesnatcher Bat",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3.333333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -2875,7 +2975,7 @@
     "Name": "Venomspine Hydra",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -2915,7 +3015,7 @@
     "Name": "The Last Word",
     "Influence": "SSS",
     "Type": "Relic Weapon",
-    "LimitedValue": 0.2,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3015,7 +3115,7 @@
     "Name": "Rise to the Challenge",
     "Influence": "FJ",
     "Type": "Spell",
-    "LimitedValue": 2.4,
+    "LimitedValue": 1.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3085,7 +3185,7 @@
     "Name": "Starsteel Daisho",
     "Influence": "FFJJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 3.75,
+    "LimitedValue": 3.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3195,7 +3295,7 @@
     "Name": "Stronghold's Visage",
     "Influence": "TJ",
     "Type": "Relic",
-    "LimitedValue": 1.25,
+    "LimitedValue": 2.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3225,7 +3325,7 @@
     "Name": "Reality Warden",
     "Influence": "TTJJ",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3385,7 +3485,7 @@
     "Name": "Cirso, the Great Glutton",
     "Influence": "TTPP",
     "Type": "Unit",
-    "LimitedValue": 4.375,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3545,7 +3645,7 @@
     "Name": "Feln Cauldron",
     "Influence": "PS",
     "Type": "Relic",
-    "LimitedValue": 0.25,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3585,7 +3685,7 @@
     "Name": "Snowcrush Animist",
     "Influence": "PPSS",
     "Type": "Unit",
-    "LimitedValue": 3.875,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3635,7 +3735,7 @@
     "Name": "Bandit Queen",
     "Influence": "FFS",
     "Type": "Unit",
-    "LimitedValue": 3.75,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3645,7 +3745,7 @@
     "Name": "Infernal Tyrant",
     "Influence": "FFSS",
     "Type": "Unit",
-    "LimitedValue": 3.375,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3735,7 +3835,7 @@
     "Name": "Voprex, the Great Ruin",
     "Influence": "FFFSSS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -3745,7 +3845,7 @@
     "Name": "Champion of Chaos",
     "Influence": "FS",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -3775,7 +3875,7 @@
     "Name": "Spiked Helm",
     "Influence": "",
     "Type": "Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -3785,7 +3885,7 @@
     "Name": "Worn Shield",
     "Influence": "",
     "Type": "Weapon",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3795,7 +3895,7 @@
     "Name": "Seek Power",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3855,7 +3955,7 @@
     "Name": "Daze",
     "Influence": "",
     "Type": "Fast Spell",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -3965,7 +4065,7 @@
     "Name": "Diplomatic Seal",
     "Influence": "",
     "Type": "Power",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4005,7 +4105,7 @@
     "Name": "Scouting Party",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 2.625,
+    "LimitedValue": 2.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4015,7 +4115,7 @@
     "Name": "Refresh",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4035,7 +4135,7 @@
     "Name": "Horned Vorlunk",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2.333333333,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4045,7 +4145,7 @@
     "Name": "Steadfast Deputy",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4065,7 +4165,7 @@
     "Name": "Cabal Countess",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4165,7 +4265,7 @@
     "Name": "Hidden Shiv",
     "Influence": "F",
     "Type": "Weapon",
-    "LimitedValue": 0.666666667,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4175,7 +4275,7 @@
     "Name": "On the Hunt",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4185,7 +4285,7 @@
     "Name": "Pummel",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 1.833333333,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4195,7 +4295,7 @@
     "Name": "Blinkwolf",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4215,7 +4315,7 @@
     "Name": "Granite Ring",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 1.375,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4235,7 +4335,7 @@
     "Name": "Hipshot",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4305,7 +4405,7 @@
     "Name": "Outlands Brute",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4315,7 +4415,7 @@
     "Name": "Dustblind",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 0.333333333,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4355,7 +4455,7 @@
     "Name": "Reforge",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4385,7 +4485,7 @@
     "Name": "Gun Down",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4395,7 +4495,7 @@
     "Name": "Pit Fighter",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4405,7 +4505,7 @@
     "Name": "Pouncing Drake",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 4.166666667,
+    "LimitedValue": 4.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4415,7 +4515,7 @@
     "Name": "Stonepowder Heretic",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2.1,
+    "LimitedValue": 1.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4425,7 +4525,7 @@
     "Name": "Bad News",
     "Influence": "FF",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4445,7 +4545,7 @@
     "Name": "Flamestoker",
     "Influence": "FFF",
     "Type": "Relic",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4465,7 +4565,7 @@
     "Name": "Sindok, Rage Incarnate",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 3.1,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4485,7 +4585,7 @@
     "Name": "Envelop",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 1.166666667,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4495,7 +4595,7 @@
     "Name": "Excavation Assistant",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4585,7 +4685,7 @@
     "Name": "Avirax Familiar",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4645,7 +4745,7 @@
     "Name": "Camp Physician",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 0.833333333,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4655,7 +4755,7 @@
     "Name": "Snapping Brushstalker",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 1.625,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -4675,7 +4775,7 @@
     "Name": "Viper's Bite",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4695,7 +4795,7 @@
     "Name": "Awakened Sentinel",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2.833333333,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -4755,7 +4855,7 @@
     "Name": "Waystone Infuser",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 4.6,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -4795,7 +4895,7 @@
     "Name": "Rhinarc Huntpack",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 3.6,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -4975,7 +5075,7 @@
     "Name": "Shard of the Spire",
     "Influence": "J",
     "Type": "Relic",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -5015,7 +5115,7 @@
     "Name": "Valkyrie Militant",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1.375,
+    "LimitedValue": 2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5085,7 +5185,7 @@
     "Name": "Horngrinder",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5155,7 +5255,7 @@
     "Name": "Cloudsnake Hatchling",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5175,7 +5275,7 @@
     "Name": "Snowcrust Yeti",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5235,7 +5335,7 @@
     "Name": "Trailblaze",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5305,7 +5405,7 @@
     "Name": "Icebow",
     "Influence": "P",
     "Type": "Weapon",
-    "LimitedValue": 3.5,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5435,7 +5535,7 @@
     "Name": "Boltcrafter Shaman",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5445,7 +5545,7 @@
     "Name": "Cirso's Meddling",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 0.625,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5565,7 +5665,7 @@
     "Name": "Scare",
     "Influence": "S",
     "Type": "Fast Spell",
-    "LimitedValue": 0.166666667,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -5635,7 +5735,7 @@
     "Name": "Sorrow's Shroud",
     "Influence": "S",
     "Type": "Weapon",
-    "LimitedValue": 1.125,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5815,7 +5915,7 @@
     "Name": "Inspire Obedience",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 1.75,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -5955,7 +6055,7 @@
     "Name": "Heart of the Vault",
     "Influence": "FFFTTT",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6375,7 +6475,7 @@
     "Name": "Champion of Order",
     "Influence": "JP",
     "Type": "Unit",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6675,7 +6775,7 @@
     "Name": "Iceberg Frontrunner",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 0.75,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6695,7 +6795,7 @@
     "Name": "Kennelmaster",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -6755,7 +6855,7 @@
     "Name": "Oni Cavediver",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2.625,
+    "LimitedValue": 2.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -6785,7 +6885,7 @@
     "Name": "Yeti Sage",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -6795,7 +6895,7 @@
     "Name": "Backpacker's Machete",
     "Influence": "F",
     "Type": "Weapon",
-    "LimitedValue": 2.333333333,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -6855,7 +6955,7 @@
     "Name": "Ruby Catalyst",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 1.5,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7005,7 +7105,7 @@
     "Name": "Jekk, Hunted Fugitive",
     "Influence": "FFF",
     "Type": "Unit",
-    "LimitedValue": 4.375,
+    "LimitedValue": 4.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7035,7 +7135,7 @@
     "Name": "Staff of the Arch-Magister",
     "Influence": "FF",
     "Type": "Weapon",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7055,7 +7155,7 @@
     "Name": "Molten Fist",
     "Influence": "FF",
     "Type": "Relic Weapon",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7115,7 +7215,7 @@
     "Name": "Improvised Rubbler",
     "Influence": "FFF",
     "Type": "Relic Weapon",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7135,7 +7235,7 @@
     "Name": "Great-Kiln Titan",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 2.375,
+    "LimitedValue": 2.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7165,7 +7265,7 @@
     "Name": "Azurite Prixis",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7245,7 +7345,7 @@
     "Name": "Accelerated Impact",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 0.7,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7255,7 +7355,7 @@
     "Name": "Ask for Directions",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 0.041666667,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7265,7 +7365,7 @@
     "Name": "Cryptic Etchings",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1.5,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7515,7 +7615,7 @@
     "Name": "Worldbearer Behemoth",
     "Influence": "TTT",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7555,7 +7655,7 @@
     "Name": "Tomb Protector",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7575,7 +7675,7 @@
     "Name": "Talir, Unbound",
     "Influence": "TTT",
     "Type": "Unit",
-    "LimitedValue": 2.1,
+    "LimitedValue": 1.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7665,7 +7765,7 @@
     "Name": "Soaring Guard",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1.416666667,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -7715,7 +7815,7 @@
     "Name": "Whetstone",
     "Influence": "J",
     "Type": "Relic",
-    "LimitedValue": 0.2,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -7775,7 +7875,7 @@
     "Name": "Tax Collector",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 1.4,
+    "LimitedValue": 2.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -7835,7 +7935,7 @@
     "Name": "Silverwing Smith",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -7975,7 +8075,7 @@
     "Name": "Shieldsmith",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1.958333333,
+    "LimitedValue": 1.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8005,7 +8105,7 @@
     "Name": "Amilli, Cloudmarshal",
     "Influence": "JJJ",
     "Type": "Unit",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8025,7 +8125,7 @@
     "Name": "Hammer of Authority",
     "Influence": "JJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 3.375,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8085,7 +8185,7 @@
     "Name": "Tower Shield",
     "Influence": "J",
     "Type": "Weapon",
-    "LimitedValue": 1.6,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8125,7 +8225,7 @@
     "Name": "Last Stand at the Gate",
     "Influence": "JJJ",
     "Type": "Spell",
-    "LimitedValue": 2.875,
+    "LimitedValue": 2.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8175,7 +8275,7 @@
     "Name": "Farplace Finder",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 0.875,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8255,7 +8355,7 @@
     "Name": "Fearless Yeti",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8285,7 +8385,7 @@
     "Name": "Storm Talisman",
     "Influence": "P",
     "Type": "Relic",
-    "LimitedValue": 0.708333333,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8345,7 +8445,7 @@
     "Name": "Daring Pioneer",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8385,7 +8485,7 @@
     "Name": "Snowfort",
     "Influence": "P",
     "Type": "Relic",
-    "LimitedValue": 1.125,
+    "LimitedValue": 0.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -8395,7 +8495,7 @@
     "Name": "Sunken Tower",
     "Influence": "PP",
     "Type": "Relic",
-    "LimitedValue": 2,
+    "LimitedValue": 1.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8455,7 +8555,7 @@
     "Name": "Freewing Glider",
     "Influence": "P",
     "Type": "Weapon",
-    "LimitedValue": 3.083333333,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8505,7 +8605,7 @@
     "Name": "Thudrock, Arctic Artisan",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8515,7 +8615,7 @@
     "Name": "Jotun Feast-Caller",
     "Influence": "PPP",
     "Type": "Unit",
-    "LimitedValue": 3.25,
+    "LimitedValue": 3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -8575,7 +8675,7 @@
     "Name": "Eilyn's Frostrider",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 4.25,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8765,7 +8865,7 @@
     "Name": "Dreamsnatcher",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 2.8,
+    "LimitedValue": 2.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8785,7 +8885,7 @@
     "Name": "Grenadin Bellower",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8905,7 +9005,7 @@
     "Name": "Devastating Setback",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -8975,7 +9075,7 @@
     "Name": "Headsman's Axe",
     "Influence": "SS",
     "Type": "Weapon",
-    "LimitedValue": 1.125,
+    "LimitedValue": 0.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -8995,7 +9095,7 @@
     "Name": "Shadowlands Tyrant",
     "Influence": "SSS",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9075,7 +9175,7 @@
     "Name": "Solitude",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9125,7 +9225,7 @@
     "Name": "Nametaker",
     "Influence": "SSS",
     "Type": "Relic Weapon",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9155,7 +9255,7 @@
     "Name": "Crest of Impulse",
     "Influence": "FT",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9255,7 +9355,7 @@
     "Name": "Crest of Wisdom",
     "Influence": "TP",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9285,7 +9385,7 @@
     "Name": "Crest of Vengeance",
     "Influence": "JS",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9305,7 +9405,7 @@
     "Name": "Crest of Fury",
     "Influence": "FP",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9315,7 +9415,7 @@
     "Name": "Crest of Cunning",
     "Influence": "PS",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9325,7 +9425,7 @@
     "Name": "Crest of Chaos",
     "Influence": "FS",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9445,7 +9545,7 @@
     "Name": "Family Charter",
     "Influence": "",
     "Type": "Relic",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9455,7 +9555,7 @@
     "Name": "Shugo Standard",
     "Influence": "F",
     "Type": "Power",
-    "LimitedValue": 3.3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9475,7 +9575,7 @@
     "Name": "Feed the Flames",
     "Influence": "FF",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 1.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9485,7 +9585,7 @@
     "Name": "Light 'em Up",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9525,7 +9625,7 @@
     "Name": "Ankle Cutter",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2.125,
+    "LimitedValue": 2.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9535,7 +9635,7 @@
     "Name": "Consuming Flames",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9595,7 +9695,7 @@
     "Name": "Scale Seeker",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9615,7 +9715,7 @@
     "Name": "Factory Quota",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 0.125,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9665,7 +9765,7 @@
     "Name": "Manufacture",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 1.1,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9695,7 +9795,7 @@
     "Name": "Rika, Desert Navigator",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9705,7 +9805,7 @@
     "Name": "Rusty Grenamotive",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9735,7 +9835,7 @@
     "Name": "Clan Wallbreaker",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9755,7 +9855,7 @@
     "Name": "Dramatist's Mask",
     "Influence": "FF",
     "Type": "Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -9785,7 +9885,7 @@
     "Name": "Overheat",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 0.6,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -9875,7 +9975,7 @@
     "Name": "Dashing Rapscallion",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9935,7 +10035,7 @@
     "Name": "Temple Standard",
     "Influence": "T",
     "Type": "Power",
-    "LimitedValue": 1.8,
+    "LimitedValue": 1.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -9945,7 +10045,7 @@
     "Name": "Sandstorm Scarf",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1.75,
+    "LimitedValue": 1.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -9985,7 +10085,7 @@
     "Name": "Meditation",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 0.1,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10025,7 +10125,7 @@
     "Name": "Time Flies",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 0.8,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10035,7 +10135,7 @@
     "Name": "Training Ground",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10125,7 +10225,7 @@
     "Name": "Amaran Stinger",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3.4,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10145,7 +10245,7 @@
     "Name": "Auralian Merchant",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3.75,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10155,7 +10255,7 @@
     "Name": "Deft Strike",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10175,7 +10275,7 @@
     "Name": "Initiation Bell",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10225,7 +10325,7 @@
     "Name": "Gathering Lights",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 1.1,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10295,7 +10395,7 @@
     "Name": "Stinging Wind",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10305,7 +10405,7 @@
     "Name": "Wurmstone",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1.9,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10385,7 +10485,7 @@
     "Name": "Reality Shift",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 1.3,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10415,7 +10515,7 @@
     "Name": "Crownwatch Standard",
     "Influence": "J",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10445,7 +10545,7 @@
     "Name": "Lingering Influence",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 0.9,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10465,7 +10565,7 @@
     "Name": "Sharpened Reflex",
     "Influence": "J",
     "Type": "Fast Spell",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10475,7 +10575,7 @@
     "Name": "Spire Spellsword",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10545,7 +10645,7 @@
     "Name": "Rilgon's Disciple",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10605,7 +10705,7 @@
     "Name": "Grit",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 0.3,
+    "LimitedValue": 0.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10635,7 +10735,7 @@
     "Name": "Kosul Battlemage",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10675,7 +10775,7 @@
     "Name": "Rolant's Memorial",
     "Influence": "JJ",
     "Type": "Relic",
-    "LimitedValue": 0.6,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10715,7 +10815,7 @@
     "Name": "Citywide Ban",
     "Influence": "J",
     "Type": "Cursed Relic",
-    "LimitedValue": 0.375,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -10725,7 +10825,7 @@
     "Name": "Geomar, the Steel Tempest",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 4.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10745,7 +10845,7 @@
     "Name": "Resolute Paladin",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1.9,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10795,7 +10895,7 @@
     "Name": "Downfall",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -10805,7 +10905,7 @@
     "Name": "Rampart Arbalest",
     "Influence": "JJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 2,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10825,7 +10925,7 @@
     "Name": "End of the Story",
     "Influence": "JJ",
     "Type": "Spell",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10835,7 +10935,7 @@
     "Name": "Heirloom Blade",
     "Influence": "JJJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 0.875,
+    "LimitedValue": 0.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -10875,7 +10975,7 @@
     "Name": "Unbreakable Alliance",
     "Influence": "JJ",
     "Type": "Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -10945,7 +11045,7 @@
     "Name": "Substitute",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 0.625,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11025,7 +11125,7 @@
     "Name": "Lida's Apprentice",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2.625,
+    "LimitedValue": 2.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11075,7 +11175,7 @@
     "Name": "Torrential Downpour",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 1.6,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11095,7 +11195,7 @@
     "Name": "Advance Scout",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2.6,
+    "LimitedValue": 2.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11105,7 +11205,7 @@
     "Name": "Aerial Battle",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11135,7 +11235,7 @@
     "Name": "Jennev Merchant",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11215,7 +11315,7 @@
     "Name": "Resurface",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11255,7 +11355,7 @@
     "Name": "Big Brother",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3.375,
+    "LimitedValue": 3.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11285,7 +11385,7 @@
     "Name": "Sack the City",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11315,7 +11415,7 @@
     "Name": "End of Hostilities",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 4,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11375,7 +11475,7 @@
     "Name": "Cabal Standard",
     "Influence": "S",
     "Type": "Power",
-    "LimitedValue": 2.9,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11405,7 +11505,7 @@
     "Name": "Sewer Sludge",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1.2,
+    "LimitedValue": 1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11435,7 +11535,7 @@
     "Name": "Abduct",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11515,7 +11615,7 @@
     "Name": "Lock Horns",
     "Influence": "S",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -11625,7 +11725,7 @@
     "Name": "Marionette Cross",
     "Influence": "SSS",
     "Type": "Relic",
-    "LimitedValue": 2.625,
+    "LimitedValue": 2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11655,7 +11755,7 @@
     "Name": "Umbren Deathwatcher",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 1.7,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11765,7 +11865,7 @@
     "Name": "Transmogrifier",
     "Influence": "S",
     "Type": "Relic",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11785,7 +11885,7 @@
     "Name": "Betray the Cause",
     "Influence": "SSS",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -11815,7 +11915,7 @@
     "Name": "The End is Near",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11835,7 +11935,7 @@
     "Name": "End of the Line",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 4.1,
+    "LimitedValue": 4.2,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -11875,7 +11975,7 @@
     "Name": "Crest of Glory",
     "Influence": "FJ",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11915,7 +12015,7 @@
     "Name": "Crest of Progress",
     "Influence": "TJ",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11925,7 +12025,7 @@
     "Name": "Alessi, Combrei Archmage",
     "Influence": "TJ",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11975,7 +12075,7 @@
     "Name": "Crest of Order",
     "Influence": "JP",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -11995,7 +12095,7 @@
     "Name": "Long Live the Queen",
     "Influence": "JP",
     "Type": "Fast Spell",
-    "LimitedValue": 0.4,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12065,7 +12165,7 @@
     "Name": "Ancient of the Ice Caves",
     "Influence": "PPSS",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12105,7 +12205,7 @@
     "Name": "Crest of Mystery",
     "Influence": "TS",
     "Type": "Power",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12125,7 +12225,7 @@
     "Name": "Siphon Vitality",
     "Influence": "TS",
     "Type": "Fast Spell",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12195,7 +12295,7 @@
     "Name": "Recon Tower",
     "Influence": "",
     "Type": "Relic",
-    "LimitedValue": 1.9,
+    "LimitedValue": 1.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12205,7 +12305,7 @@
     "Name": "Disrupt",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 0.625,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12385,7 +12485,7 @@
     "Name": "Grandfather's Axe",
     "Influence": "F",
     "Type": "Weapon",
-    "LimitedValue": 1.25,
+    "LimitedValue": 1.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12435,7 +12535,7 @@
     "Name": "Flamebrewer",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12505,7 +12605,7 @@
     "Name": "Spitfire",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -12525,7 +12625,7 @@
     "Name": "Ashen Snakepit",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12565,7 +12665,7 @@
     "Name": "Shingane Captain",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12595,7 +12695,7 @@
     "Name": "Xo of the Endless Hoard",
     "Influence": "FFFF",
     "Type": "Unit",
-    "LimitedValue": 3.375,
+    "LimitedValue": 3.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -12675,7 +12775,7 @@
     "Name": "Dissociate",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12705,7 +12805,7 @@
     "Name": "Porcelain Mask",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 1.375,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12785,7 +12885,7 @@
     "Name": "Unraveling Fanatic",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2.25,
+    "LimitedValue": 2.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12815,7 +12915,7 @@
     "Name": "Eternity Core",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 3,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12885,7 +12985,7 @@
     "Name": "Ancient Excavator",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -12945,7 +13045,7 @@
     "Name": "Temple Captain",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 2.5,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -12975,7 +13075,7 @@
     "Name": "Pit of Lenekta",
     "Influence": "TTT",
     "Type": "Relic",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13075,7 +13175,7 @@
     "Name": "Fall Short",
     "Influence": "J",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13205,7 +13305,7 @@
     "Name": "Auric Weaponsmith",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13255,7 +13355,7 @@
     "Name": "Rallying Banner",
     "Influence": "J",
     "Type": "Relic",
-    "LimitedValue": 1.375,
+    "LimitedValue": 1.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13285,7 +13385,7 @@
     "Name": "Crownwatch Captain",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 2.625,
+    "LimitedValue": 2.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -13325,7 +13425,7 @@
     "Name": "Reyna, the Unwavering",
     "Influence": "JJJ",
     "Type": "Unit",
-    "LimitedValue": 2.875,
+    "LimitedValue": 2.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13335,7 +13435,7 @@
     "Name": "Martyr's Chains",
     "Influence": "JJJJ",
     "Type": "Relic",
-    "LimitedValue": 2.125,
+    "LimitedValue": 0.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13365,7 +13465,7 @@
     "Name": "Crystal Dirk",
     "Influence": "P",
     "Type": "Weapon",
-    "LimitedValue": 1.5,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13395,7 +13495,7 @@
     "Name": "Pitfall Trap",
     "Influence": "P",
     "Type": "Relic",
-    "LimitedValue": 3,
+    "LimitedValue": 1.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13405,7 +13505,7 @@
     "Name": "Savagery",
     "Influence": "PPP",
     "Type": "Spell",
-    "LimitedValue": 1.125,
+    "LimitedValue": 0.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -13415,7 +13515,7 @@
     "Name": "Stormtamer Operative",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -13645,7 +13745,7 @@
     "Name": "Elvish Swindler",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 2.25,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13695,7 +13795,7 @@
     "Name": "Quicksilver Mirror",
     "Influence": "PPP",
     "Type": "Relic",
-    "LimitedValue": 1.125,
+    "LimitedValue": 1.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13715,7 +13815,7 @@
     "Name": "Eilyn, the Rising Storm",
     "Influence": "PPP",
     "Type": "Unit",
-    "LimitedValue": 3.125,
+    "LimitedValue": 2.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13735,7 +13835,7 @@
     "Name": "Cabal Scavenger",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13765,7 +13865,7 @@
     "Name": "Rat Cage",
     "Influence": "S",
     "Type": "Relic",
-    "LimitedValue": 1.125,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13795,7 +13895,7 @@
     "Name": "Blood Quill",
     "Influence": "S",
     "Type": "Relic",
-    "LimitedValue": 1.625,
+    "LimitedValue": 0.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13805,7 +13905,7 @@
     "Name": "Curator's Spear",
     "Influence": "S",
     "Type": "Relic Weapon",
-    "LimitedValue": 2.125,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13835,7 +13935,7 @@
     "Name": "Mob Rule",
     "Influence": "S",
     "Type": "Fast Spell",
-    "LimitedValue": 2.375,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13895,7 +13995,7 @@
     "Name": "Flickerling",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -13925,7 +14025,7 @@
     "Name": "Dumping Ground",
     "Influence": "SS",
     "Type": "Relic",
-    "LimitedValue": 3.75,
+    "LimitedValue": 3.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13935,7 +14035,7 @@
     "Name": "Fangs in the Dark",
     "Influence": "SS",
     "Type": "Fast Spell",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -13945,7 +14045,7 @@
     "Name": "Governor Sahin",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -13985,7 +14085,7 @@
     "Name": "Elder Astrologer",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14015,7 +14115,7 @@
     "Name": "Pillar of Dreams",
     "Influence": "SS",
     "Type": "Relic",
-    "LimitedValue": 0.5,
+    "LimitedValue": 0.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14045,7 +14145,7 @@
     "Name": "Sadistic Glee",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1.375,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -14075,7 +14175,7 @@
     "Name": "Improvised Club",
     "Influence": "S",
     "Type": "Relic Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14265,7 +14365,7 @@
     "Name": "Torgov's Trading Post",
     "Influence": "TP",
     "Type": "Site",
-    "LimitedValue": 4,
+    "LimitedValue": 3.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -14275,7 +14375,7 @@
     "Name": "Great Valley Smuggler",
     "Influence": "TP",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14335,7 +14435,7 @@
     "Name": "Hidden Road Smuggler",
     "Influence": "JS",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14365,7 +14465,7 @@
     "Name": "Regent's Tomb",
     "Influence": "JS",
     "Type": "Site",
-    "LimitedValue": 3.625,
+    "LimitedValue": 3.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -14385,7 +14485,7 @@
     "Name": "Howling Peak Smuggler",
     "Influence": "FP",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14445,7 +14545,7 @@
     "Name": "Ebon Dune Smuggler",
     "Influence": "TS",
     "Type": "Unit",
-    "LimitedValue": 3.5,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14475,7 +14575,7 @@
     "Name": "Xenan Temple",
     "Influence": "TTSS",
     "Type": "Site",
-    "LimitedValue": 4.5,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -14505,7 +14605,7 @@
     "Name": "Ixtun Cargo",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14555,7 +14655,7 @@
     "Name": "Auralian Cargo",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14605,7 +14705,7 @@
     "Name": "Winchest Cargo",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14655,7 +14755,7 @@
     "Name": "Jennev Cargo",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14705,7 +14805,7 @@
     "Name": "Kerendon Cargo",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14745,7 +14845,7 @@
     "Name": "Astromancer's Compass",
     "Influence": "",
     "Type": "Relic",
-    "LimitedValue": 1,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14815,7 +14915,7 @@
     "Name": "Brenn's Scrying",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14825,7 +14925,7 @@
     "Name": "Char",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14835,7 +14935,7 @@
     "Name": "Needlespitter",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14845,7 +14945,7 @@
     "Name": "Oni Patrol",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14855,7 +14955,7 @@
     "Name": "Stonehewer",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14865,7 +14965,7 @@
     "Name": "Blurreechaser",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14875,7 +14975,7 @@
     "Name": "Cinder Sprite",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -14885,7 +14985,7 @@
     "Name": "Clodagh, Loyal Advisor",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14895,7 +14995,7 @@
     "Name": "Daring Maneuver",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 2.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14905,7 +15005,7 @@
     "Name": "Guns Blazing",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -14925,7 +15025,7 @@
     "Name": "Impatient Pyromage",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -14933,9 +15033,9 @@
     "SetNumber": 6,
     "EternalID": 14,
     "Name": "Incendiary Slagmite",
-    "Influence": "FF",
+    "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -14965,7 +15065,7 @@
     "Name": "Stronghold Vandal",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -14975,7 +15075,7 @@
     "Name": "Zuberi's Longbow",
     "Influence": "F",
     "Type": "Weapon",
-    "LimitedValue": 2,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -14985,7 +15085,7 @@
     "Name": "Call to Arms",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -14995,7 +15095,7 @@
     "Name": "Censari Dervish",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15005,7 +15105,7 @@
     "Name": "Coverfire Marksman",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15015,7 +15115,7 @@
     "Name": "Gold Mine",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15025,7 +15125,7 @@
     "Name": "Nimble Conscript",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15035,7 +15135,7 @@
     "Name": "Quake Titan",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 1.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15045,7 +15145,7 @@
     "Name": "Sizzleback Salamander",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15055,7 +15155,7 @@
     "Name": "Streets Aflame",
     "Influence": "F",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15065,7 +15165,7 @@
     "Name": "Tantrum",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15085,7 +15185,7 @@
     "Name": "Kaleb's Persuader",
     "Influence": "FF",
     "Type": "Weapon",
-    "LimitedValue": 3,
+    "LimitedValue": 4.1,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15105,7 +15205,7 @@
     "Name": "Mining Team",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15115,7 +15215,7 @@
     "Name": "Outlaw Ringleader",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15125,7 +15225,7 @@
     "Name": "Raging Firemaw",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15135,7 +15235,7 @@
     "Name": "Combustion Brawler",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15145,7 +15245,7 @@
     "Name": "Eclipse Dragon",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15155,7 +15255,7 @@
     "Name": "Ghodan, Undefeated",
     "Influence": "FFFFF",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 0.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15165,7 +15265,7 @@
     "Name": "Rallying Sergeant",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15175,7 +15275,7 @@
     "Name": "Waystone Elemental",
     "Influence": "F",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.7,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15185,7 +15285,7 @@
     "Name": "Blademaster Daimyo",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15205,7 +15305,7 @@
     "Name": "Outdraw",
     "Influence": "F",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15215,7 +15315,7 @@
     "Name": "Aspect of Destruction",
     "Influence": "FFF",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15225,7 +15325,7 @@
     "Name": "Brenn, Arch-Magister",
     "Influence": "FF",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15235,7 +15335,7 @@
     "Name": "Clan Barracks",
     "Influence": "F",
     "Type": "Relic",
-    "LimitedValue": 2,
+    "LimitedValue": 2.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15245,7 +15345,7 @@
     "Name": "Twinflame",
     "Influence": "FF",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15255,7 +15355,7 @@
     "Name": "Amber Coin",
     "Influence": "T",
     "Type": "Power",
-    "LimitedValue": 2,
+    "LimitedValue": 2.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15265,7 +15365,7 @@
     "Name": "Arcanum Elite",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15275,7 +15375,7 @@
     "Name": "Auralian Infestation",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15295,7 +15395,7 @@
     "Name": "Phase Out",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 0.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15305,7 +15405,7 @@
     "Name": "Potion of Alacrity",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15315,7 +15415,7 @@
     "Name": "Adolescent Deathjaw",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15325,7 +15425,7 @@
     "Name": "Burdenbearer Wisp",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15335,7 +15435,7 @@
     "Name": "Cryptic Master",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15345,7 +15445,7 @@
     "Name": "Devotee of the Sands",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15355,7 +15455,7 @@
     "Name": "Displaced Oryctodon",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15365,7 +15465,7 @@
     "Name": "Glimpse the Possibilities",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15375,7 +15475,7 @@
     "Name": "Sudden Stampede",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15385,7 +15485,7 @@
     "Name": "Wurm Bait",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 2,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15405,7 +15505,7 @@
     "Name": "Bulbous Humbug",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15425,7 +15525,7 @@
     "Name": "Expedition Leader",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15435,7 +15535,7 @@
     "Name": "Kimi, Expedition Guide",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15445,7 +15545,7 @@
     "Name": "Novice Entomancer",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15465,7 +15565,7 @@
     "Name": "Patience",
     "Influence": "T",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15475,7 +15575,7 @@
     "Name": "Perilous Research",
     "Influence": "TT",
     "Type": "Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15485,7 +15585,7 @@
     "Name": "Quicksilver Ooze",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15495,7 +15595,7 @@
     "Name": "Search Party",
     "Influence": "TT",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15505,7 +15605,7 @@
     "Name": "Stillweave Shroud",
     "Influence": "T",
     "Type": "Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15515,7 +15615,7 @@
     "Name": "Submerged Titan",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15525,7 +15625,7 @@
     "Name": "Swirl the Sands",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15545,7 +15645,7 @@
     "Name": "Tocas, Waystone Harvester",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 5,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15555,7 +15655,7 @@
     "Name": "Trickster Mage",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15565,7 +15665,7 @@
     "Name": "Ancient Clocktower",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 3,
+    "LimitedValue": 0.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15575,7 +15675,7 @@
     "Name": "Mute",
     "Influence": "T",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15585,7 +15685,7 @@
     "Name": "Sauropod Crasher",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15595,7 +15695,7 @@
     "Name": "Temporal Adept",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15605,7 +15705,7 @@
     "Name": "Corrupted Behemoth",
     "Influence": "T",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15615,7 +15715,7 @@
     "Name": "Horn of Plenty",
     "Influence": "T",
     "Type": "Relic",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15625,7 +15725,7 @@
     "Name": "Venomous Mount",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15635,7 +15735,7 @@
     "Name": "Xumucan, the Surveyor",
     "Influence": "TTTTT",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 0.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15645,7 +15745,7 @@
     "Name": "Locust Hatcher",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15655,7 +15755,7 @@
     "Name": "Refreshing Waters",
     "Influence": "TT",
     "Type": "Fast Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15675,7 +15775,7 @@
     "Name": "Enhanced Excavator",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15685,7 +15785,7 @@
     "Name": "Lumen Colossus",
     "Influence": "TT",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15705,7 +15805,7 @@
     "Name": "Emerald Coin",
     "Influence": "J",
     "Type": "Power",
-    "LimitedValue": 3,
+    "LimitedValue": 2.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15725,7 +15825,7 @@
     "Name": "Flash Grenade",
     "Influence": "J",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15735,7 +15835,7 @@
     "Name": "Headhunter",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15745,7 +15845,7 @@
     "Name": "Heist",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15755,7 +15855,7 @@
     "Name": "Warfront Missionary",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15765,7 +15865,7 @@
     "Name": "Isolate",
     "Influence": "J",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 2.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15775,7 +15875,7 @@
     "Name": "Kira, the Prodigy",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15785,7 +15885,7 @@
     "Name": "Pioneering Aviator",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15795,7 +15895,7 @@
     "Name": "Relentless Deadshot",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15805,7 +15905,7 @@
     "Name": "Reweave",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15815,7 +15915,7 @@
     "Name": "Silver Shortsword",
     "Influence": "J",
     "Type": "Relic Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15825,7 +15925,7 @@
     "Name": "Siraf, Grand Strategist",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 5,
+    "LimitedValue": 4.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15835,7 +15935,7 @@
     "Name": "Steadfast Paladin",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15865,7 +15965,7 @@
     "Name": "Auric Lookout",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15875,7 +15975,7 @@
     "Name": "Inner Might",
     "Influence": "JJ",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15885,7 +15985,7 @@
     "Name": "Kemmo's Blueprints",
     "Influence": "JJ",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15895,7 +15995,7 @@
     "Name": "Kosul Bladebarrier",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15905,7 +16005,7 @@
     "Name": "Pristine Light",
     "Influence": "JJ",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15915,7 +16015,7 @@
     "Name": "Retribution",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15925,7 +16025,7 @@
     "Name": "Righteous Intent",
     "Influence": "JJ",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15935,7 +16035,7 @@
     "Name": "Spellstrike Sorceress",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15945,7 +16045,7 @@
     "Name": "Tinker Ennervator",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -15955,7 +16055,7 @@
     "Name": "War Wagon",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -15965,7 +16065,7 @@
     "Name": "Copperhall Chancellor",
     "Influence": "JJJ",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 0.8,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -15975,7 +16075,7 @@
     "Name": "High Alert",
     "Influence": "J",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 2.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15985,7 +16085,7 @@
     "Name": "Kosul Curator",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -15995,7 +16095,7 @@
     "Name": "Minotaur Platemaker",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 4.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16005,7 +16105,7 @@
     "Name": "Reclaim",
     "Influence": "J",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16025,7 +16125,7 @@
     "Name": "Reinforcements",
     "Influence": "JJ",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16035,7 +16135,7 @@
     "Name": "Roosting Warhawk",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16045,7 +16145,7 @@
     "Name": "Sediti, the Killing Steel",
     "Influence": "JJJJJ",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 1.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16055,7 +16155,7 @@
     "Name": "Shieldcrafter",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16075,7 +16175,7 @@
     "Name": "Svetya's Sanctum",
     "Influence": "JJ",
     "Type": "Relic",
-    "LimitedValue": 3,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16085,7 +16185,7 @@
     "Name": "Twin Sai",
     "Influence": "JJ",
     "Type": "Relic Weapon",
-    "LimitedValue": 2,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16095,7 +16195,7 @@
     "Name": "Withstand",
     "Influence": "JJ",
     "Type": "Fast Spell",
-    "LimitedValue": 4,
+    "LimitedValue": 4.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16105,7 +16205,7 @@
     "Name": "Nikos, the Unifier",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16115,7 +16215,7 @@
     "Name": "Unseen Ghostblade",
     "Influence": "J",
     "Type": "Relic Weapon",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16125,7 +16225,7 @@
     "Name": "Valkyrie Accuser",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16135,7 +16235,7 @@
     "Name": "Xulta Loyalist",
     "Influence": "JJ",
     "Type": "Unit",
-    "LimitedValue": 5,
+    "LimitedValue": 4.6,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16145,7 +16245,7 @@
     "Name": "Secret Weapon",
     "Influence": "J",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16155,7 +16255,7 @@
     "Name": "Cobalt Coin",
     "Influence": "P",
     "Type": "Power",
-    "LimitedValue": 3,
+    "LimitedValue": 1.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16165,7 +16265,7 @@
     "Name": "Dinomancy Enthusiast",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.2,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16175,7 +16275,7 @@
     "Name": "Fend Off",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16185,7 +16285,7 @@
     "Name": "Furnish",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16195,7 +16295,7 @@
     "Name": "Good Idea at the Time",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16205,7 +16305,7 @@
     "Name": "Gustrider",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16215,7 +16315,7 @@
     "Name": "Spy Glass",
     "Influence": "P",
     "Type": "Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 3.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16225,7 +16325,7 @@
     "Name": "Swift Refusal",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16245,7 +16345,7 @@
     "Name": "Warning Jolt",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16255,7 +16355,7 @@
     "Name": "Yeti Bully",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16265,7 +16365,7 @@
     "Name": "Avalanche Yeti",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16275,7 +16375,7 @@
     "Name": "Belligerent Yeti",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16285,7 +16385,7 @@
     "Name": "Fledgling Owlet",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16295,7 +16395,7 @@
     "Name": "Fragility",
     "Influence": "P",
     "Type": "Curse",
-    "LimitedValue": 1,
+    "LimitedValue": 0.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16305,7 +16405,7 @@
     "Name": "Ice Bolt",
     "Influence": "P",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16325,7 +16425,7 @@
     "Name": "Re-read",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16335,7 +16435,7 @@
     "Name": "Royal Decree",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16345,7 +16445,7 @@
     "Name": "Camp Surveyor",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.4,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16355,7 +16455,7 @@
     "Name": "Crashing Avalanche",
     "Influence": "PP",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1.2,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16365,7 +16465,7 @@
     "Name": "Eilyn's Sanctum",
     "Influence": "PP",
     "Type": "Relic",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16375,7 +16475,7 @@
     "Name": "Frost Elemental",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16385,7 +16485,7 @@
     "Name": "Larai, the Appraiser",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 3.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16395,7 +16495,7 @@
     "Name": "Lightning Sprite",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 4.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16405,7 +16505,7 @@
     "Name": "Peaktop Trekker",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16415,7 +16515,7 @@
     "Name": "Thudrock's Masterwork",
     "Influence": "PP",
     "Type": "Site",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16425,7 +16525,7 @@
     "Name": "Yeti Instigator",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16435,7 +16535,7 @@
     "Name": "Aggressive Ursine",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16445,7 +16545,7 @@
     "Name": "Bam, Sneakeepeekee",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16455,7 +16555,7 @@
     "Name": "Death from Above",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16465,7 +16565,7 @@
     "Name": "Elder Meditant",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16485,7 +16585,7 @@
     "Name": "Lethrai Soothsayer",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 5,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16495,7 +16595,7 @@
     "Name": "Murderous Flock",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16505,7 +16605,7 @@
     "Name": "Ferocity of Bear",
     "Influence": "P",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16515,7 +16615,7 @@
     "Name": "Hold Under",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16525,7 +16625,7 @@
     "Name": "Keen Saddleback",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16535,7 +16635,7 @@
     "Name": "Mass Polymorph",
     "Influence": "PP",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16545,7 +16645,7 @@
     "Name": "Rost, the Walking Glacier",
     "Influence": "PPPPP",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 0.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16555,7 +16655,7 @@
     "Name": "Cloudsnake Matriarch",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16565,7 +16665,7 @@
     "Name": "Diving Pteriax",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.7,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16575,7 +16675,7 @@
     "Name": "Tamarys, Earthshaker",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 4.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16585,7 +16685,7 @@
     "Name": "Snowmass Jotun",
     "Influence": "P",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16595,7 +16695,7 @@
     "Name": "Terror on the Mountain",
     "Influence": "PP",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 2.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16605,7 +16705,7 @@
     "Name": "Amethyst Coin",
     "Influence": "S",
     "Type": "Power",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16615,7 +16715,7 @@
     "Name": "Bloodnurse",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.6,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16625,7 +16725,7 @@
     "Name": "Boot Knife",
     "Influence": "S",
     "Type": "Relic Weapon",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16635,7 +16735,7 @@
     "Name": "Muck Crawler",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16645,7 +16745,7 @@
     "Name": "Remembrance",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 0.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16655,7 +16755,7 @@
     "Name": "Spiteful Strike",
     "Influence": "S",
     "Type": "Fast Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16685,7 +16785,7 @@
     "Name": "Angry Prophet",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16695,7 +16795,7 @@
     "Name": "Auric Reclaimer",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16705,7 +16805,7 @@
     "Name": "Cabal Repeater",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16715,7 +16815,7 @@
     "Name": "Illicit Armament",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16725,7 +16825,7 @@
     "Name": "Olly, Maniacal Graverobber",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16735,7 +16835,7 @@
     "Name": "Stained Honor",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 1.7,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16745,7 +16845,7 @@
     "Name": "Unchecked Aggression",
     "Influence": "S",
     "Type": "Fast Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 0.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16765,7 +16865,7 @@
     "Name": "Crooked Alleyguide",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16775,7 +16875,7 @@
     "Name": "Darkweave Enchantress",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16785,7 +16885,7 @@
     "Name": "Death Ripple",
     "Influence": "S",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16795,7 +16895,7 @@
     "Name": "Gorgon Cutthroat",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.5,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16805,7 +16905,7 @@
     "Name": "Lethrai Direbeast",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16815,7 +16915,7 @@
     "Name": "Livia, Hexweaver",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16825,7 +16925,7 @@
     "Name": "Sinister Design",
     "Influence": "SS",
     "Type": "Fast Spell",
-    "LimitedValue": 0,
+    "LimitedValue": 1.7,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16835,7 +16935,7 @@
     "Name": "Vishni, Lethrai Highblood",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 4,
+    "LimitedValue": 4.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16845,7 +16945,7 @@
     "Name": "Bandit's Flail",
     "Influence": "S",
     "Type": "Relic Weapon",
-    "LimitedValue": 2,
+    "LimitedValue": 2.2,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16855,7 +16955,7 @@
     "Name": "Dizo's Racket",
     "Influence": "SS",
     "Type": "Relic",
-    "LimitedValue": 0,
+    "LimitedValue": 0.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16865,7 +16965,7 @@
     "Name": "Heartstopper",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16875,7 +16975,7 @@
     "Name": "Malediction",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16885,7 +16985,7 @@
     "Name": "Nullblade",
     "Influence": "SSS",
     "Type": "Relic Weapon",
-    "LimitedValue": 3,
+    "LimitedValue": 2.3,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16895,7 +16995,7 @@
     "Name": "Razorquill",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16905,7 +17005,7 @@
     "Name": "Umbren Voidbringer",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.6,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16915,7 +17015,7 @@
     "Name": "Withering Touch",
     "Influence": "S",
     "Type": "Fast Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 3.4,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16925,7 +17025,7 @@
     "Name": "Eviscerate",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 3,
+    "LimitedValue": 3.3,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16935,7 +17035,7 @@
     "Name": "Fallen Militiaman",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.1,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16945,7 +17045,7 @@
     "Name": "Scarecrow",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 3.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -16955,7 +17055,7 @@
     "Name": "Stonescar Outfitter",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 2.9,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -16965,7 +17065,7 @@
     "Name": "Tasbu, the Forbidden",
     "Influence": "SSSSS",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 0.4,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -16985,7 +17085,7 @@
     "Name": "Wretched Talon",
     "Influence": "SS",
     "Type": "Relic Weapon",
-    "LimitedValue": 3,
+    "LimitedValue": 3.8,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -16995,7 +17095,7 @@
     "Name": "Hostile Takeover",
     "Influence": "SS",
     "Type": "Curse",
-    "LimitedValue": 4,
+    "LimitedValue": 3.8,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17005,7 +17105,7 @@
     "Name": "Hunting Anoura",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 2.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -17015,7 +17115,7 @@
     "Name": "Inevitable Horror",
     "Influence": "SS",
     "Type": "Unit",
-    "LimitedValue": 3,
+    "LimitedValue": 4.5,
     "Rarity": "Legendary",
     "DeckBuildable": true
   },
@@ -17025,7 +17125,7 @@
     "Name": "Vara's Sanctum",
     "Influence": "SS",
     "Type": "Relic",
-    "LimitedValue": 3,
+    "LimitedValue": 2.1,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17035,7 +17135,7 @@
     "Name": "Winnow",
     "Influence": "SS",
     "Type": "Spell",
-    "LimitedValue": 1,
+    "LimitedValue": 1.1,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -17045,7 +17145,7 @@
     "Name": "Direwood Lurker",
     "Influence": "S",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 1.8,
     "Rarity": "Common",
     "DeckBuildable": true
   },
@@ -17055,7 +17155,7 @@
     "Name": "Praxis Insignia",
     "Influence": "FT",
     "Type": "Power",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -17065,7 +17165,7 @@
     "Name": "East Annex Smuggler",
     "Influence": "FT",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17075,7 +17175,7 @@
     "Name": "Stonescar Insignia",
     "Influence": "FS",
     "Type": "Power",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -17085,7 +17185,7 @@
     "Name": "Cen Wastes Smuggler",
     "Influence": "FS",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17095,7 +17195,7 @@
     "Name": "Combrei Insignia",
     "Influence": "TJ",
     "Type": "Power",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -17105,7 +17205,7 @@
     "Name": "Pearl Abbey Smuggler",
     "Influence": "TJ",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17115,7 +17215,7 @@
     "Name": "Hooru Insignia",
     "Influence": "JP",
     "Type": "Power",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -17125,7 +17225,7 @@
     "Name": "Rime Conclave Smuggler",
     "Influence": "JP",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 3.4,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17135,7 +17235,7 @@
     "Name": "Feln Insignia",
     "Influence": "PS",
     "Type": "Power",
-    "LimitedValue": 2.5,
+    "LimitedValue": 2.3,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   },
@@ -17145,7 +17245,7 @@
     "Name": "Blight Pass Smuggler",
     "Influence": "PS",
     "Type": "Unit",
-    "LimitedValue": 1,
+    "LimitedValue": 3.5,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17155,7 +17255,7 @@
     "Name": "Seal of Devotion",
     "Influence": "",
     "Type": "Power",
-    "LimitedValue": 1,
+    "LimitedValue": 0,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17165,7 +17265,7 @@
     "Name": "Evenhanded Golem",
     "Influence": "",
     "Type": "Unit",
-    "LimitedValue": 2,
+    "LimitedValue": 1.6,
     "Rarity": "Rare",
     "DeckBuildable": true
   },
@@ -17175,7 +17275,7 @@
     "Name": "Seek Answers",
     "Influence": "",
     "Type": "Spell",
-    "LimitedValue": 2,
+    "LimitedValue": 1.9,
     "Rarity": "Uncommon",
     "DeckBuildable": true
   }
