@@ -81,11 +81,7 @@ had before.
 <input type="button" value="Sort" onclick="sort()"></input>
 
 
-<strong>This tool currently uses Sunyveil's draft tier list values for Dark Frontier cards. Because
-older TDC tier lists contribute values for cards not in Dark Frontier, reasoning about values could
-be somewhat inconsistent and that should be taken into account as you evaluate your pool.
-
-This tool will be updated to use the TDC tier list if and when it becomes available.</strong>
+<strong>16Jun2019 - This tool now uses the latest TDC tier list for Dark Frontier.</strong>
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
