@@ -81,7 +81,7 @@ had before.
 <input type="button" value="Sort" onclick="sort()"></input>
 
 
-<strong>16Jun2019 - This tool now uses the latest TDC tier list for Dark Frontier.</strong>
+<strong>12Nov2019 - This tool now uses the latest TDC tier list for Flame of Xulta.</strong>
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
