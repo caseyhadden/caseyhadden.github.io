@@ -85,7 +85,7 @@ had before.
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
-<h4>Sorted pool <input type="button" value="Toggle details" onclick="toggleExtra()"></input></h4>
+<h4>Sorted pool <input type="button" value="Toggle details" onclick="toggleExtra()"></input> <input type="button" value="Export sorted pool" onclick="exportSortedPool()"></input></h4>
 
 <div id="result">
 </div>
@@ -109,7 +109,7 @@ $.getJSON("/eternal/cards-and-values.json", function(data) {
     })
 })
 
-var monoChart, dualChart
+var monoChart, dualChart, sortedList
 
 function sort() {
     $("#result").empty()
@@ -135,6 +135,7 @@ function sort() {
 
     valuedPool = []
     notFoundPool = []
+    sortedList = ""
     $.each(pool, function(index, value) {
         card = findCard(value)
         if (!$.isEmptyObject(card)) {
@@ -235,12 +236,13 @@ function sort() {
         influenceDiff = cardInfluence.filter(x => !requestedInfluence.includes(x))
         influenceString = cardInfluence.join("")
         if (value.LimitedValue >= threshold && influenceDiff.length == 0) {
-            output = "1 " + value.Name + " (Set" + value.SetNumber + " #" + value.EternalID + ")"
+            exportText = "1 " + value.Name + " (Set" + value.SetNumber + " #" + value.EternalID + ")"
             if (value.LimitedValue >= 4.0) {
-                output = "<strong>" + output + "</strong>"
+                output = "<strong>" + exportText + "</strong>"
             } else if (value.LimitedValue >= 3.0) {
-                output = "<em>" + output + "</em>"
+                output = "<em>" + exportText + "</em>"
             }
+            sortedList += exportText + "\n"
             tableContent += "<tr>"
             tableContent += "<td class='card_data'>" + output + "</td>"
             tableContent += "<td style='padding-left: 10px' class='influence_data'>" + value.Influence + "</td>"
@@ -822,6 +824,15 @@ function sort() {
     })
 }
 
+function exportSortedPool() {
+    var aux = document.createElement("textarea")
+    aux.value = sortedList
+    document.body.appendChild(aux)
+    aux.select()
+    document.execCommand("copy")
+    document.body.removeChild(aux)
+}
+
 function updateCounts(item, value) {
     switch (value.Type) {
       case "Unit":
@@ -948,4 +959,3 @@ function substr(str,i,j){
 }
 
 </script>
-
