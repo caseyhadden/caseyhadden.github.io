@@ -85,7 +85,7 @@ had before.
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
-<h4>Sorted pool <input type="button" value="Toggle details" onclick="toggleExtra()"></input> <input type="button" value="Export sorted pool" onclick="exportSortedPool()"></input></h4>
+<h4>Sorted pool <input type="button" value="Toggle influence details" onclick="toggleExtra()"></input> <input type="button" value="Export sorted pool" onclick="exportSortedPool()"></input></h4>
 
 <div id="result">
 </div>
