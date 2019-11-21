@@ -241,6 +241,8 @@ function sort() {
                 output = "<strong>" + exportText + "</strong>"
             } else if (value.LimitedValue >= 3.0) {
                 output = "<em>" + exportText + "</em>"
+            } else {
+                output = exportText
             }
             sortedList += exportText + "\n"
             tableContent += "<tr>"
