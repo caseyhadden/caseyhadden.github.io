@@ -81,7 +81,7 @@ had before.
 <input type="button" value="Sort" onclick="sort()"></input>
 
 
-<strong>28Feb2020 - This tool now uses a set of [community ratings](https://www.reddit.com/r/EternalCardGame/comments/f940ey/echoes_of_eternity_community_draft_set_review/) for the Echoes of Eternity set cards. If TDC makes a draft tier list available for EoE, this tool will be updated at that time.</strong>
+<strong>06Apr - This tool now uses the latest TDC tier list for Echoes of Eternity.</strong>
 
 <textarea cols="60" rows="20" id="pool"></textarea>
 
