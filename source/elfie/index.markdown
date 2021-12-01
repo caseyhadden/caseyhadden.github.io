@@ -1,8 +1,26 @@
 ---
 layout: page
-title: "Goodbye and see you next year!"
+title: "Bad News everybody!"
 date: 2015-12-24 22:03
 ---
+
+### Bad News everybody! The post office here at the North Pole has been completely swamped!
+
+I've been called in as an emergency helper to make sure everything gets done on time. I had
+to send my girlfriend this year instead. If everything works out and the post office breaks
+just right, she should get there sometime this week. I'm so sorry as I really look forward to
+messing up your house every year. Don't worry though, I shared some of my best ideas with
+her before she left!
+
+Merry Christmas!
+
+Here's one of my old favorites:
+
+{%img http://localhost:4000/images/elf-pinball.jpeg %}
+
+Elfie
+
+#### Goodbye and see you next year!
 
 I used your Daddy's computer to make my own web page. This seems like a
 fun place to explore when I come back next year!
