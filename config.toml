@@ -2,6 +2,8 @@ baseURL = 'https://caseyhadden.com/'
 languageCode = 'en-us'
 title = '/dev/blog/caseyhadden'
 
+copyright = '&copy; 2022 <a href="https://hachyderm.io/@caseyhadden" rel=me">Casey Hadden</a>'
+
 theme = "terminal"
 
 [params]
@@ -13,7 +15,7 @@ theme = "terminal"
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -52,3 +54,25 @@ theme = "terminal"
   # set title for the table of contents
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
+
+[languages]
+  [languages.en]
+    languageName = "English"
+
+    [languages.en.params.logo]
+      logoText = "/dev/blog/caseyhadden"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/caseyhadden"
+      [[languages.en.menu.main]]
+        identifier = "mastodon"
+        name = "Mastodon"
+        url = "https://hachyderm.io/@caseyhadden"
+      [[languages.en.menu.main]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/caseyhadden"
