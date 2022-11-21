@@ -2,7 +2,7 @@ baseURL = 'https://caseyhadden.com/'
 languageCode = 'en-us'
 title = '/dev/blog/caseyhadden'
 
-copyright = '&copy; 2022 <a href="https://hachyderm.io/@caseyhadden" rel=me">Casey Hadden</a>'
+copyright = '&copy; 2022 <a rel="me" href="https://hachyderm.io/@caseyhadden">Casey Hadden</a>'
 
 theme = "terminal"
 
