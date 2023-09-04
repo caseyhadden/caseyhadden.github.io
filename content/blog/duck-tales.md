@@ -6,7 +6,7 @@ slug = "2016/01/29/duck-tales/"
 
 Meet Jasper.
 
-{{< image src="/images/jasper.png" alt="Jasper, a cayuga drake - black with shiny green highlights" position="left" style="border-radius: 8px;" >}}
+{{< figure src="/images/jasper.png" alt="Jasper, a cayuga drake - black with shiny green highlights" position="left" style="border-radius: 8px;" >}}
 
 Jasper lives at my house with 9 of his friends. However, Jasper has a problem - there are
 only 6 hens versus 4 drakes. It's unfortunate, but that ratio doesn't work. You want a
